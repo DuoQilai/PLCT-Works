@@ -8,4 +8,4 @@
 
 ## RISC-V short video项目调研
 
-[PLCT-Works/RISC-V short video/调研文档/RISC-V教学内容初步调研.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V short video/调研文档/RISC-V教学内容初步调研.md)
+https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V%20short%20video/%E8%B0%83%E7%A0%94%E6%96%87%E6%A1%A3/RISC-V%E6%95%99%E5%AD%A6%E5%86%85%E5%AE%B9%E5%88%9D%E6%AD%A5%E8%B0%83%E7%A0%94.md
