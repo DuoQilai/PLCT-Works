@@ -12,7 +12,7 @@
 
 硬件连接的方法
 
-![](D:\PLCT-Works\Notes\images\camera1.png)
+![](./images/camera1.png)
 
 ## USBnet设置
 
@@ -22,57 +22,57 @@
 
 2."RNDIS" 设备出现在设备管理器中。
 
-![rndis-step1](D:\PLCT-Works\Notes\images\camera3.png)
+![](./images/camera3.png)
 
 3.选择 "RNDIS "并右键单击以更新驱动程序。
 
-![rndis-step2](D:\PLCT-Works\Notes\images\camera4.png)
+![](./images/camera4.png)
 
 4.选择 "Browse my computer for drivers"
 
-![rndis-step3](D:\PLCT-Works\Notes\images\camera5.png)
+![](./images/camera5.png)
 
 5.选择 "Let me pick from a list of available drivers on my computer"
 
-![rndis-step4](D:\PLCT-Works\Notes\images\camera6.png)
+![](./images/camera6.png)
 
 6.选择 "Network adapters"
 
-![rndis-step5](D:\PLCT-Works\Notes\images\camera7.png)
+![](./images/camera7.png)
 
 7.Manufacturer/Model: Microsoft/USB RNDIS Adapter
 
-![rndis-step6](D:\PLCT-Works\Notes\images\camera8.png)
+![](./images/camera8.png)
 
 8.忽略警告信息
 
-![rndis-step7](D:\PLCT-Works\Notes\images\camera9.png)
+![](./images/camera9.png)
 
 9.驱动程序更新成功
 
-![rndis-step8](D:\PLCT-Works\Notes\images\camera10.png)
+![](./images/camera10.png)
 
 10.检查 "USB RNDIS Adapter"
 
-![rndis-step9](D:\PLCT-Works\Notes\images\camera11.png)
+![](./images/camera11.png)
 
 11.找到IP并使用ping来测试网络
 
-![rndis-step10](D:\PLCT-Works\Notes\images\camera12.png)
+![](./images/camera12.png)
 
 ## SSH
 
 1.打开终端，输入 **ssh root@192.168.42.1**, 并回答是
 
-![rndis-ssh1](D:\PLCT-Works\Notes\images\camera13.png)
+![](./images/camera13.png)
 
 2.输入密码 **milkv** (密码将不显示在屏幕上)
 
-![rndis-ssh2](D:\PLCT-Works\Notes\images\camera14.png)
+![](./images/camera14.png)
 
 3.登陆成功
 
-![rndis-ssh3](D:\PLCT-Works\Notes\images\camera15.png)
+![](./images/camera15.png)
 
 ## 软件测试
 
@@ -133,11 +133,11 @@ rtsp://192.168.42.1/h264
 
 点开左下角的 `显示更多选项`，可以设置 `缓存` 的值来调整延时，默认是1000毫秒，也就是1秒。网络环境较好时比如在局域网内，可以将其调低来降低延迟，可以设置为100到300。如果网络环境较差或者画面出现卡顿时，可以尝试将其调高。
 
-![Document Pictures](D:\PLCT-Works\Notes\images\camera16.png)
+![](./images/camera16.png)
 
 再点”播放“，就可以看到摄像头推流的画面了：
 
-![](D:\PLCT-Works\Notes\images\camera2.png)
+![](./images/camera2.png)
 
 此时用摄像头对准人脸，Duo 终端中会打印摄像头实时检测到的人脸个数：
 
