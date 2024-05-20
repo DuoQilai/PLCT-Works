@@ -10,4 +10,4 @@
 
 [PLCT-Works/Notes/科学日 at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/tree/main/Notes/科学日)
 
-包括ppt 使用手册等
+包括ppt 使用手册 工具 视频等
