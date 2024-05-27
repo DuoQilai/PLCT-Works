@@ -1,3 +1,7 @@
+---
+typora-root-url: ..\images
+---
+
 # 运行故事机baby llama
 
 1.安装运行依赖包
