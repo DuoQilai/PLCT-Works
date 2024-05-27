@@ -10,7 +10,7 @@
 
 ## Duo S 运行故事机
 
-[PLCT-Works/Milk-v duo/Duo S/运行故事机baby llama.md at main · DuoQilai/PLCT-Works (github.com)]([PLCT-Works/Milk-v duo/Duo S/运行故事机baby llama.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-v duo/Duo S/运行故事机baby llama.md))
+[PLCT-Works/Milk-v duo/Duo S/运行故事机baby llama.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-v%20duo/Duo%20S/%E8%BF%90%E8%A1%8C%E6%95%85%E4%BA%8B%E6%9C%BAbaby%20llama.md)
 
 测试需要的配件：SPI显示屏、麦克风、音频输出正在采购中
 我在我的duos上跑了一下发现缺少stable_demo这个文件，已反馈作者。等配件到齐继续试试
