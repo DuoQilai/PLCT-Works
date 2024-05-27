@@ -4,7 +4,7 @@
 
 ## Duo S启动
 
-[PLCT-Works/Milk-v duo/Duo S/Duo S 启动.md at main · DuoQilai/PLCT-Works (github.com)]([PLCT-Works/Milk-v duo/Duo S/Duo S 启动.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-v duo/Duo S/Duo S 启动.md))
+[PLCT-Works/Milk-v duo/Duo S/Duo S 启动.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-v%20duo/Duo%20S/Duo%20S%20%E5%90%AF%E5%8A%A8.md)
 
 启动Duo S
 
