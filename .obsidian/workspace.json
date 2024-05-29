@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
               }
             }
           }
@@ -147,15 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbe17f65e26d930e",
+  "active": "8bcf3e136456655b",
   "lastOpenFiles": [
-    "Milk-V/images/setup3.png",
-    "Milk-V/images/setup2.png",
-    "Milk-V/images/setup1.png",
-    "Milk-V/images/llama2.png",
-    "Milk-V/images/llama1.png",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
+    "images/camera16.png",
+    "images/camera15.png",
+    "images/camera14.png",
+    "images/camera13.png",
+    "images/camera12.png",
+    "images/camera11.png",
+    "images/camera10.png",
+    "images/camera9.png",
+    "images/camera8.png",
+    "images/camera7.png",
+    "images",
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "Monthly/2024-04/weekly/week1.md",
+    "README.md",
     "Milk-V/images",
     "Milk-V/DuoS",
     "Milk-V",
@@ -174,8 +181,6 @@
     "Milk-V Duo/DuoS/Report_DuoS_Setup.md",
     "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md",
     "Notes/在Milk-V Duo 实现人脸检测使用说明.md",
-    "Notes/ScienceDay/README.md",
-    "Milk-V Duo/images/llama2.png",
-    "Milk-V Duo/images/llama1.png"
+    "Notes/ScienceDay/README.md"
   ]
 }

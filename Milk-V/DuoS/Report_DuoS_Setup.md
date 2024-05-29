@@ -6,7 +6,7 @@
 
 3.打开ssh工具，输入duo默认地址**192.168.42.1**
 
-![](images/setup1.png)
+![](setup1.png)
 
 4.输入root
 
