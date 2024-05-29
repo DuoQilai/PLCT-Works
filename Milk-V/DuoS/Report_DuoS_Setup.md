@@ -6,14 +6,12 @@
 
 3.打开ssh工具，输入duo默认地址**192.168.42.1**
 
-![[Pasted image 20240529164934.png]]
-
-![](setup1.png)
+![](../images/setup1.png)
 
 4.输入root
 
-![](setup2.png)
+![](../images/setup2.png)
 
 5.成功进入
 
-![](setup3.png)
+![](../images/setup3.png)

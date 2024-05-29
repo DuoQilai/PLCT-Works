@@ -13,6 +13,6 @@ python asr_chat-llama-baby.py
 # 在输出Wait for key press后，通过按键输入语音（按住即开始语音输入，松开即结束语音输入）
 ```
 
-![](llama1.png)
+![](../images/llama1.png)
 
-![](llama2.png)
+![](../images/llama2.png)
