@@ -12,7 +12,7 @@
 
 硬件连接的方法
 
-![](./images/camera1.png)
+![](Notes/ScienceDay/images/camera1.png)
 
 ## USBnet设置
 
@@ -22,57 +22,57 @@
 
 2."RNDIS" 设备出现在设备管理器中。
 
-![](./images/camera3.png)
+![](Notes/ScienceDay/images/camera3.png)
 
 3.选择 "RNDIS "并右键单击以更新驱动程序。
 
-![](./images/camera4.png)
+![](Notes/ScienceDay/images/camera4.png)
 
 4.选择 "Browse my computer for drivers"
 
-![](./images/camera5.png)
+![](Notes/ScienceDay/images/camera5.png)
 
 5.选择 "Let me pick from a list of available drivers on my computer"
 
-![](./images/camera6.png)
+![](Notes/ScienceDay/images/camera6.png)
 
 6.选择 "Network adapters"
 
-![](./images/camera7.png)
+![](Notes/ScienceDay/images/camera7.png)
 
 7.Manufacturer/Model: Microsoft/USB RNDIS Adapter
 
-![](./images/camera8.png)
+![](Notes/ScienceDay/images/camera8.png)
 
 8.忽略警告信息
 
-![](./images/camera9.png)
+![](Notes/ScienceDay/images/camera9.png)
 
 9.驱动程序更新成功
 
-![](./images/camera10.png)
+![](Notes/ScienceDay/images/camera10.png)
 
 10.检查 "USB RNDIS Adapter"
 
-![](./images/camera11.png)
+![](Notes/ScienceDay/images/camera11.png)
 
 11.找到IP并使用ping来测试网络
 
-![](./images/camera12.png)
+![](Notes/ScienceDay/images/camera12.png)
 
 ## SSH
 
 1.打开终端，输入 **ssh root@192.168.42.1**, 并回答是
 
-![](./images/camera13.png)
+![](Notes/ScienceDay/images/camera13.png)
 
 2.输入密码 **milkv** (密码将不显示在屏幕上)
 
-![](./images/camera14.png)
+![](Notes/ScienceDay/images/camera14.png)
 
 3.登陆成功
 
-![](./images/camera15.png)
+![](Notes/ScienceDay/images/camera15.png)
 
 ## 软件测试
 
@@ -139,11 +139,11 @@ rtsp://192.168.42.1/h264
 
 点开左下角的 `显示更多选项`，可以设置 `缓存` 的值来调整延时，默认是1000毫秒，也就是1秒。网络环境较好时比如在局域网内，可以将其调低来降低延迟，可以设置为100到300。如果网络环境较差或者画面出现卡顿时，可以尝试将其调高。
 
-![](./images/camera16.png)
+![](Notes/ScienceDay/images/camera16.png)
 
 再点”播放“，就可以看到摄像头推流的画面了：
 
-![](./images/camera2.png)
+![](Notes/ScienceDay/images/camera2.png)
 
 此时用摄像头对准人脸，Duo 终端中会打印摄像头实时检测到的人脸个数：
 

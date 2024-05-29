@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "e9c71cbdcc177f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd82267bd2ec83ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bcf3e136456655b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71c3c2bd498462e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1f43f04981816c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe17f65e26d930e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d781e4dfaaf529c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6623154765e8b78c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b5650c717da77ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "e108fa82d1dfc0db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acb7bdf9208431a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a2f58d352c73be11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd9ed548d47cca37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a6ebb4929dfafd0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8bcf3e136456655b",
+  "lastOpenFiles": [
+    "RISC-V_short_video/Job_Description.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/实习生技术报告面试题目.md",
+    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
+    "Notes/Reimbursement.md",
+    "Notes/ScienceDay/Duo_FaceDetection.md",
+    "Notes/RISC-V教学内容.md",
+    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
+    "Notes/Weekly_meetings.md",
+    "Milk-V Duo/DuoS/Report_DuoS_Setup.md",
+    "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md",
+    "Notes/在Milk-V Duo 实现人脸检测使用说明.md",
+    "Notes/ScienceDay/README.md",
+    "Milk-V Duo/images/llama2.png",
+    "Milk-V Duo/images/llama1.png"
+  ]
+}
