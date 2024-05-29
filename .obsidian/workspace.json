@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd82267bd2ec83ea",
+        "id": "92afcc6ad8b66aad",
         "type": "tabs",
         "children": [
           {
-            "id": "8bcf3e136456655b",
+            "id": "62cf659046cd781b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ScienceDay/Duo_FaceDetection.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/ScienceDay/Duo_FaceDetection.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/ScienceDay/Duo_FaceDetection.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ScienceDay/Duo_FaceDetection.md"
+                "file": "RISC-V_short_video/Intern_Report_Title.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8bcf3e136456655b",
+  "active": "62cf659046cd781b",
   "lastOpenFiles": [
+    "Notes/ScienceDay/Duo_FaceDetection.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "images/Pasted image 20240529164934.png",
@@ -168,13 +169,12 @@
     "Milk-V",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/实习生技术报告面试题目.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "Notes/Reimbursement.md",
-    "Notes/ScienceDay/Duo_FaceDetection.md",
     "Notes/RISC-V教学内容.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Notes/Weekly_meetings.md",
