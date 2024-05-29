@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
+                "file": "Milk-V/DuoS/Report_DuoS_Setup.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "8bcf3e136456655b",
   "lastOpenFiles": [
+    "images/Pasted image 20240529164934.png",
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "images/camera16.png",
     "images/camera15.png",
@@ -160,7 +162,6 @@
     "images/camera8.png",
     "images/camera7.png",
     "images",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Monthly/2024-04/weekly/week1.md",
     "README.md",
     "Milk-V/images",
