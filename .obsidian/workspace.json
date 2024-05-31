@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62cf659046cd781b",
+            "id": "6866b4f98d3f1fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Monthly/2024-05/Month2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Monthly/2024-05/Month2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Monthly/2024-05/Month2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md"
+                "file": "Monthly/2024-05/Month2.md"
               }
             }
           }
@@ -146,10 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62cf659046cd781b",
+  "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
-    "Notes/ScienceDay/Duo_FaceDetection.md",
+    "Monthly/2024-05/Weekly/Week3.md",
+    "Monthly/2024-05/Month2.md",
+    "Monthly/2024-05/Weekly/Week2.md",
+    "Monthly/2024-05/Weekly/Week1.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "未命名.canvas",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "Notes/ScienceDay/Duo_FaceDetection.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "images/Pasted image 20240529164934.png",
     "images/camera16.png",
@@ -169,7 +175,6 @@
     "Milk-V",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
