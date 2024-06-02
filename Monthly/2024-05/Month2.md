@@ -5,17 +5,19 @@
 ## 1.Milk-V Duo教学视频
 ### 【Milk-V Duo】在Duo 上运行ThreadX视频教程
 
-[【Milk-V Duo】在Duo 上运行ThreadX_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yi421C7SK/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+[【Milk-V Duo】在Duo 上运行ThreadX_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yi421C7SK)
 ### 【Milk-V Duo】引脚复用配置方法
 
 [【Milk-V Duo】引脚复用配置方法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nH4y1u7zX/)
-## 2.Milk-V Duo S验证文档
-### Duo S启动
+## 2.Milk-V Duo S
+### Duo S启动文档
 
 [PLCT-Works/Milk-V/DuoS/Report_DuoS_Setup.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS_Setup.md)
 
-启动Duo S
-### Duo S 运行故事机
+### 【Milk-V Duo S】Duo S 启动！视频
+
+[【Milk-V Duo】Duo S 启动！哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bm421N72y/)
+### Duo S 运行故事机文档
 
 [PLCT-Works/Milk-V/DuoS/Report_DuoS__babyllama2.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS__babyllama2.md)
 

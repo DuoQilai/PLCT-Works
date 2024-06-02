@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "大纲",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,18 +97,6 @@
             }
           },
           {
-            "id": "a2f58d352c73be11",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Monthly/2024-05/Month2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "fd9ed548d47cca37",
             "type": "leaf",
             "state": {
@@ -128,13 +116,24 @@
                 "file": "Monthly/2024-05/Month2.md"
               }
             }
+          },
+          {
+            "id": "2872f8f2e639c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Monthly/2024-05/Month2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +147,9 @@
   },
   "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
-    "Notes/K230d.md",
+    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Monthly/2024-05/Month2.md",
+    "Notes/K230d.md",
     "Monthly/2024-05/Weekly/Week3.md",
     "Monthly/2024-05/Weekly/Week2.md",
     "Monthly/2024-05/Weekly/Week1.md",
@@ -184,7 +184,6 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "Notes/Reimbursement.md",
     "Notes/RISC-V教学内容.md",
-    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Notes/Weekly_meetings.md",
     "Milk-V Duo/DuoS/Report_DuoS_Setup.md",
     "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md",
