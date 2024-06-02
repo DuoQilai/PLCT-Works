@@ -8,6 +8,6 @@
 
 ## 科学日人脸检测项目素材
 
-[PLCT-Works/Notes/科学日 at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/tree/main/Notes/科学日)
+[PLCT-Works/Notes/ScienceDay at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/tree/main/Notes/ScienceDay)
 
 包括ppt 使用手册 工具 视频等
