@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-05/Month2.md",
+                "file": "Monthly/2024-05/Weekly/Week4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-05/Month2.md",
+                "file": "Monthly/2024-05/Weekly/Week4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-05/Month2.md"
+                "file": "Monthly/2024-05/Weekly/Week4.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-05/Month2.md",
+                "file": "Monthly/2024-05/Weekly/Week4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,8 +147,9 @@
   },
   "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
-    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Monthly/2024-05/Month2.md",
+    "Monthly/2024-05/Weekly/Week4.md",
+    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Notes/K230d.md",
     "Monthly/2024-05/Weekly/Week3.md",
     "Monthly/2024-05/Weekly/Week2.md",
@@ -186,7 +187,6 @@
     "Notes/RISC-V教学内容.md",
     "Notes/Weekly_meetings.md",
     "Milk-V Duo/DuoS/Report_DuoS_Setup.md",
-    "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md",
-    "Notes/在Milk-V Duo 实现人脸检测使用说明.md"
+    "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md"
   ]
 }
