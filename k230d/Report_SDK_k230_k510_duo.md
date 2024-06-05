@@ -118,7 +118,6 @@ k230_sdk
 ### k510
 [PLCT-Works/k230d/k510tree.txt at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/k510tree.txt)
 ### duo
-
 [PLCT-Works/k230d/duotree.txt at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/duotree.txt)
 ## 参考文档：
 - [kendryte/k230_sdk: Kendryte K230 SDK (github.com)](https://github.com/kendryte/k230_sdk)

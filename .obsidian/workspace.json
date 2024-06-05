@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-05/Weekly/Week4.md",
+                "file": "k230d/Report_SDK_k230_k510_duo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-05/Weekly/Week4.md",
+                "file": "k230d/Report_SDK_k230_k510_duo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-05/Weekly/Week4.md"
+                "file": "k230d/Report_SDK_k230_k510_duo.md"
               }
             }
           },
@@ -123,13 +123,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-05/Weekly/Week4.md",
+                "file": "k230d/Report_SDK_k230_k510_duo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,8 +148,14 @@
   },
   "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
-    "Monthly/2024-05/Month2.md",
+    "k230d/duotree.txt",
+    "k230d/k510tree.txt",
+    "k230d/k230tree.txt",
+    "k230d/tree.txt",
     "Monthly/2024-05/Weekly/Week4.md",
+    "k230d/Report_SDK_k230_k510_duo.md",
+    "k230d",
+    "Monthly/2024-05/Month2.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Notes/K230d.md",
     "Monthly/2024-05/Weekly/Week3.md",
@@ -185,8 +192,6 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "Notes/Reimbursement.md",
     "Notes/RISC-V教学内容.md",
-    "Notes/Weekly_meetings.md",
-    "Milk-V Duo/DuoS/Report_DuoS_Setup.md",
-    "Milk-V Duo/DuoS/Report_DuoS__babyllama2.md"
+    "Notes/Weekly_meetings.md"
   ]
 }
