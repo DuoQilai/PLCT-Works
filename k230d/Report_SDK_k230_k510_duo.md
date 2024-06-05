@@ -15,47 +15,6 @@
 | tools   | gen_image_cfg      | 镜像分区配置文件       |
 | tools   | tuning-tool-client | PC端图像调试工具      |
 
-k230_sdk
-├── configs
-│   ├── k230_evb_defconfig
-│   └── k230_evb_usiplpddr4_defconfig
-│   └── k230d_defconfig
-├── Kconfig
-├── LICENSE
-├── Makefile
-├── parse.mak
-├── README.md
-├── repo.mak
-├── src
-│   ├── big
-│   │   ├── mpp
-│   │   ├── rt-smart
-│   │   └── unittest
-│   ├── common
-│   │   ├── cdk
-│   │   └── opensbi
-│   ├── little
-│   │   ├── buildroot-ext
-│   │   ├── linux
-│   │   └── uboot
-│   └── reference
-│       ├── ai_poc
-│       ├── business_poc
-│       └── fancy_poc
-├── board
-│   ├── common
-│   │   ├── env
-│   │   └── gen_image_cfg
-│   │   ├── gen_image_script
-│   │   └── post_copy_rootfs
-│   ├── k230_evb_doorlock
-│   └── k230_evb_peephole_device
-└── tools
-    ├── docker
-    │   └── Dockerfile
-    ├── doxygen
-    ├── firmware_gen.py
-    └── get_download_url.sh
 各个目录用途描述如下：
 
 - `configs`： 存放SDK的板级默认配置，主要包含如下信息：参考板类型，toolchain路径，
