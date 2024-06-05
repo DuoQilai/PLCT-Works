@@ -114,8 +114,12 @@ k230_sdk
 | u-boot-2021.10    | 开源 uboot 代码                   |
 ## 树形结构
 ### k230
+[PLCT-Works/k230d/k230tree.txt at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/k230tree.txt)
+### k510
+[PLCT-Works/k230d/k510tree.txt at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/k510tree.txt)
+### duo
 
-
+[PLCT-Works/k230d/duotree.txt at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/duotree.txt)
 ## 参考文档：
 - [kendryte/k230_sdk: Kendryte K230 SDK (github.com)](https://github.com/kendryte/k230_sdk)
 - [k510_docs/zh/K510_SDK_Build_and_Burn_Guide.md at dev · kendryte/k510_docs (github.com)](https://github.com/kendryte/k510_docs/blob/dev/zh/K510_SDK_Build_and_Burn_Guide.md)
