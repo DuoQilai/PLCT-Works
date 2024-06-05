@@ -1,0 +1,1493 @@
+.
+|-- Config.in
+|-- LICENSE
+|-- Makefile
+|-- README.md
+|-- board
+|   `-- canaan
+|       `-- k510
+|           |-- app_shaaes.py
+|           |-- debian.sh
+|           |-- debian_rootfs_overlay
+|           |   |-- etc
+|           |   |   |-- network
+|           |   |   |   `-- interfaces
+|           |   |   |-- rc.local
+|           |   |   |-- rootfs_fsck.sh
+|           |   |   `-- systemd
+|           |   |       `-- system
+|           |   |           `-- local-fs.target.wants
+|           |   `-- usr
+|           |       `-- lib
+|           |           `-- systemd
+|           |               `-- system
+|           |                   `-- rootfs_fsck.service
+|           |-- genimage-emmc.cfg
+|           |-- genimage-nand.cfg
+|           |-- genimage-nor.cfg
+|           |-- genimage-sdcard.cfg
+|           |-- genimage-sdcard_debian.cfg
+|           |-- k510_busybox.config
+|           |-- k510_rootfs_skeleton
+|           |   |-- bin
+|           |   |-- dev
+|           |   |   |-- console -> ttyS0
+|           |   |   |-- initramfs.devnodes
+|           |   |   |-- input
+|           |   |   |-- net
+|           |   |   |-- pts
+|           |   |   |-- root -> ram0
+|           |   |   |-- rtc -> rtc0
+|           |   |   |-- shm
+|           |   |   |-- snd
+|           |   |   |-- stderr -> /proc/self/fd/2
+|           |   |   |-- stdin -> /proc/self/fd/0
+|           |   |   `-- stdout -> /proc/self/fd/1
+|           |   |-- elf_core_checking
+|           |   |-- etc
+|           |   |   |-- automount.sh
+|           |   |   |-- core_dump_gzip.sh
+|           |   |   |-- dhcpc
+|           |   |   |-- fb.modes
+|           |   |   |-- fstab
+|           |   |   |-- group
+|           |   |   |-- host.conf
+|           |   |   |-- hostname
+|           |   |   |-- hosts
+|           |   |   |-- init.d
+|           |   |   |   |-- get_version.sh
+|           |   |   |   |-- rc.reboot
+|           |   |   |   |-- rc.sysinit
+|           |   |   |   `-- run.sh
+|           |   |   |-- inittab
+|           |   |   |-- issue
+|           |   |   |-- localtime
+|           |   |   |-- mtab -> /proc/mounts
+|           |   |   |-- net.sh
+|           |   |   |-- network
+|           |   |   |   |-- if-down.d
+|           |   |   |   |-- if-post-down.d
+|           |   |   |   |-- if-pre-up.d
+|           |   |   |   |   `-- wait_iface
+|           |   |   |   |-- if-up.d
+|           |   |   |   |-- ifplug.sh
+|           |   |   |   |-- interfaces
+|           |   |   |   `-- nfs_check
+|           |   |   |-- nsswitch.conf
+|           |   |   |-- passwd
+|           |   |   |-- profile
+|           |   |   |-- protocols
+|           |   |   |-- securetty
+|           |   |   |-- services
+|           |   |   |-- shadow
+|           |   |   |-- shells
+|           |   |   |-- uboot_dsi_logo.gbr.bmp.argb
+|           |   |   |-- version
+|           |   |   |   `-- release_version
+|           |   |   `-- wpa_supplicant.conf
+|           |   |-- first_run_flag_file
+|           |   |-- home
+|           |   |-- init -> bin/busybox
+|           |   |-- lib
+|           |   |   |-- firmware
+|           |   |   |   |-- brcm
+|           |   |   |   |   |-- LICENCE_bin+clm_blob.txt
+|           |   |   |   |   |-- LICENSE_txt.txt
+|           |   |   |   |   |-- Readme.txt
+|           |   |   |   |   |-- brcmfmac43430-sdio.bin
+|           |   |   |   |   |-- brcmfmac43430-sdio.clm_blob
+|           |   |   |   |   `-- brcmfmac43430-sdio.txt
+|           |   |   |   |-- fw_bcm43438a1.bin
+|           |   |   |   |-- nvram_ap6212a.txt
+|           |   |   |   |-- regulatory.bin
+|           |   |   |   |-- regulatory.db
+|           |   |   |   |-- regulatory.db.p7s
+|           |   |   |   |-- sforshee.key.pub.pem
+|           |   |   |   |-- sforshee.x509.pem
+|           |   |   |   `-- wireless-regdb.spec
+|           |   |   `-- modules
+|           |   |-- lib32
+|           |   |   |-- ilp32
+|           |   |   `-- ilp32d
+|           |   |-- lib64
+|           |   |   |-- lp64
+|           |   |   `-- lp64d
+|           |   |-- mnt
+|           |   |-- proc
+|           |   |-- root
+|           |   |   `-- data
+|           |   |-- run
+|           |   |-- sbin
+|           |   |-- sys
+|           |   |-- tmp
+|           |   |-- usr
+|           |   |   |-- autologin.profile
+|           |   |   |-- bin
+|           |   |   |-- lib
+|           |   |   |-- lib32
+|           |   |   |   |-- ilp32
+|           |   |   |   `-- ilp32d
+|           |   |   |-- lib64
+|           |   |   |   |-- lp64
+|           |   |   |   `-- lp64d
+|           |   |   |-- sbin
+|           |   |   `-- share
+|           |   |       `-- udhcpc
+|           |   |           `-- default.script
+|           |   `-- var
+|           |       |-- config
+|           |       |-- empty
+|           |       |-- lib
+|           |       |-- lock
+|           |       |-- log
+|           |       |-- run -> ../run
+|           |       `-- tmp
+|           |-- post-image-crb_v0_1.sh
+|           |-- post-image-crb_v1_2.sh
+|           |-- post-image-evb_lp3_v1_1.sh
+|           |-- post-image.sh
+|           |-- post_build.sh
+|           |-- uboot-emmc.env
+|           |-- uboot-nand.env
+|           |-- uboot-nfs.env
+|           |-- uboot-sdcard.env
+|           `-- update_nand.sh
+|-- configs
+|   |-- k510_crb_lp3_v0_1_defconfig
+|   |-- k510_crb_lp3_v1_2_defconfig
+|   `-- k510_evb_lp3_v1_1_defconfig
+|-- docs
+|   |-- README.md
+|   `-- README.zh-Hans.md
+|-- external.desc
+|-- external.mk
+|-- k510tree.txt
+|-- package
+|   |-- README.md
+|   |-- ai
+|   |   |-- Config.in
+|   |   |-- ai.hash
+|   |   |-- ai.mk
+|   |   `-- code
+|   |       |-- CMakeLists.txt
+|   |       |-- build.sh
+|   |       |-- cmake
+|   |       |   `-- Riscv64.cmake
+|   |       |-- common
+|   |       |   |-- buf_mgt.cc
+|   |       |   |-- buf_mgt.h
+|   |       |   |-- k510_drm.c
+|   |       |   |-- k510_drm.h
+|   |       |   |-- list.h
+|   |       |   |-- media_ctl.h
+|   |       |   |-- v4l2.c
+|   |       |   `-- v4l2.h
+|   |       |-- face_alignment
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- constant.h
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- depth_estimated.cc
+|   |       |   |-- depth_estimated.h
+|   |       |   |-- main.cc
+|   |       |   |-- pfld.cc
+|   |       |   |-- pfld.h
+|   |       |   |-- rasterize.cc
+|   |       |   |-- rasterize.h
+|   |       |   |-- retinaface.cc
+|   |       |   |-- retinaface.h
+|   |       |   |-- tddfa.cc
+|   |       |   `-- tddfa.h
+|   |       |-- face_detect
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinaface.cc
+|   |       |   `-- retinaface.h
+|   |       |-- face_expression
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- face_expression.cc
+|   |       |   |-- face_expression.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinaface.cc
+|   |       |   `-- retinaface.h
+|   |       |-- face_landmarks
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- pfld.cc
+|   |       |   |-- pfld.h
+|   |       |   |-- retinaface.cc
+|   |       |   `-- retinaface.h
+|   |       |-- face_recog
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- hal_comm.h
+|   |       |   |-- hal_key.c
+|   |       |   |-- hal_key.h
+|   |       |   |-- insightface.cc
+|   |       |   |-- insightface.h
+|   |       |   |-- key.cc
+|   |       |   |-- key.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinaface.cc
+|   |       |   `-- retinaface.h
+|   |       |-- gc2053.conf
+|   |       |-- gc2093.conf
+|   |       |-- hand_image_classify
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- connect.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- hld.cc
+|   |       |   |-- hld.h
+|   |       |   |-- hls_hand.cc
+|   |       |   |-- imagenet.cc
+|   |       |   |-- imagenet.h
+|   |       |   |-- main.cc
+|   |       |   |-- yolo.cc
+|   |       |   `-- yolo.h
+|   |       |-- head_pose_estimation
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- hpe.cc
+|   |       |   |-- hpe.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinaface.cc
+|   |       |   `-- retinaface.h
+|   |       |-- imx219_0.conf
+|   |       |-- imx219_1.conf
+|   |       |-- imx219_1080x1920_0.conf
+|   |       |-- imx385_2frame.conf
+|   |       |-- imx385_3frame.conf
+|   |       |-- imx385_normal.conf
+|   |       |-- license_plate_recog
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- anchors_640.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- lprnet.cc
+|   |       |   |-- lprnet.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinalpd.cc
+|   |       |   `-- retinalpd.h
+|   |       |-- object_detect
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- object_detect.cc
+|   |       |   `-- object_detect.h
+|   |       |-- object_detect_demo
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- object_detect.cc
+|   |       |   |-- object_detect.h
+|   |       |   `-- od_onnx.py
+|   |       |-- openpose
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- openpose.cc
+|   |       |   |-- openpose.h
+|   |       |   |-- pafprocess.cc
+|   |       |   `-- pafprocess.h
+|   |       |-- person_detect
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- anchors_0.cc
+|   |       |   |-- anchors_1.cc
+|   |       |   |-- anchors_2.cc
+|   |       |   |-- anchors_3.cc
+|   |       |   |-- anchors_4.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- scrpd.cc
+|   |       |   `-- scrpd.h
+|   |       |-- retinaface_mb_320
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- anchors_320.cc
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- retinaface.cc
+|   |       |   |-- retinaface.h
+|   |       |   `-- rf_onnx.py
+|   |       |-- self_learning
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- gerecorg.cc
+|   |       |   |-- gerecorg.h
+|   |       |   |-- hal_comm.h
+|   |       |   |-- hal_key.c
+|   |       |   |-- hal_key.h
+|   |       |   |-- key.cc
+|   |       |   |-- key.h
+|   |       |   `-- main.cc
+|   |       |-- shell
+|   |       |   |-- face_alignment.sh
+|   |       |   |-- face_detect.sh
+|   |       |   |-- face_expression.sh
+|   |       |   |-- face_landmarks.sh
+|   |       |   |-- face_recog.sh
+|   |       |   |-- hand_image_classify.sh
+|   |       |   |-- head_pose_estimation.sh
+|   |       |   |-- license_recog.sh
+|   |       |   |-- object_detect.sh
+|   |       |   |-- object_detect_demo_bf16.sh
+|   |       |   |-- object_detect_demo_uint8.sh
+|   |       |   |-- open_pose.sh
+|   |       |   |-- person_detect.sh
+|   |       |   |-- retinaface_mb_320_bf16.sh
+|   |       |   |-- retinaface_mb_320_uint8.sh
+|   |       |   |-- self_learning.sh
+|   |       |   `-- simple_pose.sh
+|   |       |-- simple_pose
+|   |       |   |-- CMakeLists.txt
+|   |       |   |-- README.md
+|   |       |   |-- cv2_utils.cc
+|   |       |   |-- cv2_utils.h
+|   |       |   |-- main.cc
+|   |       |   |-- object_detect.cc
+|   |       |   |-- object_detect.h
+|   |       |   |-- simple_pose.cc
+|   |       |   `-- simple_pose.h
+|   |       |-- video_192x320.conf
+|   |       |-- video_object_detect_320.conf
+|   |       |-- video_object_detect_320x320.conf
+|   |       |-- video_object_detect_432x368.conf
+|   |       |-- video_object_detect_480x640.conf
+|   |       |-- video_object_detect_512.conf
+|   |       |-- video_object_detect_640.conf
+|   |       `-- video_object_detect_640x480.conf
+|   |-- audio3a_lib
+|   |   |-- Config.in
+|   |   |-- audio3a_lib.mk
+|   |   `-- src
+|   |       |-- AGC
+|   |       |   |-- agc.c
+|   |       |   `-- agc.h
+|   |       |-- Makefile
+|   |       |-- NS
+|   |       |   |-- noise_suppression.c
+|   |       |   `-- noise_suppression.h
+|   |       |-- audio3a.c
+|   |       |-- include
+|   |       |   |-- audio3a.h
+|   |       |   `-- voice_short_far.h
+|   |       `-- wy_aec
+|   |           |-- include
+|   |           |   `-- speex
+|   |           |       |-- Makefile.am
+|   |           |       |-- Makefile.in
+|   |           |       |-- speex_buffer.h
+|   |           |       |-- speex_echo.h
+|   |           |       |-- speex_jitter.h
+|   |           |       |-- speex_preprocess.h
+|   |           |       |-- speex_resampler.h
+|   |           |       |-- speexdsp_config_types.h
+|   |           |       `-- speexdsp_types.h
+|   |           `-- libspeex
+|   |               |-- _kiss_fft_guts.h
+|   |               |-- arch.h
+|   |               |-- bfin.h
+|   |               |-- buffer.c
+|   |               |-- echo_diagnostic.m
+|   |               |-- fftwrap.c
+|   |               |-- fftwrap.h
+|   |               |-- filterbank.c
+|   |               |-- filterbank.h
+|   |               |-- fixed_arm4.h
+|   |               |-- fixed_arm5e.h
+|   |               |-- fixed_bfin.h
+|   |               |-- fixed_debug.h
+|   |               |-- fixed_generic.h
+|   |               |-- fixed_nds.h
+|   |               |-- jitter.c
+|   |               |-- kiss_fft.c
+|   |               |-- kiss_fft.h
+|   |               |-- kiss_fftr.c
+|   |               |-- kiss_fftr.h
+|   |               |-- math_approx.h
+|   |               |-- mdf.c
+|   |               |-- misc_bfin.h
+|   |               |-- os_support.h
+|   |               |-- preprocess.c
+|   |               |-- pseudofloat.h
+|   |               |-- resample.c
+|   |               |-- resample_neon.h
+|   |               |-- resample_sse.h
+|   |               |-- scal.c
+|   |               |-- smallft.c
+|   |               |-- smallft.h
+|   |               |-- stack_alloc.h
+|   |               |-- testecho.c
+|   |               `-- vorbis_psy.h
+|   |-- aws_iot_test
+|   |   |-- Config.in
+|   |   |-- aws_iot_test.mk
+|   |   `-- subscribe_publish_sample
+|   |       |-- Makefile
+|   |       |-- aws_iot_config.h
+|   |       |-- aws_iot_test.c
+|   |       |-- certs
+|   |       |   |-- AmazonRootCA1.pem
+|   |       |   |-- K510-CRB-KIT-certificate.pem.crt
+|   |       |   |-- K510-CRB-KIT-private.pem.key
+|   |       |   |-- K510-CRB-KIT-public.pem.key
+|   |       |   `-- README.txt
+|   |       |-- checkprocess.sh
+|   |       |-- external_libs
+|   |       |   |-- CppUTest
+|   |       |   |   `-- README.txt
+|   |       |   |-- jsmn
+|   |       |   |   |-- jsmn.c
+|   |       |   |   `-- jsmn.h
+|   |       |   `-- v3.6
+|   |       |-- include
+|   |       |   |-- aws_iot_error.h
+|   |       |   |-- aws_iot_jobs_interface.h
+|   |       |   |-- aws_iot_jobs_json.h
+|   |       |   |-- aws_iot_jobs_topics.h
+|   |       |   |-- aws_iot_jobs_types.h
+|   |       |   |-- aws_iot_json_utils.h
+|   |       |   |-- aws_iot_log.h
+|   |       |   |-- aws_iot_mqtt_client.h
+|   |       |   |-- aws_iot_mqtt_client_common_internal.h
+|   |       |   |-- aws_iot_mqtt_client_interface.h
+|   |       |   |-- aws_iot_shadow_actions.h
+|   |       |   |-- aws_iot_shadow_interface.h
+|   |       |   |-- aws_iot_shadow_json.h
+|   |       |   |-- aws_iot_shadow_json_data.h
+|   |       |   |-- aws_iot_shadow_key.h
+|   |       |   |-- aws_iot_shadow_records.h
+|   |       |   |-- aws_iot_version.h
+|   |       |   |-- network_interface.h
+|   |       |   |-- threads_interface.h
+|   |       |   `-- timer_interface.h
+|   |       |-- monitor_aws.sh
+|   |       |-- platform
+|   |       |   `-- linux
+|   |       |       |-- common
+|   |       |       |   |-- timer.c
+|   |       |       |   `-- timer_platform.h
+|   |       |       |-- mbedtls
+|   |       |       |   |-- network_mbedtls_wrapper.c
+|   |       |       |   `-- network_platform.h
+|   |       |       `-- pthread
+|   |       |           |-- threads_platform.h
+|   |       |           `-- threads_pthread_wrapper.c
+|   |       `-- src
+|   |           |-- aws_iot_jobs_interface.c
+|   |           |-- aws_iot_jobs_json.c
+|   |           |-- aws_iot_jobs_topics.c
+|   |           |-- aws_iot_jobs_types.c
+|   |           |-- aws_iot_json_utils.c
+|   |           |-- aws_iot_mqtt_client.c
+|   |           |-- aws_iot_mqtt_client_common_internal.c
+|   |           |-- aws_iot_mqtt_client_connect.c
+|   |           |-- aws_iot_mqtt_client_publish.c
+|   |           |-- aws_iot_mqtt_client_subscribe.c
+|   |           |-- aws_iot_mqtt_client_unsubscribe.c
+|   |           |-- aws_iot_mqtt_client_yield.c
+|   |           |-- aws_iot_shadow.c
+|   |           |-- aws_iot_shadow_actions.c
+|   |           |-- aws_iot_shadow_json.c
+|   |           `-- aws_iot_shadow_records.c
+|   |-- client
+|   |   |-- Config.in
+|   |   |-- client.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- client.c
+|   |       `-- client.h
+|   |-- crypto
+|   |   |-- Config.in
+|   |   |-- crypto.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- crypto.c
+|   |-- drm_demo
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   `-- main.cc
+|   |   `-- src.mk
+|   |-- dsp_app_new
+|   |   |-- Config.in
+|   |   |-- dsp_app_new.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- dsp_test.c
+|   |       |-- kendryte_cmem.c
+|   |       |-- kendryte_cmem.h
+|   |       |-- kendryte_dsp.c
+|   |       `-- kendryte_dsp.h
+|   |-- dsp_log
+|   |   |-- Config.in
+|   |   |-- dsp_log.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- dsp_log.c
+|   |-- dsp_scheduler
+|   |   |-- Config.in
+|   |   |-- dsp_scheduler.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- alltasks.c
+|   |       |-- dsp_tasks.h
+|   |       |-- lds
+|   |       |   `-- k510.ld
+|   |       |-- printc.c
+|   |       |-- printc.h
+|   |       |-- scheduler.c
+|   |       |-- scheduler.h
+|   |       |-- tasks
+|   |       |   |-- audio3a_task.c
+|   |       |   `-- sample_task.c
+|   |       `-- types.h
+|   |-- encode_app
+|   |   |-- Config.in
+|   |   |-- encode_app.mk
+|   |   `-- src
+|   |       |-- G711Codec.cpp
+|   |       |-- G711Codec.h
+|   |       |-- Makefile
+|   |       |-- gc2053.conf
+|   |       |-- gc2093.conf
+|   |       |-- imx219_0.conf
+|   |       |-- imx219_1.conf
+|   |       |-- imx219_1080x1920_0.conf
+|   |       |-- imx219_1080x1920_1.conf
+|   |       |-- imx385_0.conf
+|   |       |-- imx385_2frame.conf
+|   |       |-- imx385_3frame.conf
+|   |       |-- imx385_normal.conf
+|   |       |-- imx385_video_1920x1080.conf
+|   |       |-- imx385_video_1920x1080_2frame.conf
+|   |       |-- imx385_video_1920x1080_3frame.conf
+|   |       |-- imx385_video_1920x1080_normal.conf
+|   |       |-- isp_video.h
+|   |       |-- main.cpp
+|   |       |-- roi_1920x1080.conf
+|   |       |-- types.h
+|   |       |-- video_app.cc
+|   |       |-- video_app.h
+|   |       |-- video_drm_gc2093_gc2053_isp_mux.conf
+|   |       |-- video_sample.conf
+|   |       |-- video_sample_1080x1920.conf
+|   |       |-- video_sample_720p60.conf
+|   |       `-- video_sample_vga480p75.conf
+|   |-- ffmpeg_canaan
+|   |   |-- 0001-buildroot-ffmpeg-0.1.patch
+|   |   |-- 0002-buildroot-ffmpeg.patch
+|   |   |-- 0003-buildroot-ffmpeg.patch
+|   |   |-- 0004-buildroot-ffmpeg.patch
+|   |   |-- 0005-buildroot-ffmpeg.patch
+|   |   |-- 0006-buildroot-ffmpeg.patch
+|   |   |-- 0007-buildroot-ffmpeg.patch
+|   |   |-- 0008-buildroot-ffmpeg.patch
+|   |   |-- 0009-buildroot-ffmpeg.patch
+|   |   |-- 0010-buildroot-ffmpeg.patch
+|   |   |-- 0011-buildroot-ffmpeg.patch
+|   |   |-- 0012-buildroot-ffmpeg.patch
+|   |   |-- 0013-buildroot-ffmpeg.patch
+|   |   |-- 0014-buildroot-ffmpeg.patch
+|   |   |-- 0015-buildroot-ffmpeg.patch
+|   |   |-- 0016-buildroot-ffmpeg.patch
+|   |   |-- 0017-buildroot-ffmpeg.patch
+|   |   |-- 0018-buildroot-ffmpeg.patch
+|   |   |-- 0019-buildroot-ffmpeg.patch
+|   |   |-- 0020-buildroot-ffmpeg.patch
+|   |   |-- 0021-buildroot-ffmpeg.patch
+|   |   |-- 0022-buildroot-ffmpeg.patch
+|   |   |-- 0023-buildroot-ffmpeg.patch
+|   |   |-- 0024-buildroot-ffmpeg.patch
+|   |   |-- 0025-buildroot-ffmpeg.patch
+|   |   |-- 0026-buildroot-ffmpeg.patch
+|   |   |-- 0027-buildroot-ffmpeg.patch
+|   |   |-- 0028-buildroot-ffmpeg.patch
+|   |   |-- 0029-buildroot-ffmpeg.patch
+|   |   |-- 0030-buildroot-ffmpeg.patch
+|   |   |-- 0031-buildroot-ffmpeg.patch
+|   |   |-- 0032-buildroot-ffmpeg.patch
+|   |   |-- 0033-buildroot-ffmpeg.patch
+|   |   |-- 0034-buildroot-ffmpeg.patch
+|   |   |-- 0035-buildroot-ffmpeg.patch
+|   |   |-- 0036-buildroot-ffmpeg.patch
+|   |   |-- Config.in
+|   |   |-- ffmpeg.hash
+|   |   `-- ffmpeg.mk
+|   |-- gpio_keys
+|   |   |-- Config.in
+|   |   |-- gpio_keys.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- inc
+|   |       |   |-- hal_comm.h
+|   |       |   `-- hal_key.h
+|   |       `-- srce
+|   |           |-- hal_key.c
+|   |           `-- test-key.c
+|   |-- hello_world
+|   |   |-- Config.in
+|   |   |-- hello_world.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- hello.c
+|   |-- isp-tuningd
+|   |   |-- Config.in
+|   |   |-- isp-tuningd.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- isp-tuningd.c
+|   |-- k510_evb_test
+|   |   |-- Config.in
+|   |   |-- k510_evb_test.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- README.md
+|   |       |-- bsp
+|   |       |   |-- controler
+|   |       |   |   |-- aes.c
+|   |       |   |   |-- audio.c
+|   |       |   |   |-- ddr_init.c
+|   |       |   |   |-- dmac.c
+|   |       |   |   |-- emac.c
+|   |       |   |   |-- gpio.c
+|   |       |   |   |-- h264.c
+|   |       |   |   |-- i2c.c
+|   |       |   |   |-- i2s.c
+|   |       |   |   |-- i2s_slave.c
+|   |       |   |   |-- mailbox.c
+|   |       |   |   |-- muxpin.c
+|   |       |   |   |-- muxpin_default.c
+|   |       |   |   |-- noc_bandwidth.c
+|   |       |   |   |-- otp.c
+|   |       |   |   |-- pwm.c
+|   |       |   |   |-- rtc.c
+|   |       |   |   |-- sdio
+|   |       |   |   |   |-- sd_host_emmc.c
+|   |       |   |   |   |-- sd_host_global.c
+|   |       |   |   |   `-- sd_host_sdio.c
+|   |       |   |   |-- sha256.c
+|   |       |   |   |-- spi.c
+|   |       |   |   |-- sysctl_boot.c
+|   |       |   |   |-- sysctl_clk.c
+|   |       |   |   |-- sysctl_pwr.c
+|   |       |   |   |-- sysctl_rst.c
+|   |       |   |   |-- timer.c
+|   |       |   |   |-- trng.c
+|   |       |   |   |-- tsensor.c
+|   |       |   |   |-- uart.c
+|   |       |   |   |-- usb
+|   |       |   |   |   |-- sdudc.c
+|   |       |   |   |   |-- sduhc.c
+|   |       |   |   |   |-- sduhcVHub.c
+|   |       |   |   |   `-- sgdma.c
+|   |       |   |   |-- vad.c
+|   |       |   |   |-- video
+|   |       |   |   |   |-- bt1120
+|   |       |   |   |   |   |-- bt1120_drv.c
+|   |       |   |   |   |   `-- bt1120_reg.c
+|   |       |   |   |   |-- isp
+|   |       |   |   |   |   |-- core
+|   |       |   |   |   |   |   |-- isp_core_drv.c
+|   |       |   |   |   |   |   `-- isp_core_reg.c
+|   |       |   |   |   |   |-- ds
+|   |       |   |   |   |   |   |-- isp_ds_coeff.c
+|   |       |   |   |   |   |   |-- isp_ds_drv.c
+|   |       |   |   |   |   |   `-- isp_ds_reg.c
+|   |       |   |   |   |   |-- mfbc
+|   |       |   |   |   |   |   |-- isp_mfbc_drv.c
+|   |       |   |   |   |   |   `-- isp_mfbc_reg.c
+|   |       |   |   |   |   |-- mfbd
+|   |       |   |   |   |   |   |-- isp_mfbd_drv.c
+|   |       |   |   |   |   |   `-- isp_mfbd_reg.c
+|   |       |   |   |   |   |-- remap
+|   |       |   |   |   |   |   |-- isp_remap_drv.c
+|   |       |   |   |   |   |   `-- isp_remap_reg.c
+|   |       |   |   |   |   |-- table
+|   |       |   |   |   |   |   |-- isp_gamm_coeff.c
+|   |       |   |   |   |   |   |-- isp_table_drv.c
+|   |       |   |   |   |   |   `-- isp_wdr_coeff.c
+|   |       |   |   |   |   `-- wrap
+|   |       |   |   |   |       |-- isp_wrap_calc.c
+|   |       |   |   |   |       |-- isp_wrap_drv.c
+|   |       |   |   |   |       `-- isp_wrap_reg.c
+|   |       |   |   |   |-- isp_3d
+|   |       |   |   |   |   |-- core
+|   |       |   |   |   |   |   |-- isp_3d_core_drv.c
+|   |       |   |   |   |   |   `-- isp_3d_core_reg.c
+|   |       |   |   |   |   |-- table
+|   |       |   |   |   |   |   |-- isp_3d_gamm_coeff.c
+|   |       |   |   |   |   |   `-- isp_3d_table_drv.c
+|   |       |   |   |   |   `-- wrap
+|   |       |   |   |   |       |-- isp_3d_wrap_drv.c
+|   |       |   |   |   |       `-- isp_3d_wrap_reg.c
+|   |       |   |   |   |-- mfbc
+|   |       |   |   |   |   |-- core
+|   |       |   |   |   |   |   |-- mdbc_core_drv.c
+|   |       |   |   |   |   |   `-- mfbc_core_reg.c
+|   |       |   |   |   |   `-- wrap
+|   |       |   |   |   |       |-- mfbc_wrap_drv.c
+|   |       |   |   |   |       `-- mfbc_wrap_reg.c
+|   |       |   |   |   |-- mipi
+|   |       |   |   |   |   |-- csi
+|   |       |   |   |   |   |   |-- mipi_csi.c
+|   |       |   |   |   |   |   `-- mipi_csi_reg.c
+|   |       |   |   |   |   |-- dphy
+|   |       |   |   |   |   |   |-- mipi_corner.c
+|   |       |   |   |   |   |   |-- mipi_rxdphy.c
+|   |       |   |   |   |   |   `-- mipi_txdphy.c
+|   |       |   |   |   |   `-- dsi
+|   |       |   |   |   |       |-- cnds_dsi_hw.c
+|   |       |   |   |   |       `-- cnds_dsi_test.c
+|   |       |   |   |   |-- td
+|   |       |   |   |   |   |-- core
+|   |       |   |   |   |   |   |-- td_core_drv.c
+|   |       |   |   |   |   |   `-- td_core_reg.c
+|   |       |   |   |   |   |-- table
+|   |       |   |   |   |   |   |-- td_table_coeff.c
+|   |       |   |   |   |   |   `-- td_table_drv.c
+|   |       |   |   |   |   `-- wrap
+|   |       |   |   |   |       |-- td_wrap_drv.c
+|   |       |   |   |   |       `-- td_wrap_reg.c
+|   |       |   |   |   |-- vi
+|   |       |   |   |   |   |-- pipe
+|   |       |   |   |   |   |   |-- vi_pipe_drv.c
+|   |       |   |   |   |   |   `-- vi_pipe_reg.c
+|   |       |   |   |   |   `-- wrap
+|   |       |   |   |   |       |-- vi_wrap_drv.c
+|   |       |   |   |   |       `-- vi_wrap_reg.c
+|   |       |   |   |   `-- vo
+|   |       |   |   |       |-- core
+|   |       |   |   |       |   |-- vo_core_drv.c
+|   |       |   |   |       |   `-- vo_core_reg.c
+|   |       |   |   |       |-- remap
+|   |       |   |   |       |   |-- vo_remap_drv.c
+|   |       |   |   |       |   `-- vo_remap_reg.c
+|   |       |   |   |       `-- table
+|   |       |   |   |           |-- vo_table_coeff.c
+|   |       |   |   |           `-- vo_table_drv.c
+|   |       |   |   `-- wdt.c
+|   |       |   |-- cpu
+|   |       |   |   |-- cache.c
+|   |       |   |   |-- initfini.c
+|   |       |   |   |-- interrupt.c
+|   |       |   |   |-- k510.c
+|   |       |   |   |-- pfm.c
+|   |       |   |   |-- sleep.c
+|   |       |   |   |-- sleep_resume.S
+|   |       |   |   |-- start.S
+|   |       |   |   `-- trap.c
+|   |       |   |-- include
+|   |       |   |   |-- controler
+|   |       |   |   |   |-- aes.h
+|   |       |   |   |   |-- audio.h
+|   |       |   |   |   |-- ddr.h
+|   |       |   |   |   |-- dmac.h
+|   |       |   |   |   |-- emac.h
+|   |       |   |   |   |-- emac_regs_macro_non_vm.h
+|   |       |   |   |   |-- emac_regs_non_vm.h
+|   |       |   |   |   |-- gpio.h
+|   |       |   |   |   |-- h264.h
+|   |       |   |   |   |-- i2c.h
+|   |       |   |   |   |-- i2s.h
+|   |       |   |   |   |-- lpddr3.h
+|   |       |   |   |   |-- mailbox.h
+|   |       |   |   |   |-- muxpin.h
+|   |       |   |   |   |-- noc_bandwidth.h
+|   |       |   |   |   |-- otp.h
+|   |       |   |   |   |-- pwm.h
+|   |       |   |   |   |-- rtc.h
+|   |       |   |   |   |-- sdio
+|   |       |   |   |   |   |-- sd_host_emmc.h
+|   |       |   |   |   |   |-- sd_host_global.h
+|   |       |   |   |   |   `-- sd_host_sdio.h
+|   |       |   |   |   |-- sha256.h
+|   |       |   |   |   |-- spi.h
+|   |       |   |   |   |-- sysctl_boot.h
+|   |       |   |   |   |-- sysctl_clk.h
+|   |       |   |   |   |-- sysctl_pwr.h
+|   |       |   |   |   |-- sysctl_rst.h
+|   |       |   |   |   |-- timer.h
+|   |       |   |   |   |-- trng.h
+|   |       |   |   |   |-- tsensor.h
+|   |       |   |   |   |-- uart.h
+|   |       |   |   |   |-- usb
+|   |       |   |   |   |   |-- big_endian.h
+|   |       |   |   |   |   |-- byteorder.h
+|   |       |   |   |   |   |-- cdn_assert.h
+|   |       |   |   |   |   |-- cdn_errno.h
+|   |       |   |   |   |   |-- cdn_stdint.h
+|   |       |   |   |   |   |-- cdn_stdio.h
+|   |       |   |   |   |   |-- cdn_stdtypes.h
+|   |       |   |   |   |   |-- cdn_string.h
+|   |       |   |   |   |   |-- cps.h
+|   |       |   |   |   |   |-- cusb_ch11.h
+|   |       |   |   |   |   |-- cusb_ch9.h
+|   |       |   |   |   |   |-- cusb_dma_if.h
+|   |       |   |   |   |   |-- cusbd_if.h
+|   |       |   |   |   |   |-- cusbh_if.h
+|   |       |   |   |   |   |-- little_endian.h
+|   |       |   |   |   |   |-- log.h
+|   |       |   |   |   |   |-- sduc_list.h
+|   |       |   |   |   |   |-- sduc_regs.h
+|   |       |   |   |   |   |-- sdudc_if.h
+|   |       |   |   |   |   |-- sduhc_if.h
+|   |       |   |   |   |   |-- sgdma_if.h
+|   |       |   |   |   |   |-- sgdma_regs.h
+|   |       |   |   |   |   `-- swap.h
+|   |       |   |   |   |-- vad.h
+|   |       |   |   |   |-- video
+|   |       |   |   |   |   |-- bt1120
+|   |       |   |   |   |   |   |-- bt1120_drv.h
+|   |       |   |   |   |   |   `-- bt1120_reg.h
+|   |       |   |   |   |   |-- isp
+|   |       |   |   |   |   |   |-- core
+|   |       |   |   |   |   |   |   |-- isp_core_drv.h
+|   |       |   |   |   |   |   |   `-- isp_core_reg.h
+|   |       |   |   |   |   |   |-- ds
+|   |       |   |   |   |   |   |   |-- isp_ds_drv.h
+|   |       |   |   |   |   |   |   `-- isp_ds_reg.h
+|   |       |   |   |   |   |   |-- mfbc
+|   |       |   |   |   |   |   |   |-- isp_mfbc_drv.h
+|   |       |   |   |   |   |   |   `-- isp_mfbc_reg.h
+|   |       |   |   |   |   |   |-- mfbd
+|   |       |   |   |   |   |   |   |-- isp_mfbd_drv.h
+|   |       |   |   |   |   |   |   `-- isp_mfbd_reg.h
+|   |       |   |   |   |   |   |-- remap
+|   |       |   |   |   |   |   |   |-- isp_remap_drv.h
+|   |       |   |   |   |   |   |   `-- isp_remap_reg.h
+|   |       |   |   |   |   |   |-- table
+|   |       |   |   |   |   |   |   |-- isp_table_drv.h
+|   |       |   |   |   |   |   |   `-- isp_table_reg.h
+|   |       |   |   |   |   |   `-- wrap
+|   |       |   |   |   |   |       |-- isp_wrap_calc.h
+|   |       |   |   |   |   |       |-- isp_wrap_drv.h
+|   |       |   |   |   |   |       `-- isp_wrap_reg.h
+|   |       |   |   |   |   |-- isp_3d
+|   |       |   |   |   |   |   |-- core
+|   |       |   |   |   |   |   |   |-- isp_3d_core_drv.h
+|   |       |   |   |   |   |   |   `-- isp_3d_core_reg.h
+|   |       |   |   |   |   |   |-- table
+|   |       |   |   |   |   |   |   |-- isp_3d_table_drv.h
+|   |       |   |   |   |   |   |   `-- isp_3d_table_reg.h
+|   |       |   |   |   |   |   `-- wrap
+|   |       |   |   |   |   |       |-- isp_3d_wrap_drv.h
+|   |       |   |   |   |   |       `-- isp_3d_wrap_reg.h
+|   |       |   |   |   |   |-- isp_com.h
+|   |       |   |   |   |   |-- mfbc
+|   |       |   |   |   |   |   |-- core
+|   |       |   |   |   |   |   |   |-- mfbc_core_drv.h
+|   |       |   |   |   |   |   |   `-- mfbc_core_reg.h
+|   |       |   |   |   |   |   `-- wrap
+|   |       |   |   |   |   |       |-- mfbc_wrap_drv.h
+|   |       |   |   |   |   |       `-- mfbc_wrap_reg.h
+|   |       |   |   |   |   |-- mipi
+|   |       |   |   |   |   |   |-- csi
+|   |       |   |   |   |   |   |   |-- mipi_csi.h
+|   |       |   |   |   |   |   |   `-- mipi_csi_reg.h
+|   |       |   |   |   |   |   |-- dphy
+|   |       |   |   |   |   |   |   |-- mipi_corner.h
+|   |       |   |   |   |   |   |   |-- mipi_rxdphy.h
+|   |       |   |   |   |   |   |   `-- mipi_txdphy.h
+|   |       |   |   |   |   |   `-- dsi
+|   |       |   |   |   |   |       |-- cnds_dsi_define.h
+|   |       |   |   |   |   |       |-- cnds_dsi_hw.h
+|   |       |   |   |   |   |       `-- cnds_dsi_test.h
+|   |       |   |   |   |   |-- td
+|   |       |   |   |   |   |   |-- core
+|   |       |   |   |   |   |   |   |-- td_core_drv.h
+|   |       |   |   |   |   |   |   `-- td_core_reg.h
+|   |       |   |   |   |   |   |-- table
+|   |       |   |   |   |   |   |   |-- td_table_drv.h
+|   |       |   |   |   |   |   |   `-- td_table_reg.h
+|   |       |   |   |   |   |   `-- wrap
+|   |       |   |   |   |   |       |-- td_wrap_drv.h
+|   |       |   |   |   |   |       `-- td_wrap_reg.h
+|   |       |   |   |   |   |-- vi
+|   |       |   |   |   |   |   |-- pipe
+|   |       |   |   |   |   |   |   |-- vi_pipe_drv.h
+|   |       |   |   |   |   |   |   `-- vi_pipe_reg.h
+|   |       |   |   |   |   |   `-- wrap
+|   |       |   |   |   |   |       |-- vi_wrap_drv.h
+|   |       |   |   |   |   |       `-- vi_wrap_reg.h
+|   |       |   |   |   |   |-- video_subsystem_addr.h
+|   |       |   |   |   |   `-- vo
+|   |       |   |   |   |       |-- core
+|   |       |   |   |   |       |   |-- vo_core_drv.h
+|   |       |   |   |   |       |   `-- vo_core_reg.h
+|   |       |   |   |   |       |-- remap
+|   |       |   |   |   |       |   |-- vo_remap_drv.h
+|   |       |   |   |   |       |   `-- vo_remap_reg.h
+|   |       |   |   |   |       `-- table
+|   |       |   |   |   |           |-- vo_table_drv.h
+|   |       |   |   |   |           `-- vo_table_reg.h
+|   |       |   |   |   `-- wdt.h
+|   |       |   |   |-- cpu
+|   |       |   |   |   |-- atomic.h
+|   |       |   |   |   |-- cache.h
+|   |       |   |   |   |-- core_v5.h
+|   |       |   |   |   |-- interrupt.h
+|   |       |   |   |   |-- k510.h
+|   |       |   |   |   |-- lm.h
+|   |       |   |   |   |-- pfm.h
+|   |       |   |   |   |-- platform.h
+|   |       |   |   |   |-- resume.h
+|   |       |   |   |   `-- sleep.h
+|   |       |   |   `-- utils
+|   |       |   |       |-- incbin.h
+|   |       |   |       |-- io.h
+|   |       |   |       |-- k510_log.h
+|   |       |   |       |-- utils.h
+|   |       |   |       `-- verify_common.h
+|   |       |   `-- utils
+|   |       |       |-- utils.c
+|   |       |       `-- verify_common.c
+|   |       |-- env.sh
+|   |       |-- lds
+|   |       |   `-- k510.ld
+|   |       `-- test
+|   |           |-- fft
+|   |           |   |-- hard_fft.c
+|   |           |   |-- hard_fft.h
+|   |           |   |-- main.c
+|   |           |   |-- soft_fft.c
+|   |           |   `-- soft_fft.h
+|   |           |-- mailbox_demo
+|   |           |   `-- main.c
+|   |           `-- simd_umul8_demo
+|   |               `-- main.c
+|   |-- libdisp
+|   |   |-- Config.in
+|   |   |-- libdisp.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- disp.c
+|   |       `-- disp.h
+|   |-- librtmp
+|   |   |-- 0001-buildroot-librtmp.patch
+|   |   |-- Config.in
+|   |   |-- librtmp.hash
+|   |   `-- librtmp.mk
+|   |-- live555_canaan
+|   |   |-- 0001-buildroot-live555.patch
+|   |   |-- 0002-buildroot-live555.patch
+|   |   |-- 0003-buildroot-live555.patch
+|   |   |-- 0004-buildroot-live555.patch
+|   |   |-- 0005-buildroot-live555.patch
+|   |   |-- 0006-buildroot-live555.patch
+|   |   |-- 0007-buildroot-live555.patch
+|   |   |-- 0008-buildroot-live555.patch
+|   |   |-- 0009-buildroot-live555.patch
+|   |   |-- 0010-buildroot-live555.patch
+|   |   |-- Config.in
+|   |   |-- live555.hash
+|   |   |-- live555.mk
+|   |   `-- src
+|   |       `-- config.riscv64
+|   |-- lvgl
+|   |   |-- 0001-lvgl-port-to-k510.patch
+|   |   |-- 0002-lvgl-resolution-auto-adaptation.patch
+|   |   |-- Config.in
+|   |   `-- lvgl.mk
+|   |-- mailbox_demo
+|   |   |-- Config.in
+|   |   |-- mailbox_demo.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- cpu2dsp_task_demo.c
+|   |       |-- mailbox_async.c
+|   |       `-- mailbox_poll.c
+|   |-- mediactl_lib
+|   |   |-- Config.in
+|   |   |-- mediactl_lib.mk
+|   |   `-- src
+|   |       |-- 3a_ctl
+|   |       |   |-- ae_cfg_param.h
+|   |       |   `-- ae_ctl.h
+|   |       |-- Makefile
+|   |       |-- adaptive
+|   |       |   |-- adaptive_isp_reg.h
+|   |       |   |-- adaptive_params.h
+|   |       |   |-- adaptive_setting.h
+|   |       |   |-- adaptive_user_func.h
+|   |       |   `-- sensor_params
+|   |       |       |-- adaptive_linner_wdr_gamma.h
+|   |       |       |-- canaan_isp_struct.h
+|   |       |       |-- gc2093_gc2053
+|   |       |       |   |-- adaptive_gc2053_r2k.h
+|   |       |       |   `-- adaptive_gc2093_f2k.h
+|   |       |       |-- imx219
+|   |       |       |   |-- adaptive_imx219_f2k.h
+|   |       |       |   `-- adaptive_imx219_r2k.h
+|   |       |       `-- imx385
+|   |       |           |-- adaptive_imx385_f2k.h
+|   |       |           `-- adaptive_imx385_r2k.h
+|   |       |-- config
+|   |       |   |-- gc2053.conf
+|   |       |   |-- gc2093.conf
+|   |       |   |-- gc2145.conf
+|   |       |   |-- imx219_0.conf
+|   |       |   |-- imx219_1.conf
+|   |       |   |-- imx219_1080x1920_0.conf
+|   |       |   |-- imx219_1080x1920_1.conf
+|   |       |   |-- imx385_0.conf
+|   |       |   |-- imx385_2frame.conf
+|   |       |   |-- imx385_3frame.conf
+|   |       |   |-- imx385_normal.conf
+|   |       |   |-- imx385_video_1920x1080.conf
+|   |       |   |-- imx385_video_1920x1080_2frame.conf
+|   |       |   |-- imx385_video_1920x1080_3frame.conf
+|   |       |   |-- imx385_video_1920x1080_normal.conf
+|   |       |   |-- sc035hgs.conf
+|   |       |   |-- video_drm_1080x1920.conf
+|   |       |   |-- video_drm_1080x1920_r2k.conf
+|   |       |   |-- video_drm_1920x1080.conf
+|   |       |   |-- video_drm_gc2053_gc2093_1920x1080.conf
+|   |       |   |-- video_drm_gc2093_1920x1080_gc2145_1280x960.conf
+|   |       |   |-- video_drm_gc2093_1920x1080_gc2145_1600x1200.conf
+|   |       |   |-- video_drm_gc2093_800x1080_gc2145_1280x960.conf
+|   |       |   |-- video_drm_gc2093_800x1080_gc2145_1600x1200.conf
+|   |       |   |-- video_drm_gc2093_gc2053_isp_mux.conf
+|   |       |   `-- video_drm_sc035_640x480.conf
+|   |       |-- isp
+|   |       |   |-- cJSON.c
+|   |       |   |-- cJSON.h
+|   |       |   |-- isp.h
+|   |       |   |-- isp_cfg.c
+|   |       |   |-- isp_com.h
+|   |       |   |-- isp_rd_cfg.c
+|   |       |   |-- json_parse.c
+|   |       |   |-- json_parse.h
+|   |       |   |-- mipi_csi2.h
+|   |       |   `-- vi.h
+|   |       |-- lib3actl.so
+|   |       |-- libadaptive.so
+|   |       |-- linux
+|   |       |   |-- canaan-camera-module.h
+|   |       |   `-- k510isp.h
+|   |       |-- media
+|   |       |   |-- mediactl-priv.h
+|   |       |   |-- mediactl.c
+|   |       |   `-- mediactl.h
+|   |       |-- media_ctl.c
+|   |       |-- media_ctl.h
+|   |       |-- v4l2
+|   |       |   |-- tools.h
+|   |       |   |-- v4l2subdev.c
+|   |       |   `-- v4l2subdev.h
+|   |       |-- v4l2_demo
+|   |       |   |-- Makefile
+|   |       |   |-- list.h
+|   |       |   |-- media_ctl.h
+|   |       |   |-- v4l2-demo.c
+|   |       |   |-- v4l2.c
+|   |       |   `-- v4l2.h
+|   |       |-- v4l2_drm
+|   |       |   |-- Makefile
+|   |       |   |-- drm
+|   |       |   |   |-- drm.h
+|   |       |   |   |-- drm_fourcc.h
+|   |       |   |   |-- drm_mode.h
+|   |       |   |   |-- k510_drm.c
+|   |       |   |   |-- k510_drm.h
+|   |       |   |   |-- libsync.h
+|   |       |   |   |-- xf86drm.h
+|   |       |   |   `-- xf86drmMode.h
+|   |       |   |-- libdrm.so
+|   |       |   `-- v4l2_drm.cc
+|   |       `-- v4l2_test
+|   |           |-- Makefile
+|   |           |-- imx219_0.conf
+|   |           |-- imx219_1.conf
+|   |           |-- media_ctl.h
+|   |           |-- v4l2_test.c
+|   |           `-- video_test.conf
+|   |-- nncase_linux_runtime
+|   |   |-- Config.in
+|   |   |-- nncase_linux_runtime.hash
+|   |   `-- nncase_linux_runtime.mk
+|   |-- opencv4
+|   |   |-- Config.in
+|   |   `-- opencv4.mk
+|   |-- patches
+|   |   |-- linux
+|   |   |   |-- 0001-andestech-323-linux-4.17-code.patch
+|   |   |   |-- 0002-canaan-20220507.patch
+|   |   |   |-- 0003-isp-dma.patch
+|   |   |   |-- 0004-tcperror-canaan-20220513.patch
+|   |   |   |-- 0005-gamma-calibration.patch
+|   |   |   |-- 0006-sensor-fr.patch
+|   |   |   |-- 0007-k510-isp-driver-repeated-free-memory.patch
+|   |   |   |-- 0007-share-memory-align-alloc.patch
+|   |   |   |-- 0008-gamma-calibration-and-reduce-image-sensor-clock-freq.patch
+|   |   |   |-- 0009-change-v4l2-format-check.patch
+|   |   |   |-- 0009-ds2-add-pitch.patch
+|   |   |   |-- 0009-isp_buffer_err_handling.patch
+|   |   |   |-- 0010-twod-add-driver.patch
+|   |   |   |-- 0011-Modify-the-initial-default-value-of-AE.patch
+|   |   |   |-- 0011-twod-fix-osd-err.patch
+|   |   |   |-- 0012-add-awb-sync-and-reg-RW-and-change-gamma-curve.patch
+|   |   |   |-- 0013-Modify-l2-tag-data-ram-ctl-to-1.patch
+|   |   |   |-- 0013-add-ISP-AE-device.patch
+|   |   |   |-- 0013-nau8822-capture-mixaudio.patch
+|   |   |   |-- 0014-fix-vi-double-start.patch
+|   |   |   |-- 0015-Add-lt9611-DSI-to-HDMI-driver-support.patch
+|   |   |   |-- 0015-isp-reset.patch
+|   |   |   |-- 0016-modify-AE-default-setting-and-gamma-table.patch
+|   |   |   |-- 0017-fix-imx219-gain-and-exposure-parameter-settings.patch
+|   |   |   |-- 0018-update-imx385-ae-calc-accuracy.patch
+|   |   |   |-- 0019-fix-isp-image-size-align.patch
+|   |   |   |-- 0020-fix-vo-driver.patch
+|   |   |   |-- 0021-fix-kendryte-rtc-driver-code-error.patch
+|   |   |   |-- 0022-fix-vo-driver.patch
+|   |   |   |-- 0023-enable-netlink-connector-protocol.patch
+|   |   |   |-- 0024-isp-drop-buf.patch
+|   |   |   |-- 0025-Add-get-phys-address-ioctl-to-dma-buf.patch
+|   |   |   |-- 0025-add-ISP-Core-Reg-W-R-ioctl-imx219-mdelay2udelay.patch
+|   |   |   |-- 0025-camera-support-gc2053-gc2093-gc2145-sensor-driver.patch
+|   |   |   |-- 0026-DAC-channel-reversed.patch
+|   |   |   |-- 0026-drm-panel-mutli-panel-support.patch
+|   |   |   |-- 0027-Add-layer0-crop-and-scale.patch
+|   |   |   |-- 0027-isp-y-uv-int.patch
+|   |   |   |-- 0028-snesor-driver-setting.patch
+|   |   |   |-- 0029-16k_play_noise.patch
+|   |   |   |-- 0030-extended-gpio_keys-driver-to-supports-event-operatio.patch
+|   |   |   |-- 0031-gc2093-add-flip-control.patch
+|   |   |   |-- 0032-Fix-ISP-rectangle-feature.patch
+|   |   |   |-- 0032-gc2053-add-800-1080-resolution.patch
+|   |   |   |-- 0033-camera-add-sc035hgs-sensor-support.patch
+|   |   |   |-- 0034-canaan-isp-fix-f2k-int-clear-error-main-ds2-out-buff.patch
+|   |   |   |-- 0035-camera-support-imx385-wdr-mode.patch
+|   |   |   |-- 0036-Align-IMX219-width-to-16.patch
+|   |   |   |-- 0036-isp-fix-isp-out-buffer-addr-set-wrong-issue.patch
+|   |   |   |-- 0037-Fix-UART1RX-IO-voltage-set-to-3.3V.patch
+|   |   |   |-- 0037-nau8822-capture-mixaudio-32bit.patch
+|   |   |   |-- 0038-fix-wrong-IO-voltage.patch
+|   |   |   |-- 0039-fix-rng-init-error.patch
+|   |   |   |-- 0039-modify-exposure-setting-of-sc035hgs.patch
+|   |   |   |-- 0040-The-number-of-temperature-sensors-that-read-the-temp.patch
+|   |   |   |-- 0041-set-RPL-to-default-value-when-wdt-reset.patch
+|   |   |   |-- 0042-add-wifi-driver-bcmdhd.patch
+|   |   |   |-- 0043-modify-sensor-output-size-and-otc-crop.patch
+|   |   |   |-- 0044-IMX219-add-1296x728-and-656x488-resolution.patch
+|   |   |   |-- 0045-fix-IOMUX-GPIO18-conflict.patch
+|   |   |   |-- 0046-Fix-SC035HGS-camera-driver.patch
+|   |   |   |-- 0048-fix-RTC-frequency-settings.patch
+|   |   |   `-- 0049-fix-453-RTC-driver-write-time.patch
+|   |   `-- uboot
+|   |       |-- 0001-canaan-20220507.patch
+|   |       |-- 0002-fix-dsi-read-hang.patch
+|   |       |-- 0003-crb1.2-modify-phy-txdelay.patch
+|   |       |-- 0004-fix-after-reboot-cmd-insert-cable-net-not-work.patch
+|   |       |-- 0005-increase-FPS.patch
+|   |       |-- 0006-Add-LCD-and-HDMI-switch.patch
+|   |       |-- 0007-enable-logo-display.patch
+|   |       |-- 0008-add-ws2812-init.patch
+|   |       |-- 0009-uboot-lcd-init-faile-reboot-board.patch
+|   |       |-- 0010-enable-lcd-logo.patch
+|   |       |-- 0011-Initialize-VO-before-starting-DSI.patch
+|   |       |-- 0012-display-Support-Fitipower-JD9365D-800x1280-lcd.patch
+|   |       |-- 0013-display-add-bootargs-panel.id.patch
+|   |       |-- 0014-dsi-use-hs-mode-sending-cmd-for-JD9365D.patch
+|   |       |-- 0015-display-reset-the-soc-when-the-display-init-error.patch
+|   |       |-- 0016-dsi-only-the-mipi-lcd-init-failed-do-soc-reset.patch
+|   |       `-- 0017-fix-wrong-IO-voltage.patch
+|   |-- pwm
+|   |   |-- Config.in
+|   |   |-- pwm.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- pwm.c
+|   |-- riscv-pk-k510
+|   |   |-- Config.in
+|   |   `-- riscv-pk-k510.mk
+|   |-- riscv-tinymembench
+|   |   |-- 0001-arm-fix-build-on-Thumb-only-architectures.patch
+|   |   |-- 0002-comment-off-some-code-to-run-on-k510.patch
+|   |   |-- Config.in
+|   |   `-- riscv-tinymembench.mk
+|   |-- rtc
+|   |   |-- Config.in
+|   |   |-- rtc.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       `-- rtc.c
+|   |-- server
+|   |   |-- Config.in
+|   |   |-- server.mk
+|   |   `-- src
+|   |       |-- Makefile
+|   |       |-- server.c
+|   |       `-- server.h
+|   |-- trng
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   `-- trng.c
+|   |   `-- trng.mk
+|   |-- twod_demo
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   |-- canaan_logo_320x240.argb
+|   |   |   |-- lib_twod.c
+|   |   |   |-- lib_twod.h
+|   |   |   |-- twod_rgb2yuv.c
+|   |   |   |-- twod_rotation.c
+|   |   |   |-- twod_scaler.c
+|   |   |   |-- twod_scaler_output_rgb888.c
+|   |   |   `-- twod_scaler_overlay_osd.c
+|   |   `-- twod_app.mk
+|   |-- uart
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   |-- uart.c
+|   |   |   `-- uart.h
+|   |   `-- uart.mk
+|   |-- venc_lib
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- enc_interface.h
+|   |   |   `-- libvenc.so
+|   |   `-- venc_lib.mk
+|   |-- video_lib
+|   |   |-- Canaanlogo_1088x720_nv12_hflip.yuv
+|   |   |-- Canaanlogo_1088x720_nv12_vflip.yuv
+|   |   |-- Canaanlogo_1088x720_nv21_vflip.yuv
+|   |   |-- Canaanlogo_640x480_rgb888_stride1920_bgr.bmp.argb
+|   |   |-- Canaanlogo_640x480_rgb888_stride1920_rgb.bmp.argb
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   |-- bt1120
+|   |   |   |   |-- bt1120.c
+|   |   |   |   |-- bt1120.h
+|   |   |   |   |-- bt1120_drv.c
+|   |   |   |   |-- bt1120_drv.h
+|   |   |   |   `-- bt1120_reg.h
+|   |   |   |-- cfg_params
+|   |   |   |   |-- common_params.c
+|   |   |   |   |-- imx219_params.c
+|   |   |   |   |-- imx385_params.c
+|   |   |   |   `-- jfx23s_params.c
+|   |   |   |-- exctl_dev
+|   |   |   |   |-- cv8788.c
+|   |   |   |   |-- dev_hw.h
+|   |   |   |   |-- dev_reg.h
+|   |   |   |   |-- exctl_dev.c
+|   |   |   |   `-- hmdi.c
+|   |   |   |-- i2c
+|   |   |   |   |-- i2c_com.c
+|   |   |   |   `-- i2c_com.h
+|   |   |   |-- isp_2k
+|   |   |   |   |-- core
+|   |   |   |   |   |-- isp_core_drv.h
+|   |   |   |   |   |-- isp_core_reg.h
+|   |   |   |   |   |-- isp_f2k_core_drv.c
+|   |   |   |   |   `-- isp_r2k_core_drv.c
+|   |   |   |   |-- ds
+|   |   |   |   |   |-- isp_ds_coeff.c
+|   |   |   |   |   |-- isp_ds_drv.h
+|   |   |   |   |   |-- isp_ds_reg.h
+|   |   |   |   |   |-- isp_f2k_ds_drv.c
+|   |   |   |   |   `-- isp_r2k_ds_drv.c
+|   |   |   |   |-- fbc
+|   |   |   |   |   |-- isp_3dnr_fbc_drv.c
+|   |   |   |   |   |-- isp_3dnr_fbc_drv.h
+|   |   |   |   |   `-- isp_3dnr_fbc_reg.h
+|   |   |   |   |-- fbd
+|   |   |   |   |   |-- isp_3dnr_fbd_drv.c
+|   |   |   |   |   |-- isp_3dnr_fbd_drv.h
+|   |   |   |   |   `-- isp_3dnr_fbd_reg.h
+|   |   |   |   |-- isp.h
+|   |   |   |   |-- isp_f2k.c
+|   |   |   |   |-- isp_f2k.h
+|   |   |   |   |-- isp_r2k.c
+|   |   |   |   |-- isp_r2k.h
+|   |   |   |   |-- remap
+|   |   |   |   |   |-- isp_f2k_remap_drv.c
+|   |   |   |   |   |-- isp_r2k_remap_drv.c
+|   |   |   |   |   |-- isp_remap_drv.h
+|   |   |   |   |   `-- isp_remap_reg.h
+|   |   |   |   |-- table
+|   |   |   |   |   |-- isp_f2k_table_drv.c
+|   |   |   |   |   |-- isp_gamma_table.c
+|   |   |   |   |   |-- isp_r2k_table_drv.c
+|   |   |   |   |   |-- isp_table_drv.h
+|   |   |   |   |   `-- isp_wdr_table.c
+|   |   |   |   `-- wrap
+|   |   |   |       |-- isp_f2k_wrap_drv.c
+|   |   |   |       |-- isp_r2k_wrap_drv.c
+|   |   |   |       |-- isp_wrap_drv.h
+|   |   |   |       `-- isp_wrap_reg.h
+|   |   |   |-- isp_3d
+|   |   |   |   |-- core
+|   |   |   |   |   |-- isp_3d_core.c
+|   |   |   |   |   |-- isp_3d_core_drv.h
+|   |   |   |   |   `-- isp_3d_core_reg.h
+|   |   |   |   |-- isp_3d.c
+|   |   |   |   |-- isp_3d.h
+|   |   |   |   |-- table
+|   |   |   |   |   |-- isp_3d_gamma.c
+|   |   |   |   |   |-- isp_3d_table_drv.c
+|   |   |   |   |   `-- isp_3d_table_drv.h
+|   |   |   |   `-- wrap
+|   |   |   |       |-- isp_3d_wrap_drv.c
+|   |   |   |       |-- isp_3d_wrap_drv.h
+|   |   |   |       `-- isp_3d_wrap_reg.h
+|   |   |   |-- isp_com.h
+|   |   |   |-- isp_fbc
+|   |   |   |   |-- core
+|   |   |   |   |   |-- fbc_core_drv.c
+|   |   |   |   |   |-- fbc_core_drv.h
+|   |   |   |   |   `-- fbc_core_reg.h
+|   |   |   |   |-- isp_fbc.c
+|   |   |   |   |-- isp_fbc.h
+|   |   |   |   `-- wrap
+|   |   |   |       |-- fbc_wrap_drv.c
+|   |   |   |       |-- fbc_wrap_drv.h
+|   |   |   |       `-- fbc_wrap_reg.h
+|   |   |   |-- isp_init.c
+|   |   |   |-- isp_video.c
+|   |   |   |-- isp_video.h
+|   |   |   |-- mipi
+|   |   |   |   |-- csi
+|   |   |   |   |   |-- mipi_csi_drv.c
+|   |   |   |   |   |-- mipi_csi_drv.h
+|   |   |   |   |   `-- mipi_csi_reg.h
+|   |   |   |   |-- mipi.c
+|   |   |   |   |-- mipi.h
+|   |   |   |   |-- mipi_dsi.c
+|   |   |   |   `-- phy
+|   |   |   |       |-- mipi_corner_drv.c
+|   |   |   |       |-- mipi_corner_reg.h
+|   |   |   |       |-- mipi_phy.c
+|   |   |   |       `-- mipi_phy_rx_reg.h
+|   |   |   |-- sensor
+|   |   |   |   |-- imx219.c
+|   |   |   |   |-- imx385.c
+|   |   |   |   |-- jfx23s.c
+|   |   |   |   `-- sensor.h
+|   |   |   |-- testlib
+|   |   |   |   |-- Makefile
+|   |   |   |   |-- test_videolib.c
+|   |   |   |   `-- test_videolib.cc
+|   |   |   |-- testlib_n
+|   |   |   |   |-- Makefile
+|   |   |   |   |-- test_dualcamera.cc
+|   |   |   |   |-- test_scamera.cc
+|   |   |   |   |-- test_videolib_n.cc
+|   |   |   |   |-- tunning_server_dsi.cc
+|   |   |   |   `-- tunning_server_hdmi.cc
+|   |   |   |-- vi
+|   |   |   |   |-- pipe
+|   |   |   |   |   |-- vi_pipe_drv.c
+|   |   |   |   |   |-- vi_pipe_drv.h
+|   |   |   |   |   `-- vi_pipe_reg.h
+|   |   |   |   |-- vi.c
+|   |   |   |   |-- vi.h
+|   |   |   |   |-- vi_com.h
+|   |   |   |   `-- wrap
+|   |   |   |       |-- vi_wrap_drv.c
+|   |   |   |       |-- vi_wrap_drv.h
+|   |   |   |       `-- vi_wrap_reg.h
+|   |   |   |-- video_subsystem.h
+|   |   |   `-- vo
+|   |   |       |-- core
+|   |   |       |   |-- vo_core_drv.c
+|   |   |       |   |-- vo_core_drv.h
+|   |   |       |   `-- vo_core_reg.h
+|   |   |       |-- remap
+|   |   |       |   |-- vo_remap_drv.c
+|   |   |       |   |-- vo_remap_drv.h
+|   |   |       |   `-- vo_remap_reg.h
+|   |   |       |-- table
+|   |   |       |   |-- vo_table_coeff.c
+|   |   |       |   |-- vo_table_drv.c
+|   |   |       |   `-- vo_table_drv.h
+|   |   |       |-- vo.c
+|   |   |       |-- vo.h
+|   |   |       `-- vo_com.h
+|   |   `-- video_lib.mk
+|   |-- watchdog
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   `-- watchdog.c
+|   |   `-- watchdog.mk
+|   |-- wifi
+|   |   |-- Config.in
+|   |   |-- src
+|   |   |   |-- Makefile
+|   |   |   |-- inc
+|   |   |   |   |-- hal_comm.h
+|   |   |   |   |-- hal_wifi.h
+|   |   |   |   `-- wpa_ctrl.h
+|   |   |   |-- lib
+|   |   |   |   `-- libwpa_client.a
+|   |   |   `-- srce
+|   |   |       |-- hal_wifi.c
+|   |   |       `-- test-wifi.c
+|   |   `-- wifi.mk
+|   `-- write_read_file
+|       |-- Config.in
+|       |-- src
+|       |   |-- Makefile
+|       |   `-- write_read_file.c
+|       `-- write_read_file.mk
+|-- patches
+|   |-- 0001-buildroot-busybox-mdev.conf-sd-auto-mount.patch
+|   |-- 0001-buildroot-change-python-cython-version-to-0-29.21.patch
+|   |-- 0001-buildroot-change-python-numpy-version-to-1.19.5.patch
+|   |-- 0001-buildroot-fix-external-toolchain-install-issue-with-andes-323-toolchian.patch
+|   `-- 0001-buildroot-libopenssl.patch
+|-- pkg-download
+|-- release_notes.md
+|-- toolchain
+`-- tools
+    `-- docker
+        |-- Dockerfile_20.04_ok
+        |-- run_k510_docker.sh
+        `-- run_k510_docker_user.sh
+
+316 directories, 1174 files
