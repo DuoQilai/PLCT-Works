@@ -27,9 +27,10 @@
 | TX（pin 8）    | <-----> | RX（绿色）     |
 | RX（pin 10）   | <-----> | TX（白色）     |
 对应引脚如图
-![](../images/llama3.png)
+
+![[../../images/llama3.png]]
 连接Type-C线到电脑
-![](../images/llama4.png)
+![](../../images/llama5.png)
 ### 登录方法
 SSH工具，例如：[MobaXterm](https://mobaxterm.mobatek.net/)
 
