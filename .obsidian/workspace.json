@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k230d/Report_SDK_k230_k510_duo.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k230d/Report_SDK_k230_k510_duo.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k230d/Report_SDK_k230_k510_duo.md"
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k230d/Report_SDK_k230_k510_duo.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,12 +148,18 @@
   },
   "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
+    "images/llama5.png",
+    "images/llama4.png",
+    "images/llama3.png",
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "k230d/Report_SDK_k230_k510_duo.md",
+    "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "k230d/duotree.txt",
     "k230d/k510tree.txt",
     "k230d/k230tree.txt",
     "k230d/tree.txt",
     "Monthly/2024-05/Weekly/Week4.md",
-    "k230d/Report_SDK_k230_k510_duo.md",
     "k230d",
     "Monthly/2024-05/Month2.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
@@ -164,11 +170,9 @@
     "Notes/README.md",
     "Monthly/2024-04/month1.md",
     "Monthly/2024-04/weekly/week1.md",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "未命名.canvas",
     "RISC-V_short_video/Intern_Report_Title.md",
     "Notes/ScienceDay/Duo_FaceDetection.md",
-    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "images/Pasted image 20240529164934.png",
     "images/camera16.png",
     "images/camera15.png",
@@ -177,8 +181,6 @@
     "images/camera12.png",
     "images/camera11.png",
     "images/camera10.png",
-    "images/camera9.png",
-    "images/camera8.png",
     "images",
     "README.md",
     "Milk-V/images",
@@ -191,7 +193,6 @@
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "Notes/Reimbursement.md",
-    "Notes/RISC-V教学内容.md",
-    "Notes/Weekly_meetings.md"
+    "Notes/RISC-V教学内容.md"
   ]
 }
