@@ -373,3 +373,4 @@ python asr_chat-llama-baby.py
 - [【内附教程】来养一只羊驼宝宝吧？！快来Duo S上跑你的第一个生成式AI (qq.com)](https://mp.weixin.qq.com/s/ap7vjHvGWfXjb3ZP8v0UEA)
 - [从 microSD 卡启动 Duo | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/boot)
 - [Duo S | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/duos)
+- [LlamaFamily/Llama-Chinese: Llama中文社区(github.com)](https://github.com/LlamaFamily/Llama-Chinese)
