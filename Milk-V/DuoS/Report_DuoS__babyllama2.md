@@ -265,12 +265,17 @@ while True:
 注意：源码中13-14行appKey和token，需更换自己的，地址：
 [智能语音交互 (aliyun.com)](https://nls-portal.console.aliyun.com/overview?spm=5176.12061031.J_5253785160.4.54806822piszkb&accounttraceid=6e3c1aa3617f4ffd856c9e68addbcb6bvnna)
 [智能语音交互控制台](https://nls-portal.console.aliyun.com/applist?spm=5176.11801677.help.31.22fe7a33qfzKiH)
+
 操作方法：
-1.登录并开通语音交互服务，获取token
+
+1. 登录并开通语音交互服务，获取token
 ![](../../images/llama22.png)
-2.在智能语音交互控制台创建项目，获取appKeay
+
+2. 在智能语音交互控制台创建项目，获取appKeay
 ![](../../images/llama23.png)
 runq-fast-gcc、 stories15M_q80.bin、tokenizer.bin来自llama源码，懒人包：
+[PLCT-Works/Milk-V/DuoS/llama at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/tree/main/Milk-V/DuoS/llama)
+
 至此，准备工作完成。
 ## 下载镜像和工具
 - 从[官方镜像和SDK](https://milkv.io/docs/duo/resources/image-sdk)下载DuoS SD卡版本的系统镜像，如：[milkv-duos-sd-v1.1.1-2024-0528.img.zip](https://github.com/milkv-duo/duo-buildroot-sdk/releases/download/Duo-V1.1.1/milkv-duos-sd-v1.1.1-2024-0528.img.zip)
@@ -286,17 +291,22 @@ runq-fast-gcc、 stories15M_q80.bin、tokenizer.bin来自llama源码，懒人包
 | GND（pin 6）   | <-----> | GND（黑色）    |
 | TX（pin 8）    | <-----> | RX（绿色）     |
 | RX（pin 10）   | <-----> | TX（白色）     |
+
 对应引脚如图
 
 ![](../../images/llama4.png)
+
 连接Type-C线到电脑
+
 ![](../../images/llama6.png)
 
 ### 登录方法
 SSH工具，例如：[MobaXterm](https://mobaxterm.mobatek.net/)
 按照如下步骤设置：
 ![](../../images/llama5.png)
+
 登录成功如下图所示：
+
 ![](../../images/llama7.png)
 ## SPI显示屏连接
 将SPI显示屏背面的引脚对应的接口和duo s板卡的引脚对应
@@ -361,5 +371,5 @@ python asr_chat-llama-baby.py
 
 ## 参考文档：
 - [【内附教程】来养一只羊驼宝宝吧？！快来Duo S上跑你的第一个生成式AI (qq.com)](https://mp.weixin.qq.com/s/ap7vjHvGWfXjb3ZP8v0UEA)
-- [从 microSD 卡启动 Duo | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/boot
+- [从 microSD 卡启动 Duo | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/boot)
 - [Duo S | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/duos)
