@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
+                "file": "Monthly/2024-06/Weekly/Week1.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbe17f65e26d930e",
+  "active": "6866b4f98d3f1fe0",
   "lastOpenFiles": [
+    "k230d/Report_SDK_k230_k510_duo.md",
+    "Monthly/2024-06/Weekly/Week1.md",
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "Monthly/2024-06/Weekly/未命名.md",
+    "Monthly/2024-06/Weekly",
+    "Monthly/2024-06",
     "Milk-V/DuoS/llama/tokenizer.bin",
     "Milk-V/DuoS/llama/stories15M_q80.bin",
     "Milk-V/DuoS/llama/stable_demo",
     "Milk-V/DuoS/llama/runq-fast-gcc",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Milk-V/DuoS/llama",
-    "k230d/Report_SDK_k230_k510_duo.md",
     "images/llama23.png",
     "images/llama22.png",
     "images/llama21.png",
@@ -170,9 +174,7 @@
     "k230d/duotree.txt",
     "k230d/k510tree.txt",
     "k230d/k230tree.txt",
-    "k230d/tree.txt",
     "Monthly/2024-05/Weekly/Week4.md",
-    "k230d",
     "Monthly/2024-05/Month2.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "Notes/K230d.md",
@@ -185,7 +187,6 @@
     "未命名.canvas",
     "RISC-V_short_video/Intern_Report_Title.md",
     "Notes/ScienceDay/Duo_FaceDetection.md",
-    "images",
     "README.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Project_Introduction.md",
@@ -193,7 +194,6 @@
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
-    "Notes/Reimbursement.md",
-    "Notes/RISC-V教学内容.md"
+    "Notes/Reimbursement.md"
   ]
 }
