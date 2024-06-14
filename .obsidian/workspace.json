@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d910366ff6860c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week1.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week1.md"
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
               }
             }
           },
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week1.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6866b4f98d3f1fe0",
+  "active": "5d910366ff6860c0",
   "lastOpenFiles": [
     "k230d/Report_SDK_k230_k510_duo.md",
     "Monthly/2024-06/Weekly/Week1.md",

@@ -282,6 +282,7 @@ runq-fast-gcc、 stories15M_q80.bin、tokenizer.bin来自llama源码，懒人包
 注意：需要下载0410之后版本的镜像，且0410后版本镜像关闭了RNDIS功能，改用串口连接。如果网络适配器搜不到不要着急。
 - 下载镜像烧录工具 [balenaEtcher](https://etcher.balena.io/) 或 [Rufus](https://rufus.ie/en/)
 烧录方法详见[从 microSD 卡启动 Duo | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/boot)
+- [# 【Milk-V Duo S】Duo S 启动！](https://www.bilibili.com/video/BV1Bm421N72y)
 ## 串口连接
 ### 连线方法
 将USB-TTL的引脚对应Duo S的引脚，对应关系如下：
