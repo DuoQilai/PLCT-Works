@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
+                "file": "Monthly/2024-06/Weekly/Week2.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+                "file": "Monthly/2024-06/Weekly/Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +161,10 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "Monthly/2024-06/Weekly/Week2.md",
     "k230d/Report_SDK_k230_k510_duo.md",
     "Monthly/2024-06/Weekly/Week1.md",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Monthly/2024-06/Weekly/未命名.md",
     "Monthly/2024-06/Weekly",
     "Monthly/2024-06",
@@ -206,7 +207,6 @@
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
-    "Notes/Reimbursement.md"
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md"
   ]
 }
