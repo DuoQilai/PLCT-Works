@@ -9,12 +9,16 @@
 社区向的：
 
 开箱！Milk-V 的新年礼！
+
 https://www.bilibili.com/video/BV1bm411X7s1/
 
 测试技术向的：
 【Milk-v duo】 测试通过VLC显示CAM-GC2083摄像头拍摄画面
+
 https://www.bilibili.com/video/BV188411v7tc/
+
 【Milk-v duo】 使用Milk-v duo驱动DF9GMS微型舵机
+
 https://www.bilibili.com/video/BV1Dj411E7yD/
 
 ## 实习生题目
@@ -24,4 +28,5 @@ https://www.bilibili.com/video/BV1Dj411E7yD/
 一般是一周左右的时间准备，题目是 mentor 命题报告。报告时间一般是提前1周约好。
 
 注意需要先提交产出物后再约报告时间。
+
 https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Intern_Report_Title.md

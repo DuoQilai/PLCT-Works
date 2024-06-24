@@ -2,6 +2,8 @@
 
 本周工作
 
-## 在Duo S运行故事机baby llama2-视频教程
+## Duo S连接wifi
 
-[【Milk-V Duo S】在Duo S运行故事机baby llama2_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dn4y197UW/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+[PLCT-Works/Milk-V/DuoS/Report_DuoS_Setup_wifi.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS_Setup_wifi.md)
+## 实习生候选人指引
+[PLCT-Works/RISC-V_short_video/Get started.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Get%20started.md)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+                "file": "Monthly/2024-06/Weekly/Week3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+                "file": "Monthly/2024-06/Weekly/Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md"
+                "file": "Monthly/2024-06/Weekly/Week3.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+                "file": "Monthly/2024-06/Weekly/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,16 +173,16 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
-    "Monthly/2024-06/Weekly/Week3.md",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+    "RISC-V_short_video/Get_started.md",
+    "Monthly/2024-06/Weekly/Week3.md",
     "images/wifi5.png",
     "images/wifi4.png",
     "images/wifi3.png",
     "images/wifi2.png",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
-    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "images/wifi1.png",
-    "RISC-V_short_video/Get started.md",
     "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
