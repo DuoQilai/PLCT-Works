@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e504b92e9c34a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week2.md"
+                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md"
               }
             }
           },
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week2.md",
+                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,8 +173,26 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
+    "images/wifi5.png",
+    "images/wifi4.png",
+    "images/wifi3.png",
+    "images/wifi2.png",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
+    "images/wifi1.png",
+    "RISC-V_short_video/Get started.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Job_Description.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
+    "RISC-V_short_video/baby_book.md",
+    "RISC-V_short_video/Review_Document/Project_proposal 1.md",
+    "README.md",
     "Monthly/2024-06/Weekly/Week2.md",
+    "RISC-V_short_video/项目设计.md",
+    "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "k230d/Report_SDK_k230_k510_duo.md",
     "Monthly/2024-06/Weekly/Week1.md",
     "Monthly/2024-06/Weekly/未命名.md",
@@ -173,7 +203,6 @@
     "Milk-V/DuoS/llama/stable_demo",
     "Milk-V/DuoS/llama/runq-fast-gcc",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
-    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "Milk-V/DuoS/llama",
     "images/llama23.png",
     "images/llama22.png",
@@ -181,13 +210,8 @@
     "images/llama20.png",
     "images/llama19.png",
     "images/llama18.png",
-    "images/llama17.png",
-    "images/llama16.png",
-    "images/llama15.png",
-    "images/llama14.png",
     "k230d/duotree.txt",
     "k230d/k510tree.txt",
-    "k230d/k230tree.txt",
     "Monthly/2024-05/Weekly/Week4.md",
     "Monthly/2024-05/Month2.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
@@ -195,18 +219,6 @@
     "Monthly/2024-05/Weekly/Week3.md",
     "Monthly/2024-05/Weekly/Week2.md",
     "Monthly/2024-05/Weekly/Week1.md",
-    "Notes/README.md",
-    "Monthly/2024-04/month1.md",
-    "Monthly/2024-04/weekly/week1.md",
-    "未命名.canvas",
-    "RISC-V_short_video/Intern_Report_Title.md",
-    "Notes/ScienceDay/Duo_FaceDetection.md",
-    "README.md",
-    "RISC-V_short_video/Job_Description.md",
-    "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
-    "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
-    "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md"
+    "未命名.canvas"
   ]
 }
