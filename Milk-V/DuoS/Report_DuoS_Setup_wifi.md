@@ -4,7 +4,9 @@
 
 /etc/wpa_supplicant.conf
 原内容
+
 ![](../../images/wifi1.png)
+
 
 ```
 ctrl_interface=/var/run/wpa_supplicant
@@ -24,10 +26,18 @@ network={
 wpa_supplicant -B -i wlan0 -c /etc/wpa_supplicant.conf
 ```
 
+
 ![](../../images/wifi2.png)
+
+
 即可连接 WIFI，连接之后可以通过 `ifconfig` 或者 `ip a` 命令查看分配的 IP 地址。
+
 ![](../../images/wifi4.png)
+
 尝试通过IP地址连接，密码milkv
+
 ![](../../images/wifi3.png)
+
 成功登录
+
 ![](../../images/wifi5.png)
