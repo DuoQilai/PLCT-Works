@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week3.md",
+                "file": "Monthly/2024-05/Month3.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+                "file": "Monthly/2024-05/Month3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week3.md",
+                "file": "Monthly/2024-05/Month3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week3.md"
+                "file": "Monthly/2024-05/Month3.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-06/Weekly/Week3.md",
+                "file": "Monthly/2024-05/Month3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,15 +171,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d910366ff6860c0",
+  "active": "4e504b92e9c34a5d",
   "lastOpenFiles": [
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
+    "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
+    "Monthly/2024-05/Month3.md",
+    "Monthly/2024-06/Weekly/Week1.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
+    "Monthly/2024-06/Weekly/Week4.md",
+    "Monthly/2024-05/Weekly/Week4.md",
     "Monthly/2024-05/Weekly/Week3.md",
+    "Monthly/2024-06/Weekly/Week3.md",
+    "Monthly/2024-05/Month2.md",
+    "Monthly/2024-06/Weekly/Week2.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
     "Monthly/2024-05/Weekly/Week2.md",
     "Monthly/2024-05/Weekly/Week1.md",
-    "Monthly/2024-06/Weekly/Week3.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
-    "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
     "RISC-V_short_video/Get_started.md",
     "images/wifi5.png",
     "images/wifi4.png",
@@ -187,7 +195,6 @@
     "images/wifi2.png",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "images/wifi1.png",
-    "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Intern_Report_Title.md",
@@ -195,19 +202,15 @@
     "RISC-V_short_video/baby_book.md",
     "RISC-V_short_video/Review_Document/Project_proposal 1.md",
     "README.md",
-    "Monthly/2024-06/Weekly/Week2.md",
     "RISC-V_short_video/项目设计.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "k230d/Report_SDK_k230_k510_duo.md",
-    "Monthly/2024-06/Weekly/Week1.md",
-    "Monthly/2024-06/Weekly/未命名.md",
     "Monthly/2024-06/Weekly",
     "Monthly/2024-06",
     "Milk-V/DuoS/llama/tokenizer.bin",
     "Milk-V/DuoS/llama/stories15M_q80.bin",
     "Milk-V/DuoS/llama/stable_demo",
     "Milk-V/DuoS/llama/runq-fast-gcc",
-    "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "Milk-V/DuoS/llama",
     "images/llama23.png",
     "images/llama22.png",
@@ -216,9 +219,6 @@
     "images/llama19.png",
     "k230d/duotree.txt",
     "k230d/k510tree.txt",
-    "Monthly/2024-05/Weekly/Week4.md",
-    "Monthly/2024-05/Month2.md",
-    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "未命名.canvas"
   ]
 }
