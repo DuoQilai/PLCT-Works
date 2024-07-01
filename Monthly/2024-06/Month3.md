@@ -16,9 +16,10 @@
 
 [PLCT-Works/Milk-V/DuoS/Report_DuoS_Setup_wifi.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS_Setup_wifi.md)
 
-### Milk-V Duo S 启动！视频
+### 在 Duo S 上使用 TDL SDK 高效部署人脸检测模型-教学视频
 
-[【Milk-V Duo】Duo S 启动！哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Bm421N72y/)
+https://www.bilibili.com/video/BV1AM4m1m7fe/?spm_id_from=333.999.0.0
+
 ## 2.RISC-V short video项目
 
 ### 实习生候选人指引
