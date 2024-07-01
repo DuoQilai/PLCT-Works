@@ -22,10 +22,15 @@
 ## 2.RISC-V short video项目
 
 ### 实习生候选人指引
+
 [PLCT-Works/RISC-V_short_video/Get_started.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Get_started.md)
 ### RISC-V short video项目计划
 
 [PLCT-Works/RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md)
+
+### RISC-V short video项目方案
+
+[PLCT-Works/RISC-V_short_video/Project_proposal.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal.md)
 
 ## 3.K230d项目
 ### k230/k510/duosdk列表

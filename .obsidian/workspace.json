@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Project_proposal.md",
+                "file": "Monthly/2024-06/Month3.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Project_proposal.md",
+                "file": "Monthly/2024-06/Month3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Project_proposal.md"
+                "file": "Monthly/2024-06/Month3.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Project_proposal.md",
+                "file": "Monthly/2024-06/Month3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
-    "RISC-V_short_video/Task List.md",
     "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Task List.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Intern_Report_Title.md",
