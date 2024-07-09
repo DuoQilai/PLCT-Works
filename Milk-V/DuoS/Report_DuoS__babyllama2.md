@@ -271,7 +271,7 @@ while True:
 1. 登录并开通语音交互服务，获取token
 ![](../../images/llama22.png)
 
-2. 在智能语音交互控制台创建项目，获取appKeay
+2. 在智能语音交互控制台创建项目，获取appKey
 ![](../../images/llama23.png)
 runq-fast-gcc、 stories15M_q80.bin、tokenizer.bin来自llama源码，懒人包：
 [PLCT-Works/Milk-V/DuoS/llama at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/tree/main/Milk-V/DuoS/llama)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md"
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,10 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
+    "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "Notes/从零开始，快速上手Duo开发.pptx",
+    "Notes/~$从零开始，快速上手Duo开发.pptx",
     "RISC-V_short_video/Get_started.md",
     "RISC-V_short_video/baby_book.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
@@ -190,11 +194,8 @@
     "Monthly/2024-06/Weekly/Week3.md",
     "Monthly/2024-06/Weekly/Week2.md",
     "Monthly/2024-06/Weekly/Week1.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
-    "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "images/wifi5.png",
     "images/wifi4.png",
     "images/wifi3.png",
@@ -204,8 +205,6 @@
     "Milk-V/DuoS/llama/tokenizer.bin",
     "Milk-V/DuoS/llama/stories15M_q80.bin",
     "Milk-V/DuoS/llama/stable_demo",
-    "Milk-V/DuoS/llama/runq-fast-gcc",
-    "Milk-V/DuoS/llama",
     "未命名.canvas"
   ]
 }
