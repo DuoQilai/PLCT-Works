@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+                "file": "Monthly/2024-07/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+                "file": "Monthly/2024-07/Weekly/Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md"
+                "file": "Monthly/2024-07/Weekly/Week2.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+                "file": "Monthly/2024-07/Weekly/Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,18 +160,19 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+    "Monthly/2024-07/Weekly/Week2.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
+    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
     "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "RISC-V_short_video/Research_Document/Research_others.md",
     "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.0.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "Notes/pptD0A4.tmp",
     "Notes/ppt768D.tmp",
     "Notes/~$在Duo S上跑你的第一个生成式AI.pptx",
@@ -201,7 +202,6 @@
     "images/spi1.png",
     "Monthly/2024-06/Month3.md",
     "Monthly/2024-06/Weekly/Week4.md",
-    "Monthly/2024-06/Weekly/Week3.md",
     "images/wifi5.png",
     "images/wifi4.png",
     "images/wifi3.png",
