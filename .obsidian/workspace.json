@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-07/Weekly/Week2.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-07/Weekly/Week2.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-07/Weekly/Week2.md"
+                "file": "RISC-V_short_video/Intern_Report_Title.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-07/Weekly/Week2.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,12 +160,20 @@
   },
   "active": "5d910366ff6860c0",
   "lastOpenFiles": [
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+    "RISC-V_short_video/Task List.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Job_Description.md",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "Monthly/2024-07/Weekly/Week2.md",
+    "Monthly/2024-06/Weekly/Week4.md",
+    "Milk-V/DuoS/Report_DuoS_SPI.md",
+    "Milk-V/images/setup2.png",
+    "Milk-V/images/setup3.png",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
-    "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "RISC-V_short_video/Research_Document/Research_others.md",
@@ -185,12 +193,8 @@
     "RISC-V_short_video/Get_started.md",
     "RISC-V_short_video/baby_book.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
-    "RISC-V_short_video/Task List.md",
-    "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Job_Description.md",
     "Monthly/2024-07/Weekly/Week1.md",
     "Milk-V/DuoS/Report_DuoS_Setup_wifi.md",
-    "Milk-V/DuoS/Report_DuoS_SPI.md",
     "Monthly/2024-07/Weekly/未命名.md",
     "Monthly/2024-07/Weekly",
     "Monthly/2024-07",
@@ -200,12 +204,8 @@
     "images/spi3.png",
     "images/spi2.png",
     "images/spi1.png",
-    "Monthly/2024-06/Month3.md",
-    "Monthly/2024-06/Weekly/Week4.md",
     "images/wifi5.png",
     "images/wifi4.png",
-    "images/wifi3.png",
-    "images/wifi2.png",
     "未命名.canvas"
   ]
 }
