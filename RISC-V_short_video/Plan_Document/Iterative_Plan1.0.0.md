@@ -14,4 +14,8 @@
 
 ## 进展
 
-待填写
+- [PLCT-Works/Milk-V/DuoS/Report_DuoS_Setup.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS_Setup.md)
+- [PLCT-Works/Milk-V/DuoS/Report_DuoS__babyllama2.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS__babyllama2.md)
+- [PLCT-Works/Milk-V/DuoS/Report_DuoS__babyllama2_i.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS__babyllama2_i.md)
+- https://www.bilibili.com/video/BV1dn4y197UW/?spm_id_from=333.999.0.0
+- [PLCT-Works/k230d/Report_SDK_k230_k510_duo.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/k230d/Report_SDK_k230_k510_duo.md)
