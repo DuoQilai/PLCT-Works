@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f1e59e57536987d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbe17f65e26d930e",
+  "active": "7f1e59e57536987d",
   "lastOpenFiles": [
     "Milk-V/DuoS/llama/tokenizer.bin",
     "Milk-V/DuoS/llama/stories15M_q80.bin",
