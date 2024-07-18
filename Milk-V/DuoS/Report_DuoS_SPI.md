@@ -1,7 +1,7 @@
 # 在Duo S 用 SPI 接口显示屏运行 LVGL 测试程序
-## 点亮 SPI 显示屏[​](https://milkv.io/zh/docs/duo/resources/spilvgl#%E7%82%B9%E4%BA%AE-spi-%E6%98%BE%E7%A4%BA%E5%B1%8F "点亮 SPI 显示屏的直接链接")
+## 点亮 SPI 显示屏
 
-### 编译固件[​](https://milkv.io/zh/docs/duo/resources/spilvgl#%E7%BC%96%E8%AF%91%E5%9B%BA%E4%BB%B6 "编译固件的直接链接")
+### 编译固件
 
 获取官方SDK：[https://github.com/milkv-duo/duo-buildroot-sdk.git](https://github.com/milkv-duo/duo-buildroot-sdk.git)
 
