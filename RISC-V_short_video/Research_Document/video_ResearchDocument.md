@@ -9,8 +9,14 @@
 - 根据目标用户编辑标签、活动标签
 - 引起用户好奇、讨论欲望、学习欲望、蹭热点
 
+
+
+参考内容：
+
 https://www.bilibili.com/video/BV1g64y1z7ST
+
 https://www.bilibili.com/video/BV1ML411t7XV
+
 ## 问题和优化
 
 - b站的中视频和长视频播放量较高
@@ -20,7 +26,9 @@ https://www.bilibili.com/video/BV1ML411t7XV
 - 带来愉悦、制作精良、具有工具性（题材新颖、内容震撼、情感共鸣）
 
 参考内容：
+
 https://www.bilibili.com/video/BV1HP411n7pP
+
 https://www.bilibili.com/video/BV18a411D7dZ
 
 
