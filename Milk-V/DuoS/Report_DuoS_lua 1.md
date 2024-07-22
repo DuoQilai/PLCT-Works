@@ -1,4 +1,4 @@
-# 复现Debian12.6 交叉编译lua(CGO项目)
+# 复现Debian12.6 交叉编译lua和lualoader(CGO项目)
 
 ## lua
 下载 `gcc-riscv64-linux-gnu` 工具链
@@ -26,3 +26,14 @@ scp libdl.so.2 root@192.168.42.1:
 ```
 运行成功
 ![](../../images/lua1.png)
+## lualoader
+
+下载
+```
+git clone https://github.com/sapidexs/lualoader
+```
+cd lualoader/lua/
+ cp /lua-5.4.7/src/* /lualoader/lua
+  rm -rf lua luac
+  cd ../
+  ![](../../images/lua2.png)

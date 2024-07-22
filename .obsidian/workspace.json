@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "Milk-V/DuoS/Report_DuoS_lua.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "Milk-V/DuoS/Report_DuoS_lua.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md"
+                "file": "Milk-V/DuoS/Report_DuoS_lua.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "Milk-V/DuoS/Report_DuoS_lua.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +173,7 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
+    "Milk-V/DuoS/Report_DuoS_lua 1.md",
     "Milk-V/DuoS/Report_DuoS_lua.md",
     "Milk-V/DuoS/Report_Duo_wringx.md",
     "Milk-V/DuoS/Report_DuoS_SPI.md",
@@ -218,7 +219,6 @@
     "Notes/README.md",
     "Monthly/2024-04/month1.md",
     "Monthly/2024-04/weekly/week1.md",
-    "未命名.canvas",
-    "RISC-V_short_video/Intern_Report_Title.md"
+    "未命名.canvas"
   ]
 }
