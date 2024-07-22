@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md"
+                "file": "RISC-V_short_video/Research_Document/video_ResearchDocument.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Milk-V/DuoS/Report_Duo_wringx.md",
+                "file": "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +171,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9e7951ebbe70655",
+  "active": "5a6ebb4929dfafd0",
   "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
+    "RISC-V_short_video/Get_started.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Job_Description.md",
+    "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
+    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
+    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
+    "RISC-V_short_video/Research_Document/Research_others.md",
+    "Milk-V/DuoS/Report_DuoS_lua 1.md",
     "Milk-V/DuoS/Report_DuoS_lua.md",
     "Milk-V/DuoS/Report_Duo_wringx.md",
     "Milk-V/DuoS/Report_DuoS_SPI.md",
@@ -204,21 +217,8 @@
     "Milk-V/DuoS/llama/lvgl_port_linux_frame_buffer.tar.gz",
     "Milk-V/DuoS/llama/tokenizer.bin",
     "Milk-V/DuoS/llama/stories15M_q80.bin",
-    "Milk-V/DuoS/llama/stable_demo",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
-    "k230d/Report_SDK_k230_k510_duo.md",
-    "Monthly/2024-05/Weekly/Week4.md",
-    "Monthly/2024-05/Month2.md",
-    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
-    "Notes/K230d.md",
-    "Monthly/2024-05/Weekly/Week3.md",
-    "Monthly/2024-05/Weekly/Week2.md",
-    "Monthly/2024-05/Weekly/Week1.md",
-    "Notes/README.md",
-    "Monthly/2024-04/month1.md",
-    "Monthly/2024-04/weekly/week1.md",
-    "未命名.canvas",
-    "RISC-V_short_video/Intern_Report_Title.md"
+    "未命名.canvas"
   ]
 }
