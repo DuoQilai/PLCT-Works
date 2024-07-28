@@ -6,33 +6,27 @@
 
 ## 1.基本信息
 
-短视频形式的RISC-V教学普及
+**短视频形式的RISC-V教学普及**
+
+- 系统性的RISC-V短视频教学
+- Milk-V Duo系列的测试验证和视频输出
+- 开发板demo测试联动，视频输出
 
 ## 2.项目方案
 
-- RISC-V教学内容调研
-- RISC-V教学内容计划
-- 短视频形式的教学内容调研
+- [RISC-V教学内容及短视频吸引因素-CSDN博客](https://blog.csdn.net/jtwqwq/article/details/139909781?app_version=6.3.8&code=app_1562916241&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139909781%22%2C%22source%22%3A%22jtwqwq%22%7D&uLinkId=usr1mkqgl919blen&utm_source=app)
+- [RISC-V教学短视频同类视频调研报告-CSDN博客](https://blog.csdn.net/jtwqwq/article/details/139909796?app_version=6.3.8&code=app_1562916241&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139909796%22%2C%22source%22%3A%22jtwqwq%22%7D&uLinkId=usr1mkqgl919blen&utm_source=app)
+- [RISC-V短视频教学项目方案](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal.md)
+- [视频流量调研](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Research_Document/video_ResearchDocument.md)
 
 ## 3.团队协作
 
 - [工作守则速查](https://github.com/lazyparser/survival-manual-for-interns/edit/master/rules.rst)
-- 会议室：
-- 即时通信：
-
-### 项目流程说明
-
-项目管理相关资料：协作常用指南
-
-项目流程说明：
-
-### 团队协作指南
-
-团队协作指南请查阅：工作指南
-
-团队协作常见问题：常见问题
+- 会议室： [#腾讯会议：573-6340-5422](https://meeting.tencent.com/dm/rT2cne6IsIew)
+- 即时通信：微信
 
 ### 新人指引
+
 
 ### 例会信息
 
@@ -42,10 +36,11 @@
 
 ## 4.团队成员列表
 
-|   角色    |  姓名  |          邮箱           | 工作时间( GMT+8) 每周一至周五 |
-| :-------: | :----: | :---------------------: | :---------------------------: |
-| 质量-测试 | 张馥媛 | zhangfuyuan@iscas.ac.cn |  9:00 - 12:00 13: 00 - 18:00  |
+|  角色   | 姓名  |           邮箱            |     工作时间( GMT+8) 每周一至周五     |
+| :---: | :-: | :---------------------: | :-------------------------: |
+| 质量-测试 | 张馥媛 | zhangfuyuan@iscas.ac.cn | 9:00 - 12:00 13: 00 - 18:00 |
 
-## 5.仓库列表
 
-## 6.角色分工
+## 5.发布列表
+
+
