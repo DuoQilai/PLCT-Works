@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/从零使用duo开发板手册.md",
+                "file": "Notes/DuoGet_started.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/从零使用duo开发板手册.md",
+                "file": "Notes/DuoGet_started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/从零使用duo开发板手册.md"
+                "file": "Notes/DuoGet_started.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/从零使用duo开发板手册.md",
+                "file": "Notes/DuoGet_started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
   "active": "e6fb27aa54cf8141",
   "lastOpenFiles": [
     "RISC-V_short_video/Get_started.md",
-    "Notes/从零使用duo开发板手册.md",
+    "Notes/DuoGet_started.md",
     "RISC-V_short_video/baby_book.md",
     "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Task List.md",
