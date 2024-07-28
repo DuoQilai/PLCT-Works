@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-07/Weekly/Week3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6fb27aa54cf8141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md"
+                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md"
               }
             }
           },
@@ -160,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,14 +171,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e6fb27aa54cf8141",
+  "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.3.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.2.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "Monthly/2024-07/Weekly/Week3.md",
+    "RISC-V_short_video/baby_book.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Get_started.md",
-    "RISC-V_short_video/baby_book.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.2.md",
     "Notes/DuoGet_started.md",
     "Notes/E93582F7FF6180C47981CDFE97791D99.mp4",
     "Notes/README.md",
@@ -198,8 +190,6 @@
     "Notes/Weekly_meetings.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.3.md",
-    "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Task List.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
@@ -209,10 +199,8 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.1.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.0.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.1.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.2.md",
     "新建 BMP 图像.bmp",
     "Milk-V/DuoS/Report_DuoS__babyllama2.md",
-    "Monthly/2024-07/Weekly/Week3.md",
     "新建 文本文档.txt",
     "images/lua3.png",
     "images/spi3.png",
