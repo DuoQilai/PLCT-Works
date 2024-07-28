@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Project_Introduction.md",
+                "file": "RISC-V_short_video/baby_book.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Project_Introduction.md",
+                "file": "RISC-V_short_video/baby_book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Project_Introduction.md"
+                "file": "RISC-V_short_video/baby_book.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Project_Introduction.md",
+                "file": "RISC-V_short_video/baby_book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,6 +185,7 @@
   },
   "active": "e6fb27aa54cf8141",
   "lastOpenFiles": [
+    "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Get_started.md",
@@ -198,7 +199,6 @@
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.3.md",
-    "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Task List.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument.md",

@@ -27,12 +27,12 @@
 
 - [项目方案](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal.md)
 
-## 4 短视频剪辑教学
+## 5 短视频剪辑教学
 
 - [短视频剪辑教学0：工具选择及初上手](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A6/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A60%EF%BC%9A%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9%E5%8F%8A%E5%88%9D%E4%B8%8A%E6%89%8B.md)
 - [短视频剪辑教学1：懂点儿RV横屏视频模版总结.](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A6/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A61%EF%BC%9A%E6%87%82%E7%82%B9%E5%84%BFRV%E6%A8%AA%E5%B1%8F%E8%A7%86%E9%A2%91%E6%A8%A1%E7%89%88%E6%80%BB%E7%BB%93.md)
 
-## 5 产出示例
+## 6 产出示例
 
 - [视频脚本](https://github.com/Jingqing3948/plct/tree/main/RISC-V_short_video/doc/%E8%A7%86%E9%A2%91%E8%84%9A%E6%9C%AC)
 - [【懂点儿RV】RSIC-V历史与设计理念](https://www.bilibili.com/video/BV1sm421g7YP/?spm_id_from=333.999.0.0)
