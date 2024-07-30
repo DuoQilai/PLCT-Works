@@ -50,3 +50,7 @@ https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_Intr
 ### 从零使用Duo开发板手册
 
 [PLCT-Works/Notes/DuoGet_started.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/DuoGet_started.md)
+
+### 开发板demo教学系列方案
+
+[PLCT-Works/RISC-V_short_video/best_practice_proposal.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/best_practice_proposal.md)
