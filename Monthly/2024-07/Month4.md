@@ -14,7 +14,7 @@ https://www.bilibili.com/video/BV11r421T7Sk/
 
 ## 【Milk-V Duo】wiringX简介和配置开发环境-视频教程
 
-[Phttps://www.bilibili.com/video/BV1jr421K7yk/?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1jr421K7yk/
 
 ## 在Duo S 用 SPI 接口显示屏运行 LVGL 测试程序测试报告
 
