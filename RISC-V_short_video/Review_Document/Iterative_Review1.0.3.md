@@ -1,6 +1,6 @@
-# 迭代计划1.0.3
+# 版本回溯1.0.3
 
-## 计划信息
+## 版本信息
 
 - 版本号：1.0.3
 - 迭代周期：14天 2024/07/19-2024/08/01
@@ -14,7 +14,6 @@
 - 论坛搜集技术文档并复现，输出测试文档和视频
 - 新同学学习短视频制作方法，制作RISC-V指令集基础短视频
 
-
 ## 进展
 
 - [【Milk-V Duo】在Duo上运行opencv-mobile_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1WEvCeVEbQ/?spm_id_from=333.999.0.0)
@@ -23,3 +22,7 @@
 - [Milk-V Duo技术论坛中适合复现的文档 | 测试文档 (gitbook.io)](https://plct.gitbook.io/ce-shi-wen-dang)
 - [PLCT-Works/RISC-V_short_video/best_practice_proposal.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/best_practice_proposal.md)
 
+
+## 遗留事项
+
+无

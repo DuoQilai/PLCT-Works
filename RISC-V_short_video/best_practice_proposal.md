@@ -12,7 +12,7 @@
 
 #### 1 简介和环境配置
 - 1.1 Arduino IDE简介和配置开发环境
-- 1.2 Duo简介、引脚资源分配和启动
+- 1.2 Duo简介和启动
 - 1.3 Arduino IDE 中添加 Duo 开发板
 - 1.4 在 Duo 中测试点亮板载 LED
 #### 2 Duo Arduino 引脚资源分配
