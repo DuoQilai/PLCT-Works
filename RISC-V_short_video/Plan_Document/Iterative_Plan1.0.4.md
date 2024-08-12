@@ -8,22 +8,22 @@
 ## 任务列表
 
 姜天伟：
-1.制作第1期Arduino for Milk-V Duo视频：Arduino IDE简介和配置开发环境
-2.形成Arduino for Milk-V Duo视频模板
-3.mobile opencv第2期视频
-4.继续制作懂点儿RV视频
+1. 制作第1期Arduino for Milk-V Duo视频：Arduino IDE简介和配置开发环境
+2. 形成Arduino for Milk-V Duo视频模板
+3. mobile opencv第2期视频
+4. 继续制作懂点儿RV视频
 
 郝希睿
-1.懂点儿RV方案补充编译器部分
-2.制作懂点儿RV视频 4个
-3.准备技术分享
+1. 懂点儿RV方案补充编译器部分
+2. 制作懂点儿RV视频 4个
+3. 准备技术分享
 
 郑航
-1.继续收集适合复现的帖子，看以前的Weekly Newsletter(生态周报)
-2.在Milk-V Duo上运行OpenWrt系统测试报告+视频
-3.Milk-V Duo SPI TFT 液晶屏 ST7789V 使用/官方文档SPI 接口显示屏，运行 LVGL 测试程序测试报告+视频
-4.制作第2期Arduino for Milk-V Duo视频：Duo简介和启动方法
-5.购买电烙铁，坏消息及时沟通
+1. 继续收集适合复现的帖子，看以前的Weekly Newsletter(生态周报)
+2. 在Milk-V Duo上运行OpenWrt系统测试报告+视频
+3. Milk-V Duo SPI TFT 液晶屏 ST7789V 使用/官方文档SPI 接口显示屏，运行 LVGL 测试程序测试报告+视频
+4. 制作第2期Arduino for Milk-V Duo视频：Duo简介和启动方法
+5. 购买电烙铁，坏消息及时沟通
 
 
 ## 进展
