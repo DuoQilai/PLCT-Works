@@ -32,3 +32,4 @@
 - [Arduino+Milk-VDuo入门教程 1.1Arduino I简介和配置开发环境_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NSYLehE1h/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [Arduino+Milk-VDuo入门教程 1.2GPIO高低电平测试和LED控制_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DVYde7EAZ/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [【Milk-V Duo】在Duo上运行OpenWrt系统_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1z9YRecEVk/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+- [在Milk-V Duo上运行RT-Thread OS_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15qiPeDEcf/?vd_source=8a52ecadc475c2b9b4199b8c93eaaf6f)
