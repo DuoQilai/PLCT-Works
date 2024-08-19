@@ -2,9 +2,14 @@
 
 本周工作
 
-## 在Duo S 用 SPI 接口显示屏运行 LVGL 测试程序
+## LicheePi4A启动
 
-[PLCT-Works/Milk-V/DuoS/Report_DuoS_SPI.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS_SPI.md)
-## DuoS WIFI 配置视频教程
+[PLCT-Works/LicheePi4A/Report_LicheePi4A_Setup.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/LicheePi4A/Report_LicheePi4A_Setup.md)
 
-https://www.bilibili.com/video/BV11r421T7Sk/
+## 迭代1.0.5计划
+
+[PLCT-Works/RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md)
+
+## 迭代1.0.4回溯
+
+[PLCT-Works/RISC-V_short_video/Review_Document/Iterative_Review1.0.4.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Review_Document/Iterative_Review1.0.4.md)
