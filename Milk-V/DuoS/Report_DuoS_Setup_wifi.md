@@ -1,4 +1,4 @@
-### DuoS WIFI 配置[​](https://milkv.io/zh/docs/duo/getting-started/duos#wifi-%E9%85%8D%E7%BD%AE "WIFI 配置的直接链接")
+# DuoS WIFI 配置[​](https://milkv.io/zh/docs/duo/getting-started/duos#wifi-%E9%85%8D%E7%BD%AE "WIFI 配置的直接链接")
 
 编辑如下文件，替换 `ssid` 和 `psk` 为要连接的 WIFI 账号和密码：
 
