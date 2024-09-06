@@ -24,6 +24,7 @@
 3. Milk-V Duo SPI TFT 液晶屏 ST7789V 使用/官方文档SPI 接口显示屏，运行 LVGL 测试程序测试报告+视频
 4. 制作第2期Arduino for Milk-V Duo视频：Duo简介和启动方法
 5. 购买电烙铁，坏消息及时沟通
+
 ## 进展
 
 - [【懂点儿RV】RISC-V模拟器源码结构_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bWYjeMEmV/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
