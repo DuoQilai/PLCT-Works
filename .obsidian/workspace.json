@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
+                "file": "Monthly/2024-09/Week1.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
+                "file": "Monthly/2024-09/Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md"
+                "file": "Monthly/2024-09/Week1.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
+                "file": "Monthly/2024-09/Week1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,8 +173,15 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
-    "RISC-V_short_video/best_practice_proposal.md",
+    "Monthly/2024-08/Weekly/Week3.md",
+    "Monthly/2024-09/Week1.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
+    "Monthly/2024-07/Weekly/Week1.md",
+    "Monthly/2024-08/Month5.md",
+    "Monthly/2024-08/Weekly/Week2.md",
+    "Monthly/2024-08/Weekly/Week1.md",
+    "Monthly/2024-09",
+    "RISC-V_short_video/best_practice_proposal.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument 1.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
@@ -185,15 +191,10 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.4.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.4.md",
-    "Monthly/2024-08/Month5.md",
-    "Monthly/2024-08/Weekly/Week1.md",
-    "Monthly/2024-08/Weekly/Week3.md",
-    "Monthly/2024-08/Weekly/Week2.md",
     "Monthly/2024-07/Month4.md",
     "Monthly/2024-08/Weekly",
     "LicheePi4A/Report_LicheePi4A_Setup.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
-    "Monthly/2024-07/Weekly/Week1.md",
     "Monthly/2024-08",
     "images/setup4A7.png",
     "images/setup4A6.png",
@@ -210,7 +211,6 @@
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.3.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.2.md",
-    "Monthly/2024-07/Weekly/Week4.md",
     "Notes/E93582F7FF6180C47981CDFE97791D99.mp4",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "新建 BMP 图像.bmp",
@@ -219,7 +219,6 @@
     "Notes/在Duo S上跑你的第一个生成式AI.pptx",
     "Monthly/2024-07/Weekly",
     "Monthly/2024-07",
-    "Monthly/2024-06/Weekly",
     "未命名.canvas"
   ]
 }
