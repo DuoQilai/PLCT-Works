@@ -7,10 +7,10 @@
 
 ## 2024年未来RISC-V教学内容计划
 
-
+[PLCT-Works/RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md)
 ## 二进制翻译教学系列方案
 
-
+[PLCT-Works/RISC-V_short_video/Project_proposal_box64.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal_box64.md)
 ## 项目迭代计划：
 
 https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Plan_Document
