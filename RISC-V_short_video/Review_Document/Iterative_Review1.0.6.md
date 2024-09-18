@@ -1,6 +1,6 @@
-# 迭代计划1.0.6
+# 版本回溯1.0.6
 
-## 计划信息
+## 版本信息
 
 - 版本号：1.0.6
 - 迭代周期：14天 2024/08/30-2024/09/12
@@ -26,3 +26,8 @@
 - [Arduino+Milk-VDuo入门教程 2.4ADC测试_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1GXtweWEVd/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [【计算浮桥】RISC-V二进制翻译教学系列-初识二进制翻译_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NVtTexEDu/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [Arduino+Milk-VDuo入门教程 2.5驱动L9110H电机模块_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Me4megEwV/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+
+
+## 遗留事项
+
+- 确认一生一芯教学计划是否可行
