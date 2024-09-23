@@ -52,8 +52,6 @@ box64 ./wpp
 ```
 
 
-![](../images/setup4A3.png)
-
 
 
 
