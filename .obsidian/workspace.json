@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-09/Week2.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-09/Week2.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-09/Week2.md"
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-09/Week2.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,11 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
-    "Monthly/2024-08/Month5.md",
+    "LicheePi4A/Report_LicheePi4A_wps.md",
+    "LicheePi4A/Report_LicheePi4A_Celeste.md",
+    "LicheePi4A/Report_LicheePi4A_Setup.md",
     "Monthly/2024-09/Week2.md",
+    "Monthly/2024-08/Month5.md",
     "RISC-V_short_video/Project_proposal_box64.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.7.md",
@@ -197,9 +200,6 @@
     "Monthly/2024-08/Weekly/Week2.md",
     "Monthly/2024-08/Weekly/Week1.md",
     "Monthly/2024-09",
-    "RISC-V_short_video/Research_Document/video_ResearchDocument 1.md",
-    "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.3.md",
     "Monthly/2024-08/Weekly",
     "Monthly/2024-08",
     "images/setup4A7.png",
