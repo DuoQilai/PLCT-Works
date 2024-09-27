@@ -13,7 +13,6 @@ cmake .. -D RV64=1 -D CMAKE_BUILD_TYPE=RelWithDebInfo
 sudo make install -j$(nproc)
 ```
 
-![](../images/setup4A1.png)
 ## 2 下载并解包 WPS Linux
 
 WPS 官方提供了两个版本可供下载：
@@ -30,7 +29,6 @@ mkdir wps
 cd wps
 dpkg-deb --extract ../wps-office_11.1.0.11723.XA_amd64.deb .
 ```
-
 
 ## 3 运行 WPS Linux
 

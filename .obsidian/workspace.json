@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LicheePi4A/Report_LicheePi4A_wps.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LicheePi4A/Report_LicheePi4A_wps.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LicheePi4A/Report_LicheePi4A_wps.md"
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LicheePi4A/Report_LicheePi4A_wps.md",
+                "file": "LicheePi4A/Report_LicheePi4A_Celeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,10 +173,10 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
+    "LicheePi4A/Report_LicheePi4A_wps.md",
+    "LicheePi4A/Report_LicheePi4A_Setup.md",
     "LicheePi4A/Report_LicheePi4A_Celeste.md",
     "Monthly/2024-09/Week3.md",
-    "LicheePi4A/Report_LicheePi4A_Setup.md",
-    "LicheePi4A/Report_LicheePi4A_wps.md",
     "Monthly/2024-09/Week2.md",
     "Monthly/2024-08/Month5.md",
     "RISC-V_short_video/Project_proposal_box64.md",
