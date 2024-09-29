@@ -1,6 +1,6 @@
-# 迭代计划1.0.7
+# 版本回溯1.0.7
 
-## 计划信息
+## 版本信息
 
 - 版本号：1.0.7
 - 迭代周期：14天 2024/09/13-2024/09/26
@@ -28,5 +28,9 @@
 -  [自定义BL33镜像利用OpenSBI引导RISC-V系统](https://www.bilibili.com/video/BV1umbweDEnK/)
 -  [Arduino for Milk-V Duo 驱动L1902 LCD](https://www.bilibili.com/video/BV1wbsmedE2x/)
 -  [Arduino for Milk-V Duo利用蜂鸣器播放音乐](https://www.bilibili.com/video/BV1qoxreKEmh/)
-- [在荔枝派上运行 WPS | Gaming on RISC-V (duoqilai.github.io)](https://duoqilai.github.io/Games_Docs/LicheePi4A/LicheePi4A_wps.html)
 
+
+
+## 遗留事项
+
+- 计算浮桥视频模板，拍摄方法

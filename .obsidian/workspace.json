@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-09/Week4.md",
+                "file": "Monthly/2024-09/Weekly/Week4.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-09/Week4.md",
+                "file": "Monthly/2024-09/Weekly/Week4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-09/Week4.md"
+                "file": "Monthly/2024-09/Weekly/Week4.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-09/Week4.md",
+                "file": "Monthly/2024-09/Weekly/Week4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,20 +173,24 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
-    "images/live2d.psd",
-    "Monthly/2024-09/Week3.md",
-    "Monthly/2024-09/Week4.md",
-    "Monthly/2024-09/Week2.md",
-    "Monthly/2024-09/Week1.md",
-    "LicheePi4A/Report_LicheePi4A_Celeste.md",
-    "LicheePi4A/Report_LicheePi4A_wps.md",
-    "LicheePi4A/Report_LicheePi4A_Setup.md",
+    "Monthly/2024-09/Month6.md",
     "Monthly/2024-08/Month5.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
-    "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.7.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.8.md",
+    "Monthly/2024-09/Weekly/Week4.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.7.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.6.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.6.md",
+    "Monthly/2024-09/Weekly/Week3.md",
+    "Monthly/2024-09/Weekly/Week2.md",
+    "Monthly/2024-09/Weekly/Week1.md",
+    "Monthly/2024-09/Weekly",
+    "images/live2d.psd",
+    "LicheePi4A/Report_LicheePi4A_Celeste.md",
+    "LicheePi4A/Report_LicheePi4A_wps.md",
+    "LicheePi4A/Report_LicheePi4A_Setup.md",
+    "RISC-V_short_video/Project_proposal_box64.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.5.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md",
     "RISC-V_short_video/best_practice_proposal.md",
@@ -197,8 +201,6 @@
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Research_Document/RVOS_Notes/introduction.md",
-    "Monthly/2024-08/Weekly/Week3.md",
     "Monthly/2024-09",
     "Monthly/2024-08/Weekly",
     "Monthly/2024-08",
@@ -217,8 +219,6 @@
     "新建 文本文档.txt",
     "images/lua3.png",
     "Notes/在Duo S上跑你的第一个生成式AI.pptx",
-    "Monthly/2024-07/Weekly",
-    "Monthly/2024-07",
     "未命名.canvas"
   ]
 }
