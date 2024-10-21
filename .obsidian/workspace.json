@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week1.md",
+                "file": "Monthly/2024-10/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week1.md",
+                "file": "Monthly/2024-10/Weekly/Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week1.md"
+                "file": "Monthly/2024-10/Weekly/Week2.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week1.md",
+                "file": "Monthly/2024-10/Weekly/Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +173,21 @@
   },
   "active": "f9e7951ebbe70655",
   "lastOpenFiles": [
-    "Monthly/2024-09/Weekly/Week4.md",
+    "Milk-V/Mars/Report_Mars_Setup.md",
+    "Monthly/2024-10/Weekly/Week2.md",
+    "images/setupMars8.png",
+    "images/setupMars7.png",
+    "images/setupMars6.png",
+    "Milk-V/DuoS/Report_DuoS_SPI.md",
+    "images/setupMars5.png",
+    "images/setupMars4.png",
+    "images/setupMars3.png",
+    "images/setupMars2.png",
+    "images/setupMars1.png",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
     "Monthly/2024-10/Weekly/Week1.md",
+    "Milk-V/Mars",
+    "Monthly/2024-09/Weekly/Week4.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.9.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.8.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
@@ -199,26 +212,13 @@
     "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.5.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md",
-    "RISC-V_short_video/best_practice_proposal.md",
-    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
-    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
-    "RISC-V_short_video/Project_Introduction.md",
     "Monthly/2024-09",
     "Monthly/2024-08/Weekly",
     "Monthly/2024-08",
     "images/setup4A7.png",
     "images/setup4A6.png",
-    "images/setup4A5.png",
-    "images/Pasted image 20240819135325.png",
-    "images/setup4A4.png",
-    "images/setup4A3.png",
-    "images/setup4A2.png",
-    "images/setup4A1.png",
     "LicheePi4A",
     "Notes/E93582F7FF6180C47981CDFE97791D99.mp4",
-    "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
-    "新建 BMP 图像.bmp",
-    "images/lua3.png",
     "未命名.canvas"
   ]
 }

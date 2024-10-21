@@ -1,6 +1,6 @@
 # Duo S 启动
 
-1..SD卡烧录Duo S镜像，插入Duo S
+1.SD卡烧录Duo S镜像，插入Duo S
 
 2.Duo S与电脑用Type-C数据线使用USB RNDIS Adapter进行连接
 
