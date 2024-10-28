@@ -16,7 +16,9 @@
                 "file": "Milk-V/DuoS/Report_DuoS__babyllama2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Report_DuoS__babyllama2"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Milk-V/DuoS/Report_DuoS_lua.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Report_DuoS_lua"
             }
           },
           {
@@ -40,11 +44,27 @@
                 "file": "Monthly/2024-10/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Week2"
+            }
+          },
+          {
+            "id": "90b62e9ea9d7ed51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly/2024-10/Weekly/Week3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week3"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -64,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week2.md",
+                "file": "Monthly/2024-10/Weekly/Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Week3 的反向链接列表"
             }
           },
           {
@@ -129,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -138,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week2.md"
-              }
+                "file": "Monthly/2024-10/Weekly/Week3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Week3 的大纲"
             }
           },
           {
@@ -148,10 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2024-10/Weekly/Week2.md",
+                "file": "Monthly/2024-10/Weekly/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Week3 的出链列表"
             }
           }
         ],
@@ -171,9 +205,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9e7951ebbe70655",
+  "active": "90b62e9ea9d7ed51",
   "lastOpenFiles": [
     "Milk-V/Mars/Report_Mars_Setup.md",
+    "Monthly/2024-10/Weekly/Week3.md",
+    "images/live2d.jpg",
     "Monthly/2024-10/Weekly/Week2.md",
     "images/setupMars8.png",
     "images/setupMars7.png",
@@ -210,13 +246,10 @@
     "LicheePi4A/Report_LicheePi4A_Setup.md",
     "RISC-V_short_video/Project_proposal_box64.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.5.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.5.md",
     "Monthly/2024-09",
     "Monthly/2024-08/Weekly",
     "Monthly/2024-08",
     "images/setup4A7.png",
-    "images/setup4A6.png",
     "LicheePi4A",
     "Notes/E93582F7FF6180C47981CDFE97791D99.mp4",
     "未命名.canvas"
