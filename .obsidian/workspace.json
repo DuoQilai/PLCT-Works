@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
+                "file": "Monthly/2024-10/Month7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative_Plan1.0.10"
+              "title": "Month7"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md"
+                "file": "Monthly/2024-10/Month7.md"
               },
               "icon": "lucide-list",
-              "title": "Iterative_Plan1.0.10 的大纲"
+              "title": "Month7 的大纲"
             }
           },
           {
@@ -207,10 +207,11 @@
   },
   "active": "90b62e9ea9d7ed51",
   "lastOpenFiles": [
+    "Milk-V/DuoS/Report_DuoS_SPI.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.9.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.8.md",
     "Monthly/2024-10/Month7.md",
     "Monthly/2024-10/Weekly/Week3.md",
@@ -222,7 +223,6 @@
     "images/setupMars8.png",
     "images/setupMars7.png",
     "images/setupMars6.png",
-    "Milk-V/DuoS/Report_DuoS_SPI.md",
     "images/setupMars5.png",
     "images/setupMars4.png",
     "images/setupMars3.png",

@@ -35,4 +35,4 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 ## 6.live2d皮套
 原画部分初步完成
 
-![](../../../images/live2d.jpg)
+![](../../images/live2d.jpg)
