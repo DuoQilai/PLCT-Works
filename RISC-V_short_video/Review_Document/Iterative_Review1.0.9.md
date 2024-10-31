@@ -1,6 +1,6 @@
-# 迭代计划1.0.9
+# 版本回溯1.0.9
 
-## 计划信息
+## 版本信息
 
 - 版本号：1.0.9
 - 迭代周期：14天 2024/10/11-2024/10/24
@@ -19,3 +19,7 @@
 - [【计算浮桥】RISC-V运行语音识别模型sherpa_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fYyUYDEum/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [【Milk-V Duo】在Milk-V Duo 256MB开发板上运行Arch Linux系统_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1j8yyYTEp2/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 - [【Milk-V Duo】 在Duo上编译和运行 RT-Smart 系统_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Y8m7YAERG/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+
+## 遗留事项
+
+- box64运行游戏时报错
