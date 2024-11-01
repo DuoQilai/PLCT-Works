@@ -50,7 +50,10 @@ GALLIUM_HUD=fps box64 ./Celeste.bin.x86_64
 LIBGL_FPS=1 box64 ./Celeste.bin.x86_64
 ```
 
-
+若运行sh脚本，则增加环境变量
+```
+BOX64_BASH=/path/to/box64/tests/bash
+```
 
 
 

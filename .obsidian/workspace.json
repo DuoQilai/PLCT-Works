@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-10/Month7.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month7"
+              "title": "Intern_Report_Title"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-10/Month7.md"
+                "file": "RISC-V_short_video/Intern_Report_Title.md"
               },
               "icon": "lucide-list",
-              "title": "Month7 的大纲"
+              "title": "Intern_Report_Title 的大纲"
             }
           },
           {
@@ -207,17 +207,29 @@
   },
   "active": "90b62e9ea9d7ed51",
   "lastOpenFiles": [
+    "RISC-V_short_video/Job_Description.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Project_proposal_box64.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "LicheePi4A/Report_LicheePi4A_Celeste.md",
+    "RISC-V_short_video/Get_started.md",
+    "RISC-V_short_video/best_practice_proposal.md",
+    "Milk-V/Duo/Report_Duo_wringx.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Task List.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
+    "RISC-V_short_video/baby_book.md",
+    "Monthly/2024-10/Month7.md",
     "Milk-V/DuoS/Report_DuoS_SPI.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.9.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.8.md",
-    "Monthly/2024-10/Month7.md",
     "Monthly/2024-10/Weekly/Week3.md",
     "Monthly/2024-10/Weekly/Week1.md",
     "Monthly/2024-10/Weekly/Week2.md",
-    "RISC-V_short_video/best_practice_proposal.md",
     "Milk-V/Mars/Report_Mars_Setup.md",
     "images/live2d.jpg",
     "images/setupMars8.png",
@@ -231,22 +243,10 @@
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "Milk-V/Mars",
     "Monthly/2024-09/Weekly/Week4.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.7.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.7.md",
-    "Monthly/2024-10/Weekly/未命名.md",
-    "Monthly/2024-09/Month6.md",
     "Monthly/2024-10/Weekly",
     "Monthly/2024-10",
-    "Monthly/2024-08/Month5.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.6.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.6.md",
-    "Monthly/2024-09/Weekly/Week3.md",
-    "Monthly/2024-09/Weekly/Week2.md",
-    "Monthly/2024-09/Weekly/Week1.md",
     "Monthly/2024-09/Weekly",
     "images/live2d.psd",
-    "LicheePi4A/Report_LicheePi4A_Celeste.md",
-    "LicheePi4A/Report_LicheePi4A_wps.md",
     "Monthly/2024-09",
     "Monthly/2024-08/Weekly",
     "Monthly/2024-08",

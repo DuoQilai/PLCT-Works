@@ -10,6 +10,7 @@
 - 分析目标受众，列出吸引用户的短视频元素。
 - 选择一个知识点，制作一个RISC-V教学视频demo（2分钟内）
 
+往期视频：[懂点儿RV](https://www.bilibili.com/video/BV1sm421g7YP)
 ## 报告内容2
 
 [karpathy/llama2.c: Inference Llama 2 in one file of pure C (github.com)](https://github.com/karpathy/llama2.c)
@@ -31,3 +32,11 @@
 [简介 | Milk-V (milkv.io)](https://milkv.io/zh/docs/duo/getting-started/arduino)
 
 [Work-PLCT/duo/Arduino at master · ArielHeleneto/Work-PLCT (github.com)](https://github.com/ArielHeleneto/Work-PLCT/tree/master/duo/Arduino)
+
+## 报告内容5
+
+- 寻找2个或以上游戏，测试在Licheepi4A上通过box64运行，形成测试报告
+- 使用相机拍摄或采集卡录像，选择1个制作1分钟左右的游戏短视频
+
+参考文档：[PLCT-Works/LicheePi4A/Report_LicheePi4A_Celeste.md at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/LicheePi4A/Report_LicheePi4A_Celeste.md)
+参考视频：[在LicheePi 4A游玩蔚蓝Celeste_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HQStY1EsS/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
