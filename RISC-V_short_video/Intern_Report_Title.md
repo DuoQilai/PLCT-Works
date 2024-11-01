@@ -39,4 +39,5 @@
 - 使用相机拍摄或采集卡录像，选择1个制作1分钟左右的游戏短视频
 
 参考文档：[PLCT-Works/LicheePi4A/Report_LicheePi4A_Celeste.md at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/LicheePi4A/Report_LicheePi4A_Celeste.md)
+
 参考视频：[在LicheePi 4A游玩蔚蓝Celeste_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HQStY1EsS/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
