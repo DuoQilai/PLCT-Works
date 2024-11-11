@@ -7,9 +7,9 @@
 - 参考文档：[HiFive Unmatched Getting Started Guide v1p4](https://sifive.cdn.prismic.io/sifive/b9376339-5d60-45c9-8280-58fd0557c2f0_hifive-unmatched-gsg-v1p4_ZH.pdf)
 
 ## 2 选择启动模式
-![](../../images/Unmatched1.png)
+![](../images/Unmatched1.png)
 ## 3 CPU风扇连接
-![](../../images/Unmatched2.png)
+![](../images/Unmatched2.png)
 ## 4 连接电源
 
 按住并松开电源按钮，打开开发板的电源。开发板通电后，CPU风扇应工作，3个 绿色LED灯亮起。这表明开发板正常通电，所有需要的内部电源都已启动。 此外，机箱风扇也应该默认启动工作，不需要任何软件控制。
@@ -27,9 +27,11 @@ FTDI 2232H串行/JTAG转USB控制器用于与主机通信。当micro-USB线插�
 
 - 安装指南：https://ftdichip.com/document/installation-guides/
 ```
-默认用户名：`ubuntu` 默认密码：`ubuntu`
+默认用户名：`ubuntu` 
+默认密码：`ubuntu`
+初次登录需要修改密码
 ```
 
 ## 6 运行结果
 
-![](../../images/Unmatched3.png)
+![](../images/Unmatched3.png)

@@ -24,4 +24,4 @@
 
 ## 4 运行结果
 
-![](../../images/BPIF3_2.png)
+![](../images/BPIF3_2.png)
