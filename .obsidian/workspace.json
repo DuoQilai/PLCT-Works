@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-11/Week1.md",
+                "file": "BPI-F3/Report_BPI-F3_Bianbu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week1"
+              "title": "Report_BPI-F3_Bianbu"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-11/Week1.md"
+                "file": "BPI-F3/Report_BPI-F3_Bianbu.md"
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "Report_BPI-F3_Bianbu 的大纲"
             }
           },
           {
@@ -221,8 +221,9 @@
   },
   "active": "94ebf0ee00a31cc4",
   "lastOpenFiles": [
-    "BPI-F3/Report_BPI-F3_Bianbu.md",
     "Monthly/2024-11/Week1.md",
+    "BPI-F3/Report_BPI-F3_Bianbu.md",
+    "Milk-V/Duo/Report_Duo_wringx.md",
     "Unmatched/Report_Unmatched_Ubuntu.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
@@ -245,7 +246,6 @@
     "LicheePi4A/Report_LicheePi4A_Celeste.md",
     "RISC-V_short_video/Get_started.md",
     "RISC-V_short_video/best_practice_proposal.md",
-    "Milk-V/Duo/Report_Duo_wringx.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Task List.md",

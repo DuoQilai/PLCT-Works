@@ -11,7 +11,7 @@
 - Type-C(12V 3A)
 - DC IN(12V 3A)
 
-![](../../images/BPIF3_1.png)
+![](../images/BPIF3_1.png)
 
 ## 3 串口连接
 
