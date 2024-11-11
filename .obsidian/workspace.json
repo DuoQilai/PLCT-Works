@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unmatched/Report_Unmatched_Ubuntu.md",
+                "file": "Monthly/2024-11/Week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report_Unmatched_Ubuntu"
+              "title": "Week1"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unmatched/Report_Unmatched_Ubuntu.md"
+                "file": "Monthly/2024-11/Week1.md"
               },
               "icon": "lucide-list",
-              "title": "Report_Unmatched_Ubuntu 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -221,10 +221,10 @@
   },
   "active": "94ebf0ee00a31cc4",
   "lastOpenFiles": [
+    "Unmatched/Report_Unmatched_Ubuntu.md",
     "BPI-F3/Report_BPI-F3_Bianbu.md",
     "Monthly/2024-11/Week1.md",
     "Milk-V/Duo/Report_Duo_wringx.md",
-    "Unmatched/Report_Unmatched_Ubuntu.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
     "images/BPIF3_2.png",
