@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.11.md",
+                "file": "Monthly/2024-11/Week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative_Plan1.0.11"
+              "title": "Week2"
             }
           }
         ],
@@ -182,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.11.md"
+                "file": "Monthly/2024-11/Week2.md"
               },
               "icon": "lucide-list",
-              "title": "Iterative_Plan1.0.11 的大纲"
+              "title": "Week2 的大纲"
             }
           },
           {
@@ -221,11 +221,14 @@
   },
   "active": "94ebf0ee00a31cc4",
   "lastOpenFiles": [
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
+    "Monthly/2024-10/Weekly/Week1.md",
+    "Monthly/2024-10/Weekly/Week2.md",
+    "Monthly/2024-10/Weekly/Week3.md",
+    "Monthly/2024-11/Week2.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.11.md",
-    "Monthly/2024-11/Week2.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
     "images/yqlive2d.psd",
     "Monthly/2024-11/Week1.md",
     "Unmatched/Report_Unmatched_Ubuntu.md",
@@ -253,9 +256,6 @@
     "RISC-V_short_video/best_practice_proposal.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
     "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Task List.md",
-    "RISC-V_short_video/baby_book.md",
-    "Monthly/2024-10/Month7.md",
     "images/live2d.jpg",
     "images/setupMars8.png",
     "images/setupMars7.png",
