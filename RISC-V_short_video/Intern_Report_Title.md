@@ -41,3 +41,15 @@
 参考文档：[PLCT-Works/LicheePi4A/Report_LicheePi4A_Celeste.md at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/LicheePi4A/Report_LicheePi4A_Celeste.md)
 
 参考视频：[在LicheePi 4A游玩蔚蓝Celeste_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HQStY1EsS/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+
+## 报告内容6
+
+- 调研你在网络上能找到的关于Milk- V Duo系列（论坛/视频网站等）中适合做成教学视频的内容，并简要介绍，形成调研文档
+- 如果我们做一个系列，内容是将复现开发板的demo的视频做成短视频，你认为复现时录制的视频应该着重注意哪些方面？形成视频制作策略的初步方案。
+- 以此方案为基础参考下面两个链接挑选重点，制作一个adcRead 读取电压值短视频（3分钟内）
+
+参考文档：[wiringx | Milk-V](https://milkv.io/zh/docs/duo/application-development/wiringx#adc)
+
+录制好的素材：https://disk.ariels.xyz/zfy
+
+密码zfy2024

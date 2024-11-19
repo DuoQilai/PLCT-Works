@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Week2"
             }
+          },
+          {
+            "id": "f16bd799018ffbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intern_Report_Title"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-11/Week2.md"
+                "file": "RISC-V_short_video/Intern_Report_Title.md"
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Intern_Report_Title 的大纲"
             }
           },
           {
@@ -219,7 +233,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94ebf0ee00a31cc4",
+  "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
     "Monthly/2024-10/Weekly/Week1.md",
     "Monthly/2024-10/Weekly/Week2.md",
