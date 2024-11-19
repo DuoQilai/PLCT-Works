@@ -50,6 +50,8 @@
 
 参考文档：[wiringx | Milk-V](https://milkv.io/zh/docs/duo/application-development/wiringx#adc)
 
+参考视频：[Arduino+Milk-VDuo入门教程 1.1Arduino I简介和配置开发环境_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NSYLehE1h/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
+
 录制好的素材：https://disk.ariels.xyz/zfy
 
 密码zfy2024
