@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "file": "RISC-V_short_video/Project_proposal_yolo11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intern_Report_Title"
+              "title": "Project_proposal_yolo11"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Intern_Report_Title.md"
+                "file": "RISC-V_short_video/Project_proposal_yolo11.md"
               },
               "icon": "lucide-list",
-              "title": "Intern_Report_Title 的大纲"
+              "title": "Project_proposal_yolo11 的大纲"
             }
           },
           {
@@ -235,6 +235,9 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "RISC-V_short_video/Project_proposal_box64.md",
+    "RISC-V_short_video/Project_proposal_yolo11.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
     "Monthly/2024-10/Weekly/Week1.md",
     "Monthly/2024-10/Weekly/Week2.md",
     "Monthly/2024-10/Weekly/Week3.md",
@@ -260,16 +263,13 @@
     "Monthly/2024-11",
     "RISC-V_short_video/Research_Document/Research_others.md",
     "RISC-V_short_video/未命名.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024_9.md",
     "RISC-V_short_video/Project_proposal.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
     "LicheePi4A/Report_LicheePi4A_Celeste.md",
     "RISC-V_short_video/Get_started.md",
     "RISC-V_short_video/best_practice_proposal.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
-    "RISC-V_short_video/Project_Introduction.md",
     "images/live2d.jpg",
     "images/setupMars8.png",
     "images/setupMars7.png",
