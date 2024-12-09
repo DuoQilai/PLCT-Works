@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-11/Month8.md",
+                "file": "RISC-V_short_video/Project_proposal_box64.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month8"
+              "title": "Project_proposal_box64"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-11/Month8.md"
+                "file": "RISC-V_short_video/Project_proposal_box64.md"
               },
               "icon": "lucide-list",
-              "title": "Month8 的大纲"
+              "title": "Project_proposal_box64 的大纲"
             }
           },
           {
@@ -235,31 +235,36 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Job_Description.md",
+    "RISC-V_short_video/Intern_Report_Title.md",
+    "RISC-V_short_video/best_practice_proposal.md",
+    "Monthly/2024-12/Weekly/Week1.md",
+    "Monthly/2024-11/Month8.md",
+    "Monthly/2024-05/Month2.md",
+    "Monthly/2024-05/Weekly/Week4.md",
+    "Monthly/2024-04/month1.md",
+    "Monthly/2024-11/Week3.md",
+    "Monthly/2024-11/Week2.md",
+    "Monthly/2024-11/Week1.md",
+    "Monthly/2024-10/Month7.md",
+    "RISC-V_short_video/Project_proposal_box64.md",
+    "RISC-V_short_video/Task List.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "RISC-V_short_video/Get_started.md",
+    "Notes/张馥媛-RISC-V 2024教学视频回顾.pptx",
+    "2024-12/Weekly/未命名.md",
+    "Monthly/2024-12/Weekly",
+    "Monthly/2024-12",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.11.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.10.md",
-    "Monthly/2024-11/Month8.md",
-    "Monthly/2024-11/Week2.md",
-    "Monthly/2024-11/Week3.md",
-    "Monthly/2024-11/Week1.md",
-    "Monthly/2024-10/Month7.md",
     "Monthly/2024-11/未命名.md",
     "RISC-V_short_video/Plan_Document/Project_Plan_2024.md",
-    "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
-    "RISC-V_short_video/best_practice_proposal.md",
-    "RISC-V_short_video/Project_proposal_yolo11.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
-    "Monthly/2024-10/Weekly/Week1.md",
-    "Monthly/2024-10/Weekly/Week2.md",
-    "Monthly/2024-10/Weekly/Week3.md",
     "images/yqlive2d.psd",
-    "Unmatched/Report_Unmatched_Ubuntu.md",
-    "BPI-F3/Report_BPI-F3_Bianbu.md",
-    "Milk-V/Duo/Report_Duo_wringx.md",
     "images/BPIF3_2.png",
     "images/BPIF3_1.png",
     "BPI-F3",
@@ -267,9 +272,7 @@
     "images/Unmatched2.png",
     "images/Unmatched1.png",
     "Unmatched",
-    "RISC-V_short_video/Research_Document/Research_xuantie.md",
     "Monthly/2024-11",
-    "RISC-V_short_video/Research_Document/Research_others.md",
     "images/live2d.jpg",
     "images/setupMars8.png",
     "images/setupMars7.png",
@@ -278,9 +281,6 @@
     "Milk-V/Mars",
     "Monthly/2024-10/Weekly",
     "Monthly/2024-10",
-    "Monthly/2024-09/Weekly",
-    "images/live2d.psd",
-    "Monthly/2024-09",
     "未命名.canvas"
   ]
 }
