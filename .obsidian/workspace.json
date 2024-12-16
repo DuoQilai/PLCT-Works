@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LicheePi4A/Summary_Document_LicheePi4A.md",
+                "file": "Monthly/2024-12/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary_Document_LicheePi4A"
+              "title": "Week2"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LicheePi4A/Summary_Document_LicheePi4A.md"
+                "file": "Monthly/2024-12/Weekly/Week2.md"
               },
               "icon": "lucide-list",
-              "title": "Summary_Document_LicheePi4A 的大纲"
+              "title": "Week2 的大纲"
             }
           },
           {
@@ -235,12 +235,17 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
-    "LicheePi4A/Report_LicheePi4A_wps.md",
     "LicheePi4A/Summary_Document_LicheePi4A.md",
-    "LicheePi4A/Report_LicheePi4A_Setup.md",
+    "Monthly/2024-12/Weekly/Week2.md",
+    "Monthly/2024-11/Week3.md",
+    "Monthly/2024-11/Week1.md",
+    "Monthly/2024-11/Week2.md",
     "BPI-F3/Report_BPI-F3_Bianbu_.md",
-    "BPI-F3/Report_BPI-F3_Bianbu.md",
+    "images/BPIF3_3.png",
     "Monthly/2024-12/Weekly/Week1.md",
+    "LicheePi4A/Report_LicheePi4A_wps.md",
+    "LicheePi4A/Report_LicheePi4A_Setup.md",
+    "BPI-F3/Report_BPI-F3_Bianbu.md",
     "RISC-V_short_video/Project_proposal_box64.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Job_Description.md",
@@ -250,9 +255,6 @@
     "Monthly/2024-05/Month2.md",
     "Monthly/2024-05/Weekly/Week4.md",
     "Monthly/2024-04/month1.md",
-    "Monthly/2024-11/Week3.md",
-    "Monthly/2024-11/Week2.md",
-    "Monthly/2024-11/Week1.md",
     "Monthly/2024-10/Month7.md",
     "RISC-V_short_video/Task List.md",
     "RISC-V_short_video/Project_proposal.md",
@@ -262,8 +264,6 @@
     "Monthly/2024-12/Weekly",
     "Monthly/2024-12",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.11.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
     "images/yqlive2d.psd",
     "images/BPIF3_2.png",
     "images/BPIF3_1.png",
@@ -277,7 +277,6 @@
     "images/setupMars8.png",
     "images/setupMars7.png",
     "images/setupMars6.png",
-    "images/setupMars5.png",
     "Milk-V/Mars",
     "Monthly/2024-10/Weekly",
     "Monthly/2024-10",
