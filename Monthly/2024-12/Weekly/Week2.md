@@ -4,6 +4,8 @@
 
 ## 在南京RVlab上线了一台BPI-F3
 
+和肥猫老师配合
+
 ![](../../../images/BPIF3_3.png)
 ## 【Milk-V Duo 】YOLOv8目标检测视频教程AI配音
 
