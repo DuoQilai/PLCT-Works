@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2024-12/Weekly/Week2.md",
+                "file": "RISC-V_short_video/Plan_Document/戊寅小队2025年计划.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "戊寅小队2025年计划"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2024-12/Weekly/Week2.md"
+                "file": "RISC-V_short_video/Plan_Document/戊寅小队2025年计划.md"
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "戊寅小队2025年计划 的大纲"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
-    "LicheePi4A/Summary_Document_LicheePi4A.md",
     "Monthly/2024-12/Weekly/Week2.md",
+    "LicheePi4A/Summary_Document_LicheePi4A.md",
     "Monthly/2024-11/Week3.md",
     "Monthly/2024-11/Week1.md",
     "Monthly/2024-11/Week2.md",
