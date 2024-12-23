@@ -9,6 +9,8 @@
 ## 周三技术分享主持
 
 ## 皮套制作
+
+![](../../../images/live2d.jpg)
 ## 项目迭代计划：
 
 https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Plan_Document
