@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/戊寅小队2025年计划.md",
+                "file": "Monthly/2024-12/Weekly/Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "戊寅小队2025年计划"
+              "title": "Week3"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Plan_Document/戊寅小队2025年计划.md"
+                "file": "Monthly/2024-12/Weekly/Week3.md"
               },
               "icon": "lucide-list",
-              "title": "戊寅小队2025年计划 的大纲"
+              "title": "Week3 的大纲"
             }
           },
           {
@@ -235,11 +235,18 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "Monthly/2024-11/Week2.md",
+    "Monthly/2024-11/Week3.md",
+    "Monthly/2024-12/Weekly/Week3.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.13.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.13.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.12.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.12.md",
+    "RISC-V_short_video/Plan_Document/戊寅小队2025年计划.md",
     "Monthly/2024-12/Weekly/Week2.md",
     "LicheePi4A/Summary_Document_LicheePi4A.md",
-    "Monthly/2024-11/Week3.md",
     "Monthly/2024-11/Week1.md",
-    "Monthly/2024-11/Week2.md",
     "BPI-F3/Report_BPI-F3_Bianbu_.md",
     "images/BPIF3_3.png",
     "Monthly/2024-12/Weekly/Week1.md",
@@ -255,15 +262,9 @@
     "Monthly/2024-05/Month2.md",
     "Monthly/2024-05/Weekly/Week4.md",
     "Monthly/2024-04/month1.md",
-    "Monthly/2024-10/Month7.md",
-    "RISC-V_short_video/Task List.md",
-    "RISC-V_short_video/Project_proposal.md",
-    "RISC-V_short_video/Get_started.md",
     "Notes/张馥媛-RISC-V 2024教学视频回顾.pptx",
-    "2024-12/Weekly/未命名.md",
     "Monthly/2024-12/Weekly",
     "Monthly/2024-12",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
     "images/yqlive2d.psd",
     "images/BPIF3_2.png",
     "images/BPIF3_1.png",
