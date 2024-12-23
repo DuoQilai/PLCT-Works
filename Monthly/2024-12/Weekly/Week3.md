@@ -10,7 +10,7 @@
 
 ## 皮套制作
 
-![](../../../images/live2d.jpg)
+[PLCT-Works/images/yingqi.cmo3 at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/images/yingqi.cmo3)
 ## 项目迭代计划：
 
 https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Plan_Document
