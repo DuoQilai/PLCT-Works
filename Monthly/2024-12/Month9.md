@@ -34,7 +34,7 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 - PPT：[PLCT-Works/Notes/张馥媛-RISC-V 2024教学视频回顾.pptx at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/%E5%BC%A0%E9%A6%A5%E5%AA%9B-RISC-V%202024%E6%95%99%E5%AD%A6%E8%A7%86%E9%A2%91%E5%9B%9E%E9%A1%BE.pptx)
 ## 4. 周三技术分享主持
 
-![](../../../images/others1.png)
+![](../../images/others1.png)
 ## 5.南京RISC-V lab 
 去南京英麒智能现场环境部署，皮套制作
 ### 在南京RISC-V lab上线了一台BPI-F3
