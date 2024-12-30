@@ -84,8 +84,8 @@
               "type": "markdown",
               "state": {
                 "file": "Monthly/2024-12/Month9.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Month9"

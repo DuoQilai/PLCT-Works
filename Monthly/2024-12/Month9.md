@@ -47,7 +47,7 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 ![](../../images/setup4A8.png)
 ### 新闻稿编写
 
-[RISC-V Lab（南京）试运营取得多项进展](https://mp.weixin.qq.com/s/GYI88Xx3yTg8L5kdxL8PAA
+[RISC-V Lab（南京）试运营取得多项进展](https://mp.weixin.qq.com/s/GYI88Xx3yTg8L5kdxL8PAA)
 ### 皮套原画部分完成，动态制作中
 
 [PLCT-Works/images/yingqi.cmo3 at main · DuoQilai/PLCT-Works](https://github.com/DuoQilai/PLCT-Works/blob/main/images/yingqi.cmo3)
