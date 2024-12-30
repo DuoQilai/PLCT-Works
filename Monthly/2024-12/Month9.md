@@ -40,7 +40,7 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 ### 在南京RISC-V lab上线了一台BPI-F3
 
 和肥猫老师配合
-![](../../../images/BPIF3_3.png)
+![](../../images/BPIF3_3.png)
 
 ### 在南京RISC-V lab上线了10台Licheepi4A
 
