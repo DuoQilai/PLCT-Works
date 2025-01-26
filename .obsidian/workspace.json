@@ -13,12 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Research_Document/Research_Datasets.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research_Datasets"
+              }
             }
           }
         ]
@@ -41,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              }
             }
           },
           {
@@ -58,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
+              }
             }
           },
           {
@@ -68,17 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "2b5650c717da77ca",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2025-01/Weekly/Week2.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Week2 的反向链接列表"
+              }
             }
           },
           {
@@ -115,9 +104,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              }
             }
           },
           {
@@ -126,10 +113,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-01/Weekly/Week2.md"
-              },
-              "icon": "lucide-list",
-              "title": "Week2 的大纲"
+                "file": "Monthly/2025-01/Month10.md"
+              }
             }
           },
           {
@@ -138,12 +123,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2025-01/Weekly/Week2.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Week2 的出链列表"
+              }
             }
           }
         ],
@@ -166,38 +149,42 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "Notes/张馥媛-年度总结.pptx",
+    "Notes/张馥媛-年度总结.tmp",
+    "Monthly/2025-01/Weekly/Week2.md",
+    "Monthly/2025-01/Month10.md",
+    "RISC-V_short_video/Plan_Document/Project_Plan.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.7.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.14.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.12.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
+    "images/Europe.png",
+    "images/Tokyo1.png",
+    "Monthly/2025-01/Weekly/Week1.md",
+    "RISC-V_short_video/Research_Document/Research_Datasets.md",
+    "Monthly/2025-01/Weekly/Week3.md",
     "RISC-V_short_video/Research_Document/Research_xuantie.md",
     "RISC-V_short_video/Research_Document/Research_others.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
-    "RISC-V_short_video/Research_Document/Research_Datasets.md",
-    "Monthly/2025-01/Weekly/Week2.md",
-    "Monthly/2025-01/Weekly/Week1.md",
     "images/video1.png",
     "Monthly/2024-12/Month9.md",
     "Monthly/2024-12/Weekly/Week3.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.14.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.13.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.14.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.13.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.12.md",
     "Monthly/2025-01/Weekly",
     "未命名",
     "Monthly/2025-01",
     "images/others1.png",
-    "Monthly/2024-12/Weekly/Week1.md",
-    "Monthly/2024-12/Weekly/Week2.md",
-    "LicheePi4A/Report_LicheePi4A_Setup.md",
     "images/setup4A8.png",
-    "Monthly/2024-11/Month8.md",
-    "Monthly/2024-10/Weekly/Week3.md",
-    "Monthly/2024-05/Weekly/Week4.md",
-    "Monthly/2024-11/Week2.md",
-    "Monthly/2024-11/Week3.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.12.md",
     "images/BPIF3_3.png",
     "Notes/张馥媛-RISC-V 2024教学视频回顾.pptx",
     "Monthly/2024-12/Weekly",
@@ -208,9 +195,6 @@
     "BPI-F3",
     "images/Unmatched3.png",
     "images/Unmatched2.png",
-    "images/Unmatched1.png",
-    "Unmatched",
-    "images/live2d.jpg",
     "未命名.canvas"
   ]
 }
