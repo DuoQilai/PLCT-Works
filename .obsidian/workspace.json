@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-01/Month10.md",
+                "file": "k230/Report_k230_Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monthly/2025-01/Month10.md",
+                "file": "k230/Report_k230_Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-01/Month10.md"
+                "file": "k230/Report_k230_Setup.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monthly/2025-01/Month10.md",
+                "file": "k230/Report_k230_Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +148,28 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "images/k230_10.png",
+    "images/k230_9.png",
+    "images/k230_8.png",
+    "images/k230_7.png",
+    "images/k230_6.png",
+    "images/k230_5.png",
+    "images/k230_4.png",
+    "images/k230_3.png",
+    "images/k230_2.png",
+    "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
+    "Milk-V/Duo/Report_Duo_wringx.md",
+    "k230/Report_k230_Setup.md",
+    "images/k230_1.png",
+    "Milk-V/DuoS/Report_DuoS_Setup.md",
+    "BPI-F3/Report_BPI-F3_Bianbu.md",
+    "BPI-F3/Report_BPI-F3_Bianbu_.md",
+    "k230d/Report_SDK_k230_k510_duo.md",
+    "Monthly/2025-01/Month10.md",
+    "k230",
     "Notes/张馥媛-年度总结.pptx",
     "Notes/张馥媛-年度总结.tmp",
     "Monthly/2025-01/Weekly/Week2.md",
-    "Monthly/2025-01/Month10.md",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
@@ -165,36 +182,18 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
     "images/Europe.png",
-    "images/Tokyo1.png",
     "Monthly/2025-01/Weekly/Week1.md",
     "RISC-V_short_video/Research_Document/Research_Datasets.md",
     "Monthly/2025-01/Weekly/Week3.md",
     "RISC-V_short_video/Research_Document/Research_xuantie.md",
     "RISC-V_short_video/Research_Document/Research_others.md",
-    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
-    "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
-    "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
-    "images/video1.png",
-    "Monthly/2024-12/Month9.md",
-    "Monthly/2024-12/Weekly/Week3.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.13.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.0.14.md",
     "Monthly/2025-01/Weekly",
-    "未命名",
     "Monthly/2025-01",
-    "images/others1.png",
-    "images/setup4A8.png",
-    "images/BPIF3_3.png",
     "Notes/张馥媛-RISC-V 2024教学视频回顾.pptx",
     "Monthly/2024-12/Weekly",
     "Monthly/2024-12",
     "images/yqlive2d.psd",
-    "images/BPIF3_2.png",
-    "images/BPIF3_1.png",
-    "BPI-F3",
-    "images/Unmatched3.png",
-    "images/Unmatched2.png",
     "未命名.canvas"
   ]
 }

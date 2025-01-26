@@ -31,8 +31,9 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 
 ![](../../images/Europe.png)
 
-## 5.年度总结ppt
+## 5.年度总结PPT
 
+[PLCT-Works/Notes/张馥媛-年度总结.pptx at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/%E5%BC%A0%E9%A6%A5%E5%AA%9B-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.pptx)
 
 ## 6.南京RISC-V lab 
 去南京英麒智能现场环境部署，皮套制作
