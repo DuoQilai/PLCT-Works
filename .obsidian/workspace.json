@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "k230/Report_k230_Setup.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "k230/Report_k230_Setup.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "k230/Report_k230_Setup.md"
+                "file": "Monthly/2025-01/Month10.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "k230/Report_k230_Setup.md",
+                "file": "Monthly/2025-01/Month10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,6 +148,10 @@
   },
   "active": "f16bd799018ffbc9",
   "lastOpenFiles": [
+    "Monthly/2024-12/Weekly/Week3.md",
+    "Monthly/2024-12/Weekly/Week2.md",
+    "Monthly/2024-12/Month9.md",
+    "k230/Report_k230_Setup.md",
     "images/k230_10.png",
     "images/k230_9.png",
     "images/k230_8.png",
@@ -159,7 +163,6 @@
     "images/k230_2.png",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "Milk-V/Duo/Report_Duo_wringx.md",
-    "k230/Report_k230_Setup.md",
     "images/k230_1.png",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "BPI-F3/Report_BPI-F3_Bianbu.md",
@@ -181,12 +184,9 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
-    "images/Europe.png",
     "Monthly/2025-01/Weekly/Week1.md",
     "RISC-V_short_video/Research_Document/Research_Datasets.md",
     "Monthly/2025-01/Weekly/Week3.md",
-    "RISC-V_short_video/Research_Document/Research_xuantie.md",
-    "RISC-V_short_video/Research_Document/Research_others.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "Monthly/2025-01/Weekly",
     "Monthly/2025-01",

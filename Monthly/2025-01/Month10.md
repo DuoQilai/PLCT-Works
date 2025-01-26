@@ -21,21 +21,25 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Plan_Documen
 
 https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Document
 
-## 3.东京RV Day投稿
+## 3.k230
+k230启动
+[PLCT-Works/k230/Report_k230_Setup.md at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/k230/Report_k230_Setup.md)
+
+## 4.东京RV Day投稿
 
 4篇摘要 1篇海报
 ![](../../images/Tokyo1.png)
 
-## 4. 欧洲峰会投稿
+## 5. 欧洲峰会投稿
 1篇摘要
 
 ![](../../images/Europe.png)
 
-## 5.年度总结PPT
+## 6.年度总结PPT
 
 [PLCT-Works/Notes/张馥媛-年度总结.pptx at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/%E5%BC%A0%E9%A6%A5%E5%AA%9B-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93.pptx)
 
-## 6.南京RISC-V lab 
+## 7.南京RISC-V lab 
 去南京英麒智能现场环境部署，皮套制作
 ### 新闻稿编写
 
