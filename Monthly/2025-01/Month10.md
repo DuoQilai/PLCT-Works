@@ -5,7 +5,7 @@
 ## 1. Milk-V Duo
 ## 确立Milk-V Duo YOLO实战课程模板和发布第一集
 已下架整改
-![](../../../images/video1.png)
+![](../../images/video1.png)
 
 ## 2.RISC-V short video项目
 建议和修改同学们提交的视频，发布视频和控制进度
@@ -23,6 +23,7 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 
 ## 3.k230
 k230启动
+
 [PLCT-Works/k230/Report_k230_Setup.md at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/k230/Report_k230_Setup.md)
 
 ## 4.东京RV Day投稿
