@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-01/Month10.md",
+                "file": "Notes/XuanTie/K230AIDemoManualForDeployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month10"
+              "title": "K230AIDemoManualForDeployment"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-01/Month10.md"
+                "file": "Notes/XuanTie/K230AIDemoManualForDeployment.md"
               },
               "icon": "lucide-list",
-              "title": "Month10 的大纲"
+              "title": "K230AIDemoManualForDeployment 的大纲"
             }
           },
           {
@@ -179,27 +179,30 @@
   },
   "active": "023f1bec2c7e4369",
   "lastOpenFiles": [
+    "images/k230_18.png",
+    "images/k230_17.png",
+    "images/k230_16.png",
+    "images/k230_15.png",
+    "images/k230_14.png",
+    "Notes/XuanTie/k230_12.png",
+    "k230d/Report_SDK_k230_k510_duo.md",
+    "k230/Report_k230_Setup.md",
+    "Notes/XuanTie/K230AIDemoManualForDeployment.md",
+    "images/k230_13.png",
+    "images/k230_12.png",
+    "images/k230_11.jpg",
+    "images/k230_10.png",
+    "Notes/DuoGet_started.md",
+    "Milk-V/Duo/Report_Duo_wringx.md",
+    "Monthly/2025-01/Month10.md",
     "Monthly/2024-12/Weekly/Week3.md",
     "Monthly/2024-12/Weekly/Week2.md",
     "Monthly/2024-12/Month9.md",
-    "k230/Report_k230_Setup.md",
-    "images/k230_10.png",
     "images/k230_9.png",
-    "images/k230_8.png",
-    "images/k230_7.png",
-    "images/k230_6.png",
-    "images/k230_5.png",
-    "images/k230_4.png",
-    "images/k230_3.png",
-    "images/k230_2.png",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
-    "Milk-V/Duo/Report_Duo_wringx.md",
-    "images/k230_1.png",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "BPI-F3/Report_BPI-F3_Bianbu.md",
     "BPI-F3/Report_BPI-F3_Bianbu_.md",
-    "k230d/Report_SDK_k230_k510_duo.md",
-    "Monthly/2025-01/Month10.md",
     "k230",
     "Notes/张馥媛-年度总结.pptx",
     "Notes/张馥媛-年度总结.tmp",
@@ -215,9 +218,6 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
-    "Monthly/2025-01/Weekly/Week1.md",
-    "RISC-V_short_video/Research_Document/Research_Datasets.md",
-    "Monthly/2025-01/Weekly/Week3.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "Monthly/2025-01/Weekly",
     "Monthly/2025-01",
