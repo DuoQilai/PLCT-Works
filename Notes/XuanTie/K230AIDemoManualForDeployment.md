@@ -48,12 +48,12 @@
 可以显示手的上下左右方向
 ![](../../images/k230_18.png)
 ## Demo列表：
-动态手势识别：\CanMV\sdcard\app\tests\ai_demo\dynamic_gesture
-说明：可以显示手的上下左右方向
-人脸检测:\CanMV\sdcard\app\tests\ai_demo\face_detection
-说明：框选出拍摄到的人脸
-人脸关键部位:\CanMV\sdcard\app\tests\ai_demo\face_landmark
-说明：检测拍摄到的眼睛、鼻子、嘴巴
-猜拳游戏:\CanMV\sdcard\app\tests\ai_demo\finger_guessing
-说明：手进入画面时，和ai进行第1局猜拳，手离开画面后再次进入画面进入第2局，共3局，最后显示胜负，有检测错误的可能。
+- 动态手势识别：\CanMV\sdcard\app\tests\ai_demo\dynamic_gesture
+  - 说明：可以显示手的上下左右方向
+- 人脸检测:\CanMV\sdcard\app\tests\ai_demo\face_detection
+  - 说明：框选出拍摄到的人脸
+- 人脸关键部位:\CanMV\sdcard\app\tests\ai_demo\face_landmark
+  - 说明：检测拍摄到的眼睛、鼻子、嘴巴
+- 猜拳游戏:\CanMV\sdcard\app\tests\ai_demo\finger_guessing
+  - 说明：手进入画面时，和ai进行第1局猜拳，手离开画面后再次进入画面进入第2局，共3局，最后显示胜负，有检测错误的可能。
 
