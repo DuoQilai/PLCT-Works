@@ -4,7 +4,7 @@
 
 ## 玄铁课程制作
 
-- 皮套完成
+- [皮套完成](https://github.com/DuoQilai/PLCT-Works/blob/main/images/duoqilai.zip)
 - 课程录制完成，剪辑中
 ![](../../../images/k230_19.png)
 
