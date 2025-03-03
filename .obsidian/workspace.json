@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Week1"
             }
+          },
+          {
+            "id": "1ecf40f0129010a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iterative_Review1.1.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -140,10 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-02/Weekly/Week1.md"
+                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "Iterative_Review1.1.3 的大纲"
             }
           },
           {
@@ -177,10 +195,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "023f1bec2c7e4369",
+  "active": "1ecf40f0129010a7",
   "lastOpenFiles": [
-    "Notes/XuanTie/K230AIDemoManualForDeployment.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.2.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
+    "Monthly/2025-02/Month11.md",
     "Monthly/2025-02/Weekly/Week1.md",
+    "images/Tokyo2.jpg",
+    "images/rvday1.jpg",
+    "Monthly/2025-01/Month10.md",
+    "images/yolo1.png",
+    "Notes/XuanTie/K230AIDemoManualForDeployment.md",
     "images/k230_19.png",
     "images/duoqilai.zip",
     "images/duoqilai 2.zip",
@@ -196,12 +226,8 @@
     "Notes/XuanTie/k230_12.png",
     "k230d/Report_SDK_k230_k510_duo.md",
     "k230/Report_k230_Setup.md",
-    "images/k230_13.png",
-    "images/k230_12.png",
-    "images/k230_11.jpg",
     "Notes/DuoGet_started.md",
     "Milk-V/Duo/Report_Duo_wringx.md",
-    "Monthly/2025-01/Month10.md",
     "Monthly/2024-12/Weekly/Week3.md",
     "Monthly/2024-12/Weekly/Week2.md",
     "Monthly/2024-12/Month9.md",
@@ -213,14 +239,7 @@
     "Notes/张馥媛-年度总结.pptx",
     "Notes/张馥媛-年度总结.tmp",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.7.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.9.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.11.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.14.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.12.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.10.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "Monthly/2025-01/Weekly",
     "Monthly/2025-01",
