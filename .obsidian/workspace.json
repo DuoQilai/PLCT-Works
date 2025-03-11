@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+                "file": "Monthly/2025-03/Weekly/Week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative_Review1.1.3"
+              "title": "Week1"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+                "file": "Monthly/2025-03/Weekly/Week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Iterative_Review1.1.3 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -197,14 +197,18 @@
   },
   "active": "1ecf40f0129010a7",
   "lastOpenFiles": [
+    "Monthly/2024-12/Month9.md",
+    "Monthly/2025-02/Month11.md",
+    "Monthly/2025-03/Weekly/Week1.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+    "Monthly/2025-03/Weekly",
+    "Monthly/2025-03",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.2.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
-    "Monthly/2025-02/Month11.md",
     "Monthly/2025-02/Weekly/Week1.md",
     "images/Tokyo2.jpg",
     "images/rvday1.jpg",
@@ -230,7 +234,6 @@
     "Milk-V/Duo/Report_Duo_wringx.md",
     "Monthly/2024-12/Weekly/Week3.md",
     "Monthly/2024-12/Weekly/Week2.md",
-    "Monthly/2024-12/Month9.md",
     "Milk-V/DuoS/Report_DuoS__babyllama2_i.md",
     "Milk-V/DuoS/Report_DuoS_Setup.md",
     "BPI-F3/Report_BPI-F3_Bianbu.md",
@@ -239,10 +242,7 @@
     "Notes/张馥媛-年度总结.pptx",
     "Notes/张馥媛-年度总结.tmp",
     "RISC-V_short_video/Plan_Document/Project_Plan.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.0.8.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
-    "Monthly/2025-01/Weekly",
-    "Monthly/2025-01",
     "未命名.canvas"
   ]
 }
