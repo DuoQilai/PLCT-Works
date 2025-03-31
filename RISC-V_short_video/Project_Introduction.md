@@ -18,7 +18,7 @@
 - [RISC-V教学短视频同类视频调研报告-CSDN博客](https://blog.csdn.net/jtwqwq/article/details/139909796?app_version=6.3.8&code=app_1562916241&csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22139909796%22%2C%22source%22%3A%22jtwqwq%22%7D&uLinkId=usr1mkqgl919blen&utm_source=app)
 - [懂点儿RV-RISC-V短视频教学系列项目方案](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal.md)
 - [视频流量调研](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Research_Document/video_ResearchDocument.md)
-- [开发板demo教学系列项目方案](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/best_practice_proposal.md)
+- [开发板demo教学系列项目方案](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal_bestpractice.md)
 - [二进制翻译教学系列](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal_box64.md)
 - 已下架：[YOLO实战教程：王者荣耀目标识别](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal_yolo11.md)
 - [YOLO实战教程：车牌目标识别](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_proposal_yolo11_new.md)
