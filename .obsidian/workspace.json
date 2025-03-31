@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "Monthly/2025-03/Month12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baby_book"
+              "title": "Month12"
             }
           }
         ]
@@ -126,13 +126,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "Monthly/2025-03/Month12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "baby_book 的大纲"
+              "title": "Month12 的大纲"
             }
           },
           {
@@ -168,10 +168,35 @@
   },
   "active": "c049ffb28cea7188",
   "lastOpenFiles": [
-    "LicheePi4A/Summary_Document_LicheePi4A.md",
     "Monthly/2025-02/Month11.md",
-    "k230/Report_k230_Setup.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.5.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.5.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.4.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.0.14.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
+    "Monthly/2025-03/Month12.md",
+    "Monthly/2025-03/Weekly/Week2.md",
+    "images/RISC-VEurope2.png",
+    "images/截屏2025-03-31 16.36.41.png",
+    "Notes/RVDay/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.pdf",
+    "Notes/RVDay/Engaging the Next Generation- ISCAS’s RISC-V Education Through Short Videos.pdf",
+    "Notes/RVDay/RISC-V in Education and Open Source Hardware Empowering Engineers, Bridging Digital Divide, and Advancing Social Equity.pdf",
+    "Notes/RVDay/RISC-V in Education and Open Source Hardware Empowering Engineers, Bridging Digital Divide, and Advancing Social Equity (1).pdf",
+    "Notes/RVDay",
+    "Notes/未命名文件夹",
+    "Monthly/2025-03/Weekly/Week1.md",
+    "images/yolo2.png",
+    "images/others2.png",
+    "images/截屏2025-03-31 16.22.19.png",
+    "Monthly/2025-02/Weekly/Week1.md",
     "RISC-V_short_video/baby_book.md",
+    "LicheePi4A/Summary_Document_LicheePi4A.md",
+    "k230/Report_k230_Setup.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Project_proposal.md",
     "RISC-V_short_video/Intern_Report_Title.md",
@@ -180,21 +205,7 @@
     "RISC-V_short_video/Project_proposal_yolo11_new.md",
     "RISC-V_short_video/Project_proposal_bestpractice.md",
     "LicheePi4A/Report_LicheePi4A_wps.md",
-    "LicheePi4A/Report_LicheePi4A_Celeste.md",
-    "RISC-V_short_video/Job_Description.md",
-    "RISC-V_short_video/Get_started.md",
-    "RISC-V_short_video/Task List.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
-    "Monthly/2025-01/Month10.md",
-    "Monthly/2025-02/Weekly/Week1.md",
-    "Monthly/2025-03/Weekly/Week1.md",
-    "k230d/Report_SDK_k230_k510_duo.md",
-    "README.md",
-    "Monthly/2025-03/Weekly/Week2.md",
     "images/RISC-VEurope.png",
-    "Monthly/2024-12/Month9.md",
-    "Monthly/2024-08/Month5.md",
-    "Monthly/2024-07/Month4.md",
     "Notes/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.pages",
     "Notes/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.tmp",
     "Monthly/2025-03/Weekly",
@@ -203,17 +214,6 @@
     "images/rvday1.jpg",
     "images/yolo1.png",
     "images/k230_19.png",
-    "images/duoqilai.zip",
-    "images/duoqilai 2.zip",
-    "Monthly/2025-02/Weekly",
-    "Monthly/2025-02",
-    "images/k230_18.png",
-    "images/k230_17.png",
-    "images/k230_16.png",
-    "images/k230_15.png",
-    "images/k230_14.png",
-    "k230",
-    "Notes/张馥媛-年度总结.pptx",
     "未命名.canvas"
   ]
 }
