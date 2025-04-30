@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-04/Month13.md",
+                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month13"
+              "title": "Iterative_Review1.1.7"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-04/Month13.md",
+                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month13 的大纲"
+              "title": "Iterative_Review1.1.7 的大纲"
             }
           },
           {
@@ -183,8 +183,16 @@
   },
   "active": "3e30818670bdb68b",
   "lastOpenFiles": [
-    "Monthly/2025-03/Month12.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.6.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.7.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.4.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.5.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.8.md",
     "Monthly/2025-04/Month13.md",
+    "Monthly/2025-03/Month12.md",
     "Notes/RVDay/Slides_Europe.pptx",
     "Notes/RVDay/F3_Abstract_Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.docx",
     "Notes/RVDay/F1_Poster_Building the RISC-V Education Ecosystem.pptx",
@@ -195,13 +203,10 @@
     "Monthly/2025-04",
     "Monthly/2025-02/Weekly/Week1.md",
     "Monthly/2025-02/Month11.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.5.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.5.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.4.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.3.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.0.14.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.2.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
@@ -221,10 +226,6 @@
     "k230/Report_k230_Setup.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Project_proposal.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
-    "LicheePi4A/Report_LicheePi4A_Setup.md",
-    "RISC-V_short_video/Project_proposal_yolo11.md",
-    "RISC-V_short_video/Project_proposal_yolo11_new.md",
     "images/RISC-VEurope.png",
     "images/Tokyo2.jpg",
     "images/rvday1.jpg",
