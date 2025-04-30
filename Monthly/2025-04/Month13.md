@@ -30,7 +30,10 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 
 提交扩展摘要、海报和演示文稿
 
-[PLCT-Works/Notes/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.pages at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/Building%20the%20RISC-V%20Education%20Ecosystem%20A%20Systematic%20Educational%20Contents%20Design%2C%20Remote%20Laboratories%2C%20and%20Community-Driven%20Learning.pages)
+- [Abstract](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/F3_Abstract_Building%20the%20RISC-V%20Education%20Ecosystem%20A%20Systematic%20Educational%20Contents%20Design%2C%20Remote%20Laboratories%2C%20and%20Community-Driven%20Learning.docx)
+- [Poster](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/F1_Poster_Building%20the%20RISC-V%20Education%20Ecosystem.pptx)
+- [Slides](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/Slides_Europe.pptx)
+
 
 ![](../../images/RISC-VEurope3.png)
 
