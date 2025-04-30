@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
+                "file": "Monthly/2025-04/Month13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iterative_Review1.1.7"
+              "title": "Month13"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
+                "file": "Monthly/2025-04/Month13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Iterative_Review1.1.7 的大纲"
+              "title": "Month13 的大纲"
             }
           },
           {
@@ -181,10 +181,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e30818670bdb68b",
+  "active": "bbe17f65e26d930e",
   "lastOpenFiles": [
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.6.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
+    "images/yolo3.png",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.6.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.7.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.1.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
@@ -225,10 +226,8 @@
     "LicheePi4A/Summary_Document_LicheePi4A.md",
     "k230/Report_k230_Setup.md",
     "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Project_proposal.md",
     "images/RISC-VEurope.png",
     "images/Tokyo2.jpg",
-    "images/rvday1.jpg",
     "未命名.canvas"
   ]
 }
