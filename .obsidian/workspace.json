@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Month12"
             }
+          },
+          {
+            "id": "3e30818670bdb68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly/2025-04/Month13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Month13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-03/Month12.md",
+                "file": "Monthly/2025-04/Month13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month12 的大纲"
+              "title": "Month13 的大纲"
             }
           },
           {
@@ -166,10 +181,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c049ffb28cea7188",
+  "active": "bbe17f65e26d930e",
   "lastOpenFiles": [
+    "Notes/RVDay/Slides_Europe.pptx",
+    "Notes/RVDay/F3_Abstract_Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.docx",
+    "Notes/RVDay/F1_Poster_Building the RISC-V Education Ecosystem.pptx",
+    "images/RISC-VEurope3.png",
+    "images/截屏2025-03-31 17.29.34.png",
+    "Monthly/2025-04/Month13.md",
     "Monthly/2025-03/Weekly/Week2.md",
     "Monthly/2025-03/Weekly/Week1.md",
+    "Monthly/2025-04",
     "Monthly/2025-02/Weekly/Week1.md",
     "Monthly/2025-03/Month12.md",
     "Monthly/2025-02/Month11.md",
@@ -203,17 +225,10 @@
     "LicheePi4A/Report_LicheePi4A_Setup.md",
     "RISC-V_short_video/Project_proposal_yolo11.md",
     "RISC-V_short_video/Project_proposal_yolo11_new.md",
-    "RISC-V_short_video/Project_proposal_bestpractice.md",
-    "LicheePi4A/Report_LicheePi4A_wps.md",
     "images/RISC-VEurope.png",
     "Notes/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.pages",
-    "Notes/Building the RISC-V Education Ecosystem A Systematic Educational Contents Design, Remote Laboratories, and Community-Driven Learning.tmp",
-    "Monthly/2025-03/Weekly",
-    "Monthly/2025-03",
     "images/Tokyo2.jpg",
     "images/rvday1.jpg",
-    "images/yolo1.png",
-    "images/k230_19.png",
     "未命名.canvas"
   ]
 }
