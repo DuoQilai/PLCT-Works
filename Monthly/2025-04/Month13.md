@@ -9,7 +9,7 @@
 - 2.3 X-AnyLabeling的安装与使用（上）
 - 2.3 X-AnyLabeling的安装与使用（下）
 - 3.1 设置模型参数
-![](../../images/yolo2.png)
+![](../../../images/yolo2.png)
 
 ### 视频AI配音
 
@@ -35,5 +35,5 @@ https://github.com/DuoQilai/PLCT-Works/tree/main/RISC-V_short_video/Review_Docum
 - [Slides](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/Slides_Europe.pptx)
 
 
-![](../../images/RISC-VEurope3.png)
+![](../../../images/RISC-VEurope3.png)
 
