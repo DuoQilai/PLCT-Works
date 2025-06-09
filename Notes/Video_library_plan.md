@@ -47,7 +47,6 @@
 | **Milk-V系列**       | [Mars核心板](https://www.youtube.com/watch?v=HuU0LbnTbFk) / [Duo微型板](https://www.youtube.com/watch?v=YqUtGk0DHbQ) |
 | **Orange Pi RV2**  | [入门级SBC](https://www.youtube.com/watch?v=Mln2j3VxAos)                                                          |
 
-
 ### 2.4 历史回顾与未来展望
 
 #### 2.4.1 里程碑事件
@@ -59,9 +58,6 @@
 
 - [CSIS全球产业采用报告（NVIDIA/Intel等）](https://www.csis.org/analysis/sustaining-standards-leadership-united-states-cannot-disengage-risc-v)
 - [RISC-V发展现状深度解析](https://www.youtube.com/watch?v=vThTOrV0brk)
-
-
----
 
 ### 2.5 创新项目与教育实践
 
