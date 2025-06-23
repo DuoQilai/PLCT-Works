@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-06/Weekly/Week2.md",
+                "file": "Monthly/2025-06/Weekly/Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "Week3"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-06/Weekly/Week2.md",
+                "file": "Monthly/2025-06/Weekly/Week3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Week3 的大纲"
             }
           },
           {
@@ -183,11 +183,14 @@
   },
   "active": "c564616a9ad9cb70",
   "lastOpenFiles": [
-    "Monthly/2025-04/Month13.md",
+    "Notes/XuanTie/玄铁课程口播稿.md",
+    "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
+    "Monthly/2025-06/Weekly/Week2.md",
+    "Monthly/2025-06/Weekly/Week3.md",
     "Monthly/2025-05/Weekly/Week3.md",
+    "Monthly/2025-04/Month13.md",
     "Monthly/2025-05/Weekly/Week1.md",
     "Monthly/2025-05/Weekly/Week2.md",
-    "Monthly/2025-06/Weekly/Week2.md",
     "Monthly/2025-06/Weekly/Week1.md",
     "Notes/Video_library_plan.md",
     "Notes/Project_Introduction.md",
@@ -209,8 +212,6 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.8.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.9.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.10.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.8.md",
     "Notes/XuanTie/玄铁ppt.pptx",
     "Notes/XuanTie/玄铁RV音频.MP3.zip",
     "Notes/XuanTie/k230_12.png",
@@ -228,7 +229,6 @@
     "k230",
     "Notes/张馥媛-年度总结.pptx",
     "Notes/张馥媛-年度总结.tmp",
-    "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
     "未命名.canvas"
   ]
 }
