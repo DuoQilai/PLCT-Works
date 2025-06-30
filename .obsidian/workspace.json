@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-06/Weekly/Week3.md",
+                "file": "Monthly/2025-06/Month15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week3"
+              "title": "Month15"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-06/Weekly/Week3.md",
+                "file": "Monthly/2025-06/Month15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week3 的大纲"
+              "title": "Month15 的大纲"
             }
           },
           {
@@ -183,35 +183,35 @@
   },
   "active": "c564616a9ad9cb70",
   "lastOpenFiles": [
+    "Monthly/2025-05/Month14.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.12.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.10.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.9.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.8.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.10.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.9.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.8.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.5.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
+    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
+    "Monthly/2025-06/Month15.md",
+    "Monthly/2025-06/Weekly/Week3.md",
+    "Monthly/2025-06/Weekly/Week4.md",
+    "Monthly/2025-06/Weekly/Week2.md",
+    "Monthly/2025-06/Weekly/Week1.md",
     "Notes/XuanTie/玄铁课程口播稿.md",
     "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
-    "Monthly/2025-06/Weekly/Week2.md",
-    "Monthly/2025-06/Weekly/Week3.md",
     "Monthly/2025-05/Weekly/Week3.md",
     "Monthly/2025-04/Month13.md",
     "Monthly/2025-05/Weekly/Week1.md",
     "Monthly/2025-05/Weekly/Week2.md",
-    "Monthly/2025-06/Weekly/Week1.md",
     "Notes/Video_library_plan.md",
     "Notes/Project_Introduction.md",
-    "Notes/未命名.md",
-    "Monthly/2025-05/Month14.md",
     "Monthly/2025-06/Weekly",
     "Monthly/2025-06",
-    "Notes/Reimbursement.md",
-    "RISC-V_short_video/baby_book.md",
-    "RISC-V_short_video/Intern_Report_Title.md",
-    "RISC-V_short_video/Project_Introduction.md",
-    "RISC-V_short_video/Project_proposal.md",
-    "RISC-V_short_video/Project_proposal_yolo11.md",
-    "RISC-V_short_video/Project_proposal_yolo11_new.md",
-    "RISC-V_short_video/Task List.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
-    "RISC-V_short_video/Project_proposal_bestpractice.md",
-    "RISC-V_short_video/Job_Description.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.8.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.9.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.10.md",
     "Notes/XuanTie/玄铁ppt.pptx",
     "Notes/XuanTie/玄铁RV音频.MP3.zip",
     "Notes/XuanTie/k230_12.png",
