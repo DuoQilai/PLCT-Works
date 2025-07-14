@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-06/Month15.md",
+                "file": "Monthly/2025-07/Weekly/Week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month15"
+              "title": "Week1"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-06/Month15.md",
+                "file": "Monthly/2025-07/Weekly/Week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month15 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -183,6 +183,13 @@
   },
   "active": "c564616a9ad9cb70",
   "lastOpenFiles": [
+    "Notes/XuanTie/玄铁课程口播稿.md",
+    "Notes/Project_Introduction.md",
+    "Monthly/2025-07/Weekly/Week1.md",
+    "Notes/RVDay/A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
+    "Monthly/2025-07/Weekly",
+    "Monthly/2025-06/Month15.md",
+    "Monthly/2025-07",
     "Monthly/2025-05/Month14.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
@@ -197,19 +204,15 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.5.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.4.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.3.md",
-    "Monthly/2025-06/Month15.md",
     "Monthly/2025-06/Weekly/Week3.md",
     "Monthly/2025-06/Weekly/Week4.md",
     "Monthly/2025-06/Weekly/Week2.md",
     "Monthly/2025-06/Weekly/Week1.md",
-    "Notes/XuanTie/玄铁课程口播稿.md",
     "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
     "Monthly/2025-05/Weekly/Week3.md",
     "Monthly/2025-04/Month13.md",
     "Monthly/2025-05/Weekly/Week1.md",
     "Monthly/2025-05/Weekly/Week2.md",
-    "Notes/Video_library_plan.md",
-    "Notes/Project_Introduction.md",
     "Monthly/2025-06/Weekly",
     "Monthly/2025-06",
     "Notes/XuanTie/玄铁ppt.pptx",
@@ -226,9 +229,6 @@
     "images/k230_12.png",
     "images/k230_11.jpg",
     "images/k230_10.png",
-    "k230",
-    "Notes/张馥媛-年度总结.pptx",
-    "Notes/张馥媛-年度总结.tmp",
     "未命名.canvas"
   ]
 }
