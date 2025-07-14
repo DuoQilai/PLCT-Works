@@ -6,7 +6,7 @@
 
 - 部署半墙开发板
 
-## 欧洲峰会投稿
+## 北美峰会投稿
 
 - [完成稿件 未提交]([PLCT-Works/Notes/RVDay/A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx at main · DuoQilai/PLCT-Works · GitHub](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/A%20Standardized%20Quality%20Selection%20and%20Systematic%20Reconstruction%20Approach%20for%20RISC-V%20Courses.docx))
 
