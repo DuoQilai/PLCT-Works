@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-07/Weekly/Week1.md",
+                "file": "Monthly/2025-07/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week1"
+              "title": "Week2"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-07/Weekly/Week1.md",
+                "file": "Monthly/2025-07/Weekly/Week2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "Week2 的大纲"
             }
           },
           {
@@ -183,10 +183,11 @@
   },
   "active": "c564616a9ad9cb70",
   "lastOpenFiles": [
+    "Monthly/2025-07/Weekly/Week1.md",
+    "Monthly/2025-07/Weekly/Week2.md",
     "Notes/RVDay/AStandardizedQualitySelectionandSystematicReconstructionApproachforRISC-VCourses.docx",
     "Notes/XuanTie/玄铁课程口播稿.md",
     "Notes/Project_Introduction.md",
-    "Monthly/2025-07/Weekly/Week1.md",
     "Notes/RVDay/A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
     "Monthly/2025-07/Weekly",
     "Monthly/2025-06/Month15.md",
@@ -219,7 +220,6 @@
     "Notes/XuanTie/玄铁RV音频.MP3.zip",
     "Notes/XuanTie/k230_12.png",
     "Monthly/2025-05/Weekly",
-    "Monthly/2025-05",
     "images/k230_18.png",
     "images/k230_17.png",
     "images/k230_16.png",
