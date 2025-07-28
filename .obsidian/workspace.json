@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-07/Weekly/Week2.md",
+                "file": "Monthly/2025-07/Weekly/Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "Week3"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-07/Weekly/Week2.md",
+                "file": "Monthly/2025-07/Weekly/Week3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Week3 的大纲"
             }
           },
           {
@@ -183,8 +183,13 @@
   },
   "active": "c564616a9ad9cb70",
   "lastOpenFiles": [
-    "Monthly/2025-07/Weekly/Week1.md",
+    "Monthly/2025-04/Month13.md",
+    "Monthly/2025-05/Month14.md",
+    "images/camera2.png",
+    "Monthly/2025-07/Weekly/Week3.md",
+    "images/yq1.png",
     "Monthly/2025-07/Weekly/Week2.md",
+    "Monthly/2025-07/Weekly/Week1.md",
     "Notes/RVDay/AStandardizedQualitySelectionandSystematicReconstructionApproachforRISC-VCourses.docx",
     "Notes/XuanTie/玄铁课程口播稿.md",
     "Notes/Project_Introduction.md",
@@ -192,7 +197,6 @@
     "Monthly/2025-07/Weekly",
     "Monthly/2025-06/Month15.md",
     "Monthly/2025-07",
-    "Monthly/2025-05/Month14.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.10.md",
@@ -212,8 +216,6 @@
     "Monthly/2025-06/Weekly/Week1.md",
     "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
     "Monthly/2025-05/Weekly/Week3.md",
-    "Monthly/2025-04/Month13.md",
-    "Monthly/2025-05/Weekly/Week1.md",
     "Monthly/2025-06/Weekly",
     "Monthly/2025-06",
     "Notes/XuanTie/玄铁ppt.pptx",
@@ -227,8 +229,6 @@
     "images/k230_14.png",
     "images/k230_13.png",
     "images/k230_12.png",
-    "images/k230_11.jpg",
-    "images/k230_10.png",
     "未命名.canvas"
   ]
 }
