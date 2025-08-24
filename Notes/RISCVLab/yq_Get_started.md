@@ -5,9 +5,12 @@
 链接：[板卡介绍 - Sipeed Wiki](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/1_intro.html)
 ### 1.2 烧录Licheepi 4A
 有两种烧录方法，选emmc烧录。
-- 你需要准备的配件：Licheepi 4A的电源适配器、一根tape-c线、一根串口线、HDMI线、键鼠。
-- 终端工具：putty、mobaxterm
-- 烧录工具：rufus、balenaEtcher
+
+你需要准备的配件：Licheepi 4A的电源适配器、一根tape-c线、一根串口线、HDMI线、键鼠。
+
+终端工具：putty、mobaxterm
+
+烧录工具：rufus、balenaEtcher
 - Linux：[LicheePi4A镜像刷写教程(Linux) | RevyOS Docs](https://docs.revyos.dev/docs/Installation/licheepi4a/)
 - Windows：[LicheePi4A镜像刷写教程(Windows) | RevyOS Docs](https://docs.revyos.dev/docs/Installation/licheepi4a-windows/)
 ### 1.3 基础使用
