@@ -3,7 +3,7 @@
 **项目介绍**
 
 - 系统性的RISC-V短视频教学
-- Milk-V Duo系列的测试验证和视频输出
+- Milk-V Duo、Licheepi4A系列的测试验证和视频输出
 - 开发板demo测试联动，视频输出
 - [技术分享视频（介绍本岗位）](https://www.bilibili.com/video/BV1KZ421K72p/?spm_id_from=333.337.search-card.all.click&vd_source=03ba66744bd170c2841f34b5396cee73)
 
@@ -21,7 +21,7 @@
 - [禅道使用指南](https://www.zentao.net/book/zentaopms/38.html)
 - [黑盒测试方法介绍](https://gitee.com/chuachuaa/ISRC/blob/master/%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E4%BB%8B%E7%BB%8D.pptx)
 
-### 2.2 视频创作必修
+### 2.2 视频创作
 
 - [短视频剪辑教学0：工具选择及初上手](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A6/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A60%EF%BC%9A%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9%E5%8F%8A%E5%88%9D%E4%B8%8A%E6%89%8B.md)
 - [短视频剪辑教学1：懂点儿RV横屏视频模版总结.](https://github.com/Jingqing3948/plct/blob/main/RISC-V_short_video/doc/%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A6/%E7%9F%AD%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91%E6%95%99%E5%AD%A61%EF%BC%9A%E6%87%82%E7%82%B9%E5%84%BFRV%E6%A8%AA%E5%B1%8F%E8%A7%86%E9%A2%91%E6%A8%A1%E7%89%88%E6%80%BB%E7%BB%93.md)
@@ -35,9 +35,12 @@
 ### 3.1 Milk-V Duo
 - [从零使用Duo开发板手册](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/DuoGet_started.md)
 ### 3.2 Licheepi 4A
-- [Licheepi 4A启动](https://github.com/DuoQilai/PLCT-Works/blob/main/LicheePi4A/Report_LicheePi4A_Setup.md)
+- [Licheepi 4A官网](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html)
+- [Licheepi 4A 烧录教程](https://docs.revyos.dev/docs/Installation/licheepi4a/)
 ### 3.3 k230
 - 新手教学视频链接: https://pan.baidu.com/s/1phbeIX0bJtSIsQMEUAp0eQ?pwd=iuqp 提取码: iuqp 
+- [勘智开发者社区](https://www.kendryte.com/zh/document)
+- [CanMV K230 教程](https://www.kendryte.com/k230/dev/zh/CanMV_K230_%E6%95%99%E7%A8%8B.html)
 
 ## 4 短视频教学系列项目相关
 
