@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Video_library_plan.md",
+                "file": "Notes/RISCVLab/yq_Get_started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video_library_plan"
-            }
-          },
-          {
-            "id": "f6b1f8ffbabfa7e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
+              "title": "yq_Get_started"
             }
           },
           {
@@ -39,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "Notes/RISCVLab/yq_Get_started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baby_book"
+              "title": "yq_Get_started"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RISC-V_short_video/baby_book.md",
+                "file": "Notes/RISCVLab/yq_Get_started.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "baby_book 的大纲"
+              "title": "yq_Get_started 的大纲"
             }
           },
           {
@@ -194,12 +181,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c564616a9ad9cb70",
+  "active": "e25cf190df14fff1",
   "lastOpenFiles": [
-    "RISC-V_short_video/baby_book1.md",
-    "RISC-V_short_video/baby_book.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.12.md",
+    "Notes/DuoGet_started.md",
+    "Notes/RISCVLab/yq_Get_started.md",
     "Notes/Video_library_plan.md",
+    "RISC-V_short_video/baby_book.md",
+    "Notes/RISCVLab",
+    "未命名",
+    "RISC-V_short_video/baby_book1.md",
+    "RISC-V_short_video/Review_Document/Iterative_Review1.1.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.13.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.11.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.10.md",
@@ -226,15 +217,11 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.7.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.8.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.6.md",
     "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
     "Monthly/2025-06/Weekly",
     "Monthly/2025-06",
     "Notes/XuanTie/玄铁ppt.pptx",
-    "Notes/XuanTie/玄铁RV音频.MP3.zip",
     "Notes/XuanTie/k230_12.png",
-    "Monthly/2025-05/Weekly",
     "images/k230_18.png",
     "images/k230_17.png",
     "images/k230_16.png",
