@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-08/Weekly/Week1.md",
+                "file": "Notes/XuanTie/K230AIDemoManualForDeployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week1"
+              "title": "K230AIDemoManualForDeployment"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-08/Weekly/Week1.md",
+                "file": "Notes/XuanTie/K230AIDemoManualForDeployment.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "K230AIDemoManualForDeployment 的大纲"
             }
           },
           {
@@ -183,11 +183,16 @@
   },
   "active": "e25cf190df14fff1",
   "lastOpenFiles": [
+    "Monthly/2025-08/Month17.md",
+    "images/shenzhen1.jpg",
+    "Monthly/2025-08/Weekly/Week1.md",
+    "Monthly/2025-07/Month16.md",
+    "Notes/XuanTie/~$RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
+    "Notes/XuanTie/ppt25E7.tmp",
+    "Notes/~$在Duo S上跑你的第一个生成式AI.pptx",
     "Notes/RISC-V教育和南京合作伙伴RISC-V Lab协同建设.pptx",
     "RISC-V_short_video/baby_book.md",
     "Notes/RISCVLab/yq_Get_started.md",
-    "Monthly/2025-08/Weekly/Week1.md",
-    "Monthly/2025-07/Month16.md",
     "Monthly/2025-07/Weekly/Week3.md",
     "Monthly/2025-08/Weekly",
     "Monthly/2025-08",
@@ -214,13 +219,8 @@
     "Notes/RVDay/A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
     "Monthly/2025-07/Weekly",
     "Monthly/2025-06/Month15.md",
-    "Monthly/2025-07",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.9.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.8.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.10.md",
-    "Notes/XuanTie/RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
-    "Monthly/2025-06/Weekly",
-    "Monthly/2025-06",
     "Notes/XuanTie/k230_12.png",
     "images/k230_18.png",
     "images/k230_17.png",
@@ -228,7 +228,6 @@
     "images/k230_15.png",
     "images/k230_14.png",
     "images/k230_13.png",
-    "images/k230_12.png",
     "未命名.canvas"
   ]
 }
