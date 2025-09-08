@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "68055a53e8d4add3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monthly/2025-09/Weekly/Week1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week1"
+            }
+          },
+          {
             "id": "c564616a9ad9cb70",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "yq_Get_started"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-08/Month17.md",
+                "file": "Monthly/2025-09/Weekly/Week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month17 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -181,14 +196,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e25cf190df14fff1",
+  "active": "68055a53e8d4add3",
   "lastOpenFiles": [
+    "Avaota F1/Report_AvaotaF1_Setup.md",
+    "Monthly/2025-09/Weekly/Week1.md",
+    "images/AvaotaF1_12.png",
+    "images/AvaotaF1_11.png",
+    "images/AvaotaF1_10.png",
+    "images/AvaotaF1_9.png",
+    "images/AvaotaF1_8.png",
+    "images/AvaotaF1_7.png",
+    "images/AvaotaF1_6.png",
+    "images/AvaotaF1_5.png",
+    "images/AvaotaF1_4.png",
+    "images/AvaotaF1_3.png",
+    "k230/Report_k230_Setup.md",
+    "Avaota F1",
+    "Monthly/2025-08/Weekly/Week1.md",
+    "Monthly/2025-09/Weekly",
+    "Monthly/2025-09",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.14.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.15.md",
     "Monthly/2025-08/Month17.md",
     "Notes/XuanTie/K230AIDemoManualForDeployment.md",
-    "images/shenzhen1.jpg",
-    "Monthly/2025-08/Weekly/Week1.md",
     "Monthly/2025-07/Month16.md",
     "Notes/XuanTie/~$RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
     "Notes/XuanTie/ppt25E7.tmp",
@@ -213,22 +243,6 @@
     "Monthly/2025-07/Weekly/Week2.md",
     "Monthly/2025-04/Month13.md",
     "Monthly/2025-05/Month14.md",
-    "images/camera2.png",
-    "images/yq1.png",
-    "Notes/RVDay/AStandardizedQualitySelectionandSystematicReconstructionApproachforRISC-VCourses.docx",
-    "Notes/XuanTie/玄铁课程口播稿.md",
-    "Notes/Project_Introduction.md",
-    "Notes/RVDay/A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
-    "Monthly/2025-07/Weekly",
-    "Monthly/2025-06/Month15.md",
-    "RISC-V_short_video/Review_Document/Iterative_Review1.1.9.md",
-    "Notes/XuanTie/k230_12.png",
-    "images/k230_18.png",
-    "images/k230_17.png",
-    "images/k230_16.png",
-    "images/k230_15.png",
-    "images/k230_14.png",
-    "images/k230_13.png",
     "未命名.canvas"
   ]
 }
