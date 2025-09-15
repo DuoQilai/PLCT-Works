@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avaota F1/Report_AvaotaF1_Setup.md",
+                "file": "Monthly/2025-09/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Report_AvaotaF1_Setup"
+              "title": "Week2"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avaota F1/Report_AvaotaF1_Setup.md",
+                "file": "Monthly/2025-09/Weekly/Week2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Report_AvaotaF1_Setup 的大纲"
+              "title": "Week2 的大纲"
             }
           },
           {
@@ -198,8 +198,14 @@
   },
   "active": "68055a53e8d4add3",
   "lastOpenFiles": [
-    "Monthly/2025-09/Weekly/Week1.md",
     "Avaota F1/Report_AvaotaF1_Setup.md",
+    "Monthly/2025-08/Month17.md",
+    "Monthly/2025-09/Weekly/Week1.md",
+    "Monthly/2025-09/Weekly/Week2.md",
+    "images/yq2.png",
+    "Notes/XuanTie/k230_12.png",
+    "Notes/XuanTie/K230AIDemoManualForDeployment.md",
+    "Notes/ScienceDay/Duo_FaceDetection.md",
     "images/AvaotaF1_12.png",
     "images/AvaotaF1_11.png",
     "images/AvaotaF1_10.png",
@@ -208,8 +214,6 @@
     "images/AvaotaF1_7.png",
     "images/AvaotaF1_6.png",
     "images/AvaotaF1_5.png",
-    "images/AvaotaF1_4.png",
-    "images/AvaotaF1_3.png",
     "k230/Report_k230_Setup.md",
     "Avaota F1",
     "Monthly/2025-08/Weekly/Week1.md",
@@ -217,8 +221,6 @@
     "Monthly/2025-09",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.14.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.15.md",
-    "Monthly/2025-08/Month17.md",
-    "Notes/XuanTie/K230AIDemoManualForDeployment.md",
     "Monthly/2025-07/Month16.md",
     "Notes/XuanTie/~$RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
     "Notes/XuanTie/ppt25E7.tmp",
@@ -241,8 +243,6 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
     "Monthly/2025-07/Weekly/Week1.md",
     "Monthly/2025-07/Weekly/Week2.md",
-    "Monthly/2025-04/Month13.md",
-    "Monthly/2025-05/Month14.md",
     "未命名.canvas"
   ]
 }
