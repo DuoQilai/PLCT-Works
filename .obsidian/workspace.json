@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-09/Weekly/Week2.md",
+                "file": "Monthly/2025-09/Weekly/Week3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "Week3"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-09/Weekly/Week2.md",
+                "file": "Monthly/2025-09/Weekly/Week3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Week3 的大纲"
             }
           },
           {
@@ -196,12 +196,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68055a53e8d4add3",
+  "active": "bbe17f65e26d930e",
   "lastOpenFiles": [
+    "Notes/张馥媛-RISC-V 开发板教学与 RISC-V Lab 共建之路 .pptx",
+    "Notes/20250918-东亚时区RISC-V双周会.pdf",
+    "Monthly/2025-09/Weekly/Week2.md",
+    "Monthly/2025-09/Weekly/Week3.md",
+    "images/dongtian1.png",
     "Avaota F1/Report_AvaotaF1_Setup.md",
     "Monthly/2025-08/Month17.md",
     "Monthly/2025-09/Weekly/Week1.md",
-    "Monthly/2025-09/Weekly/Week2.md",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
     "Notes/XuanTie/K230AIDemoManualForDeployment.md",
@@ -213,7 +217,6 @@
     "images/AvaotaF1_8.png",
     "images/AvaotaF1_7.png",
     "images/AvaotaF1_6.png",
-    "images/AvaotaF1_5.png",
     "k230/Report_k230_Setup.md",
     "Avaota F1",
     "Monthly/2025-08/Weekly/Week1.md",
@@ -233,7 +236,6 @@
     "Monthly/2025-08",
     "Notes/DuoGet_started.md",
     "Notes/Video_library_plan.md",
-    "Notes/RISCVLab",
     "RISC-V_short_video/baby_book1.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.13.md",
@@ -242,7 +244,6 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.12.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
     "Monthly/2025-07/Weekly/Week1.md",
-    "Monthly/2025-07/Weekly/Week2.md",
     "未命名.canvas"
   ]
 }
