@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-08/Month17.md",
+                "file": "Monthly/2025-09/Month18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month17"
-            }
-          },
-          {
-            "id": "68055a53e8d4add3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monthly/2025-09/Weekly/Week3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week3"
+              "title": "Month18"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "yq_Get_started"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-09/Weekly/Week3.md",
+                "file": "Monthly/2025-09/Month18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week3 的大纲"
+              "title": "Month18 的大纲"
             }
           },
           {
@@ -198,14 +183,21 @@
   },
   "active": "bbe17f65e26d930e",
   "lastOpenFiles": [
+    "Monthly/2025-09/未命名.base",
+    "Monthly/2025-09/未命名 2.base",
+    "Notes/RISCVLab/yq_Get_started.md",
+    "Monthly/2025-09/未命名 1.base",
+    "Monthly/2025-09/Month18.md",
+    "Monthly/2025-09/Weekly/Week3.md",
+    "Monthly/2025-09/Weekly/Week2.md",
+    "Monthly/2025-09/Weekly/Week1.md",
+    "Notes/OpenDay/口播稿.md",
+    "Monthly/2025-08/Month17.md",
+    "Notes/OpenDay",
     "Notes/张馥媛-RISC-V 开发板教学与 RISC-V Lab 共建之路 .pptx",
     "Notes/20250918-东亚时区RISC-V双周会.pdf",
-    "Monthly/2025-09/Weekly/Week2.md",
-    "Monthly/2025-09/Weekly/Week3.md",
     "images/dongtian1.png",
     "Avaota F1/Report_AvaotaF1_Setup.md",
-    "Monthly/2025-08/Month17.md",
-    "Monthly/2025-09/Weekly/Week1.md",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
     "Notes/XuanTie/K230AIDemoManualForDeployment.md",
@@ -226,14 +218,8 @@
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.15.md",
     "Monthly/2025-07/Month16.md",
     "Notes/XuanTie/~$RV学院_在 K230 开发板进行 AI 识别应用开发ppt_张馥媛.pptx",
-    "Notes/XuanTie/ppt25E7.tmp",
-    "Notes/~$在Duo S上跑你的第一个生成式AI.pptx",
-    "Notes/RISC-V教育和南京合作伙伴RISC-V Lab协同建设.pptx",
     "RISC-V_short_video/baby_book.md",
-    "Notes/RISCVLab/yq_Get_started.md",
     "Monthly/2025-07/Weekly/Week3.md",
-    "Monthly/2025-08/Weekly",
-    "Monthly/2025-08",
     "Notes/DuoGet_started.md",
     "Notes/Video_library_plan.md",
     "RISC-V_short_video/baby_book1.md",
@@ -242,8 +228,6 @@
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.11.md",
     "RISC-V_short_video/Review_Document/Iterative_Review1.1.10.md",
     "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.12.md",
-    "RISC-V_short_video/Plan_Document/Iterative_Plan1.1.11.md",
-    "Monthly/2025-07/Weekly/Week1.md",
     "未命名.canvas"
   ]
 }
