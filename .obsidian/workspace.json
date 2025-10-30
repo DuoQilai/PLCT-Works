@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-10/Weekly/Week3.md",
+                "file": "Monthly/2025-10/Month19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week3"
+              "title": "Month19"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-10/Weekly/Week3.md",
+                "file": "Monthly/2025-10/Month19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week3 的大纲"
+              "title": "Month19 的大纲"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "e25cf190df14fff1",
   "lastOpenFiles": [
-    "Monthly/2025-10/Month19.md",
     "Monthly/2025-10/Weekly/Week3.md",
+    "Monthly/2025-10/Month19.md",
     "Monthly/2025-10/Weekly/Week2.md",
     "Monthly/2025-10/Weekly/Week1.md",
     "Notes/VideoScripts/【K230】K230口播稿.md",
