@@ -5,7 +5,6 @@
 ## 1.RuyiSDK
 
 - [【RuyiSDK】RuyiSDK案例-学习使用qemu、llvm和cmake](https://www.bilibili.com/video/BV1mjefzLEL6/)
-
 ## 2.RISC-V short video项目
 建议和修改同学们提交的视频，发布视频和控制进度
 
