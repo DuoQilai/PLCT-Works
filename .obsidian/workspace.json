@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-11/Weekly/Week2.md",
+                "file": "Notes/RISCVLab/JD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "JD"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-11/Weekly/Week2.md",
+                "file": "Notes/RISCVLab/JD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "JD 的大纲"
             }
           },
           {
@@ -196,15 +196,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "196883400b8e0a81",
+  "active": "bbe17f65e26d930e",
   "lastOpenFiles": [
-    "Notes/VideoScripts/【K230】K230 dd烧录 口播稿.md",
     "Monthly/2025-11/Weekly/Week2.md",
+    "Notes/VideoScripts/【K230】K230 dd烧录 口播稿.md",
     "Monthly/2025-11/Weekly",
     "Monthly/2025-11",
     "Notes/VideoScripts/【K230】K230口播稿.md",
     "Notes/VideoScripts/【AvaotaF1】快速启动AvaotaF1口播稿.md",
-    "JD.md",
+    "Notes/RISCVLab/JD.md",
     "Notes/RISCVLab/yq_Get_started.md",
     "Monthly/2025-10/Month19.md",
     "Monthly/2025-09/Month18.md",
