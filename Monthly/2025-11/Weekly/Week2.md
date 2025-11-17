@@ -5,7 +5,7 @@
 ## BananaPi
 
 - [【BananaPi】使用 RuyiSDK 快速烧录 BananaPi BPI-F3](https://www.bilibili.com/video/BV1j6CRBdE8t/)
-  [使用 RuyiSDK 快速烧录 BananaPi BPI-F3口播稿](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/VideoScripts/%E3%80%90BananaPi_BPI-F3%E3%80%91%E7%83%A7%E5%BD%95BPI-F3%E5%8F%A3%E6%92%AD%E7%A8%BF.md)
+- [使用 RuyiSDK 快速烧录 BananaPi BPI-F3口播稿](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/VideoScripts/%E3%80%90BananaPi_BPI-F3%E3%80%91%E7%83%A7%E5%BD%95BPI-F3%E5%8F%A3%E6%92%AD%E7%A8%BF.md)
 - [丁真教你玩转荔枝派 (一)](https://www.bilibili.com/video/BV1naCRBwE5D/)
 
 ## 英麒RISC-V Lab
