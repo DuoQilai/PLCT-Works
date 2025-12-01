@@ -12,14 +12,15 @@
 - [【BananaPi】使用 RuyiSDK 快速烧录 BananaPi BPI-F3](https://www.bilibili.com/video/BV1j6CRBdE8t/)
 - [使用 RuyiSDK 快速烧录 BananaPi BPI-F3口播稿](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/VideoScripts/%E3%80%90BananaPi_BPI-F3%E3%80%91%E7%83%A7%E5%BD%95BPI-F3%E5%8F%A3%E6%92%AD%E7%A8%BF.md)
 
-# Milk-V Mars
+## Milk-V Mars
 - [【Milk-V Mars】使用 RuyiSDK 快速烧录 Milk-V Mars](https://www.bilibili.com/video/BV1EhSvBXEiq/)
-- [使用 RuyiSDK 快速烧录 BananaPi BPI-F3口播稿](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/VideoScripts/%E3%80%90BananaPi_BPI-F3%E3%80%91%E7%83%A7%E5%BD%95BPI-F3%E5%8F%A3%E6%92%AD%E7%A8%BF.md)
+- [使用 RuyiSDK 快速烧录 Milk-V Mars口播稿](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/VideoScripts/%E3%80%90Mars%E3%80%91Mars%E5%8F%A3%E6%92%AD%E7%A8%BF.md)
 
 ## 英麒RISC-V Lab
-- [招新两名 JD](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/JD.md)
+- [招新两名实习生 JD](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/JD.md)
 -  [丁真教你玩转荔枝派 (一)](https://www.bilibili.com/video/BV1naCRBwE5D/)
-- [LicheePi 4A 镜像刷写教程 (Windows)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/
+- [LicheePi 4A 镜像刷写教程 (Windows)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/)
+- RuyiSDK介绍视频
 - Licheepi 4a 跑 Deepseek模型的视频，包含运行Deepseek R1 chat模型和Qwen coder 代码生成模型
 -  Licheepi 4a 跑 开源我的世界 文档
 - 配合维护展厅及实验室设备运行状态，定期排查开发板连通性与系统环境稳定性
