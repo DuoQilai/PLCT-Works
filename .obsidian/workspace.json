@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-11/Weekly/Week2.md",
+                "file": "Monthly/2025-11/Month20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week2"
+              "title": "Month20"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-11/Weekly/Week2.md",
+                "file": "Monthly/2025-11/Month20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Month20 的大纲"
             }
           },
           {
@@ -212,8 +212,14 @@
   },
   "active": "89903af02f239fc2",
   "lastOpenFiles": [
-    "Monthly/2025-11/Weekly/Week3.md",
+    "Monthly/2025-10/Month19.md",
+    "Monthly/2025-11/Month20.md",
     "Monthly/2025-11/Weekly/Week2.md",
+    "Monthly/2025-11/Weekly/Week3.md",
+    "Monthly/2025-11/Weekly/Week1.md",
+    "Notes/VideoScripts/【Mars】Mars口播稿.md",
+    "Notes/VideoScripts/【K230】K230口播稿.md",
+    "Notes/VideoScripts/【K230】K230 dd烧录 口播稿.md",
     "Notes/DuoGet_started.md",
     "Notes/未命名.md",
     "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
@@ -221,14 +227,10 @@
     "Notes/RISCVLab/未命名文件夹",
     "Notes/RVDay/From Fragmentation to Systematization- A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.pdf",
     "Notes/RVDay/From Fragmentation to Systematization- A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
-    "Notes/VideoScripts/【K230】K230 dd烧录 口播稿.md",
-    "Monthly/2025-11/Weekly/Week1.md",
     "Notes/RISCVLab/yq_Get_started.md",
     "Notes/VideoScripts/【BananaPi_BPI-F3】K230口播稿 1.md",
     "BPI-F3/7E055CCB-7742-4494-B181-7EFE388722D2.MOV",
-    "Notes/VideoScripts/【K230】K230口播稿.md",
     "BPI-F3/Report_BPI-F3_Bianbu_.md",
-    "Monthly/2025-10/Month19.md",
     "Notes/RISCVLab/JD.md",
     "Monthly/2025-11/Weekly",
     "Monthly/2025-11",
@@ -246,8 +248,6 @@
     "Monthly/2025-10/Weekly",
     "Monthly/2025-09/Weekly/Week3.md",
     "Monthly/2025-09/Weekly/Week2.md",
-    "Monthly/2025-09/Weekly/Week1.md",
-    "Notes/OpenDay/口播稿.md",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
