@@ -22,8 +22,7 @@
 - [RuyiSDK介绍视频](https://www.bilibili.com/video/BV1sQSkBHETp/)
 - [RuyiSDK介绍视频脚本](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/RuyiSDK/RuyiSDK%E5%8F%A3%E6%92%AD%E7%A8%BF.docx)
 - [RuyiSDK介绍PPT](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/RuyiSDK/RuyiSDK%E4%BB%8B%E7%BB%8D.pptx)
-- Licheepi 4a 跑 Deepseek模型的视频，包含运行Deepseek R1 chat模型和Qwen coder 代码生成模型
--  Licheepi 4a 跑 开源我的世界 文档
+-  [Licheepi 4a 跑 开源我的世界 文档](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/Licheepi/luanti%E8%BF%90%E8%A1%8C%E6%96%87%E6%A1%A3.md)
 - 配合维护展厅及实验室设备运行状态，定期排查开发板连通性与系统环境稳定性
 - 跟踪 RISCV- Lab 建设进度，协助完善展厅视频内容与展示方案
 
