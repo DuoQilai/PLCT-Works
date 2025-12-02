@@ -6,7 +6,6 @@
 
 - [【K230】使用 RuyiSDK 快速烧录 K230](https://www.bilibili.com/video/BV1GdkDBNEc5/)
 - [【K230】使用 RuyiSDK 快速烧录 K230视频脚本](https://github.com/DuoQilai/PLCT-Works/blob/main/Avaota%20F1/%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8AvaotaF1%E8%84%9A%E6%9C%AC.md)
-
 ## BananaPi
 
 - [【BananaPi】使用 RuyiSDK 快速烧录 BananaPi BPI-F3](https://www.bilibili.com/video/BV1j6CRBdE8t/)
@@ -21,8 +20,8 @@
 -  [丁真教你玩转荔枝派 (一)](https://www.bilibili.com/video/BV1naCRBwE5D/)
 - [LicheePi 4A 镜像刷写教程 (Windows)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/)
 - [RuyiSDK介绍视频](https://www.bilibili.com/video/BV1sQSkBHETp/)
-- [RuyiSDK介绍视频脚本](https://www.bilibili.com/video/BV1sQSkBHETp/)
-- [RuyiSDK介绍PPT](https://www.bilibili.com/video/BV1sQSkBHETp/)
+- [RuyiSDK介绍视频脚本](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/RuyiSDK/RuyiSDK%E5%8F%A3%E6%92%AD%E7%A8%BF.docx)
+- [RuyiSDK介绍PPT](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/RuyiSDK/RuyiSDK%E4%BB%8B%E7%BB%8D.pptx)
 - Licheepi 4a 跑 Deepseek模型的视频，包含运行Deepseek R1 chat模型和Qwen coder 代码生成模型
 -  Licheepi 4a 跑 开源我的世界 文档
 - 配合维护展厅及实验室设备运行状态，定期排查开发板连通性与系统环境稳定性
