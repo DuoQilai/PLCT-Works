@@ -20,7 +20,9 @@
 - [招新两名实习生 JD](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/JD.md)
 -  [丁真教你玩转荔枝派 (一)](https://www.bilibili.com/video/BV1naCRBwE5D/)
 - [LicheePi 4A 镜像刷写教程 (Windows)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/)
-- RuyiSDK介绍视频
+- [RuyiSDK介绍视频](https://www.bilibili.com/video/BV1sQSkBHETp/)
+- [RuyiSDK介绍视频脚本](https://www.bilibili.com/video/BV1sQSkBHETp/)
+- [RuyiSDK介绍PPT](https://www.bilibili.com/video/BV1sQSkBHETp/)
 - Licheepi 4a 跑 Deepseek模型的视频，包含运行Deepseek R1 chat模型和Qwen coder 代码生成模型
 -  Licheepi 4a 跑 开源我的世界 文档
 - 配合维护展厅及实验室设备运行状态，定期排查开发板连通性与系统环境稳定性
