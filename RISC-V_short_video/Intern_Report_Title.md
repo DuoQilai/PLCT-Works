@@ -57,10 +57,10 @@
 
 ## 报告内容7
 
-调研并介绍 RuyiSDK 的定位与作用，使用 RuyiSDK 在Licheepi4A 搭建 RISC-V 开发环境，并在其虚拟环境中成功运行 Luanti（这是一个开源游戏，或者我更鼓励你运行其他任意实验），制作 15 分钟左右的视频演示整体过程
+调研并介绍 RuyiSDK 的定位与作用，使用 RuyiSDK 在Licheepi4A 搭建 RISC-V 开发环境，并在其虚拟环境中成功运行 Luanti（这是一个开源游戏，或者我更鼓励你运行其他任意实验），制作 10-15 分钟左右的视频演示整体过程
 
 参考文档：
-Licheepi4A启动： https://github.com/ruyisdk/support-matrix/blob/main/LicheePi4A/RevyOS/README_zh.md
-部署RuyiSDK开发环境： https://ruyisdk.org/docs/Package-Manager/cases/case1
-运行开源游戏： https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/LicheePi4A_Luanti.md
-https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/RuyiSDK_Luanti.md
+- Licheepi4A启动： https://github.com/ruyisdk/support-matrix/blob/main/LicheePi4A/RevyOS/README_zh.md
+- 部署RuyiSDK开发环境： https://ruyisdk.org/docs/Package-Manager/cases/case1
+- 运行开源游戏： https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/LicheePi4A_Luanti.md
+- https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/RuyiSDK_Luanti.md
