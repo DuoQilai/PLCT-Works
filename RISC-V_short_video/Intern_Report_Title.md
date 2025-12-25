@@ -53,5 +53,14 @@
 参考视频：[Arduino+Milk-VDuo入门教程 1.1Arduino I简介和配置开发环境_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NSYLehE1h/?spm_id_from=333.999.0.0&vd_source=417238cd96b1b549d14bcb35a9da3cf0)
 
 录制好的素材：https://disk.ariels.xyz/zfy
-
 密码zfy2024
+
+## 报告内容7
+
+调研并介绍 RuyiSDK 的定位与作用，使用 RuyiSDK 在Licheepi4A 搭建 RISC-V 开发环境，并在其虚拟环境中成功运行 Luanti（这是一个开源游戏，或者我更鼓励你运行其他任意实验），制作 15 分钟左右的视频演示整体过程
+
+参考文档：
+Licheepi4A启动： https://github.com/ruyisdk/support-matrix/blob/main/LicheePi4A/RevyOS/README_zh.md
+部署RuyiSDK开发环境： https://ruyisdk.org/docs/Package-Manager/cases/case1
+运行开源游戏： https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/LicheePi4A_Luanti.md
+https://github.com/DuoQilai/Games_Docs/blob/main/LicheePi4A/RuyiSDK_Luanti.md

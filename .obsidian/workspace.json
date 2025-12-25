@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Week2"
             }
+          },
+          {
+            "id": "636ca2d806bbfe48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intern_Report_Title"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-12/Weekly/Week2.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week2 的大纲"
+              "title": "Intern_Report_Title 的大纲"
             }
           },
           {
@@ -210,8 +224,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89903af02f239fc2",
+  "active": "636ca2d806bbfe48",
   "lastOpenFiles": [
+    "RISC-V_short_video/Get_started.md",
+    "RISC-V_short_video/Task List.md",
+    "Notes/RISCVLab/yq_Get_started.md",
+    "Notes/RISCVLab/RuyiSDK/口播稿.md",
+    "Notes/RISCVLab/RuyiSDK/2025 视频整理.md",
     "Monthly/2025-12/Weekly/Week1.md",
     "Monthly/2025-12/Weekly/Week2.md",
     "Monthly/2025-11/Weekly/Week1.md",
@@ -239,15 +258,10 @@
     "Notes/VideoScripts/【K230】K230口播稿.md",
     "Notes/VideoScripts/【K230】K230 dd烧录 口播稿.md",
     "Notes/DuoGet_started.md",
-    "Notes/未命名.md",
-    "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
     "Notes/RISCVLab/Licheepi",
     "Notes/RVDay/From Fragmentation to Systematization- A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.pdf",
     "Notes/RVDay/From Fragmentation to Systematization- A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.docx",
-    "Notes/RISCVLab/yq_Get_started.md",
-    "Notes/VideoScripts/【BananaPi_BPI-F3】K230口播稿 1.md",
     "BPI-F3/7E055CCB-7742-4494-B181-7EFE388722D2.MOV",
-    "BPI-F3/Report_BPI-F3_Bianbu_.md",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
