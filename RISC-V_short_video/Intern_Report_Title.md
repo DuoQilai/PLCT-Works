@@ -69,3 +69,6 @@
 
 - 调研 RuyiSDK 的定位、解决的问题及适用场景，在本地环境安装并使用 RuyiSDK，使用 Ruyi 搭建一个 RISC-V 虚拟环境，运行一个实例程序，总结使用体验与问题，制作5-10分钟的介绍视频。
 - 如果让你给 RuyiSDK 提一个 Issue，你会提什么？（要求找出当前的不足或缺失功能，并描述合理建议）
+
+参考文档
+- RuyiSDK 相关介绍内容：https://ruyisdk.org/docs/intro
