@@ -24,7 +24,7 @@
 - 参考[官网案例](https://docs.revyos.dev/docs/npu/lpi4a/pose-estimation/rtmpose_1/)尝试执行 RTMPose 模型。发现的问题已RuyiSDK开发者论坛[帖子](https://ruyisdk.cn/t/topic/2249)
 - 配合维护展厅及实验室设备运行状态，定期排查开发板连通性与系统环境稳定性
 - 跟踪 RISCV- Lab 建设进度，协助完善展厅视频内容与展示方案
-- 教学视频[PPT]()
+- 教学视频[PPT](https://github.com/DuoQilai/PLCT-Works/tree/main/Notes/RISCVLab/PPT)
 
 ## RuyiSDK
 - 发布Licheepi 4A环境搭建、ruyi虚拟环境运行示例程序和游戏文档和视频
