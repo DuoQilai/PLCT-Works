@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2025-12/Month21.md",
+                "file": "Monthly/2026-1/Weekly/Week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month21"
+              "title": "Week1"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2025-12/Month21.md",
+                "file": "Monthly/2026-1/Weekly/Week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month21 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -224,8 +224,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbe17f65e26d930e",
+  "active": "636ca2d806bbfe48",
   "lastOpenFiles": [
+    "Monthly/2025-12/Weekly/Week1.md",
+    "Monthly/2026-1/Weekly/Week1.md",
+    "Monthly/2025-12/Month21.md",
+    "Monthly/2026-1/Week1",
+    "Monthly/2026-1/Weekly",
+    "Monthly/2026-1",
     "Notes/RISCVLab/PPT/RuyiSDK介绍.pptx",
     "Notes/RISCVLab/PPT/LicheePi 4A平台CoreMark基准测试.pptx",
     "Notes/RISCVLab/PPT/LicheePi 4A平台运行SuperTuxKart.pptx",
@@ -235,9 +241,7 @@
     "Notes/RISCVLab/未命名文件夹",
     "Monthly/2025-12/Weekly/Week4.md",
     "Monthly/2025-12/Weekly/Week3.md",
-    "Monthly/2025-12/Month21.md",
     "Monthly/2025-12/Weekly/Week2.md",
-    "Monthly/2025-12/Weekly/Week1.md",
     "Notes/RISCVLab/Licheepi/luanti运行文档.md",
     "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
     "Monthly/2025-12/Weekly/未命名.md",
@@ -250,8 +254,6 @@
     "Notes/RISCVLab/RuyiSDK/2025 视频整理.md",
     "Monthly/2025-11/Weekly/Week1.md",
     "Monthly/2025-04/Month13.md",
-    "Monthly/2025-12/Weekly",
-    "Monthly/2025-12",
     "Monthly/2025-06/Month15.md",
     "Monthly/2025-07/Month16.md",
     "Monthly/2025-08/Month17.md",
@@ -260,8 +262,6 @@
     "Monthly/2025-05/Month14.md",
     "Monthly/2025-03/Month12.md",
     "Monthly/2025-11/Month20.md",
-    "Notes/RISCVLab/RuyiSDK/RuyiSDK口播稿.docx",
-    "Notes/RISCVLab/RuyiSDK/RuyiSDK介绍.pptx",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
