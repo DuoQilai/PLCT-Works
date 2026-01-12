@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2026-1/Weekly/Week1.md",
+                "file": "Monthly/2026-1/Weekly/Week2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week1"
+              "title": "Week2"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2026-1/Weekly/Week1.md",
+                "file": "Monthly/2026-1/Weekly/Week2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "Week2 的大纲"
             }
           },
           {
@@ -226,8 +226,17 @@
   },
   "active": "636ca2d806bbfe48",
   "lastOpenFiles": [
-    "Monthly/2025-07/Month16.md",
+    "Notes/RISCVLab/Milk-V Duo/Milk-VDuoS部署轻量级MineCraft服务器 Cuberite.md",
+    "Monthly/2026-1/Weekly/Week2.md",
+    "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
+    "Notes/RISCVLab/Milk-V Duo",
+    "Notes/RISCVLab/Licheepi/测试文档.md",
+    "Notes/RISCVLab/Licheepi 1/luanti运行文档.md",
+    "Notes/RISCVLab/Licheepi/luanti运行文档.md",
+    "Notes/RISCVLab/Licheepi 1/licheepi4a-flashing-guide.md",
+    "Notes/RISCVLab/Licheepi 1",
     "Monthly/2026-1/Weekly/Week1.md",
+    "Monthly/2025-07/Month16.md",
     "Monthly/2025-12/Weekly/Week1.md",
     "Monthly/2025-12/Month21.md",
     "Monthly/2026-1/Week1",
@@ -238,13 +247,9 @@
     "Notes/RISCVLab/PPT/LicheePi 4A平台运行SuperTuxKart.pptx",
     "Notes/RISCVLab/PPT/LicheePi 4A平台运行DeepSeek-R1(1.5B).pptx",
     "Notes/RISCVLab/PPT/LicheePi 4A平台运行Cave-Story-MD.pptx",
-    "Notes/RISCVLab/PPT",
-    "Notes/RISCVLab/未命名文件夹",
     "Monthly/2025-12/Weekly/Week4.md",
     "Monthly/2025-12/Weekly/Week3.md",
     "Monthly/2025-12/Weekly/Week2.md",
-    "Notes/RISCVLab/Licheepi/luanti运行文档.md",
-    "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
     "Monthly/2025-12/Weekly/未命名.md",
     "README.md",
     "RISC-V_short_video/Intern_Report_Title.md",
@@ -256,12 +261,6 @@
     "Monthly/2025-11/Weekly/Week1.md",
     "Monthly/2025-04/Month13.md",
     "Monthly/2025-06/Month15.md",
-    "Monthly/2025-08/Month17.md",
-    "Monthly/2025-09/Month18.md",
-    "Monthly/2025-10/Month19.md",
-    "Monthly/2025-05/Month14.md",
-    "Monthly/2025-03/Month12.md",
-    "Monthly/2025-11/Month20.md",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
