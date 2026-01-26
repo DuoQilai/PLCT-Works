@@ -15,8 +15,9 @@
 - [Debian Milk-V Duo S系统版本和工具链测试报告](https://github.com/DuoQilai/riscv-board-custom-dev/blob/main/Duo_S/Report_Debian_Duo_S.md)
 - [Debian LicheeRV Nano 系统版本和工具链测试报告](https://github.com/DuoQilai/riscv-board-custom-dev/blob/main/LicheeRV_Nano/Report_Debian_LPiNano.md)
 - [RevyOS Meles 系统版本和工具链测试报告](https://github.com/DuoQilai/riscv-board-custom-dev/blob/main/Meles/Report_RevyOS_Meles.md)
-- [Ruyi 示例库调研文档]()
+- [Ruyi 示例库调研文档](https://github.com/DuoQilai/PLCT-Works/tree/main/riscv-board-custom-dev/Research_Document)
 ## 英麒RISC-V Lab
 
 - [LicheePi 4A平台 基于RuyiSDK构建Qwen2.5](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/Qwen2.5(7B).md)
+- [DuoS部署服务器](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/Milk-V%20Duo/cuberite.md)
 
