@@ -66,7 +66,7 @@
 		- [PPT](https://github.com/zhiyao310/plct_works/blob/main/outcome_list/Search/P118.rar)
 	- [RuyiSDK新手入门实战](https://b23.tv/qE1mHzB)
 ## 支持矩阵
-- [pr](https://github.com/DuoQilai/support-matrix/pull/3)
+- [链接](https://github.com/DuoQilai/support-matrix/pull/3)
 	- Space-ROS BeagleV-Fire 测试报告
 	- OpenWrt Banana Pi BPI-RV2 测试报告
 	- Ubuntu ESWIN EBC7702 测试报告
