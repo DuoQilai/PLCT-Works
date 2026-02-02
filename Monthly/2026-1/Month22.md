@@ -3,22 +3,22 @@
 戊寅小队本月工作
 
 ## 英麒RISC-V Lab
-1. [LicheePi 4A运行cave- story-md游戏](https://www.bilibili.com/video/BV1k3iWBfErt/) 
+- [LicheePi 4A运行cave- story-md游戏](https://www.bilibili.com/video/BV1k3iWBfErt/) 
 	- [参考文档](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/Cave-Story-MD.md)
-2. [LicheePi 4A运行Chocolate-Doom游戏～](https://www.bilibili.com/video/BV1u1rBBhEfc/) 
+-  [LicheePi 4A运行Chocolate-Doom游戏～](https://www.bilibili.com/video/BV1u1rBBhEfc/) 
 	- [参考文档](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/Chocolate-Doom.md)
-3. [Licheepi 4A平台  基于RuyiSDK构建openCV](https://www.bilibili.com/video/BV1j4zdBSEJZ/) 
+-  [Licheepi 4A平台  基于RuyiSDK构建openCV](https://www.bilibili.com/video/BV1j4zdBSEJZ/) 
 	- [参考文档](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/openCV.md)
-4. [LicheePi 4A平台 基于RuyiSDK构建Qwen2.5](https://www.bilibili.com/video/BV1WsrkBhEQQ/)
+- [LicheePi 4A平台 基于RuyiSDK构建Qwen2.5](https://www.bilibili.com/video/BV1WsrkBhEQQ/)
 	- [参考文档](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/Qwen2.5(7B).md)
-5. [LicheePi 4A平台 运行WordPress个人博客](https://www.bilibili.com/video/BV1Qw6aBkEtD/)
+-  [LicheePi 4A平台 运行WordPress个人博客](https://www.bilibili.com/video/BV1Qw6aBkEtD/)
 	- [参考文档](https://gitee.com/zjx_666/lichee-pi_4-a/blob/master/WordPress.md)
-6. [MilkV Duo性能测试：QEMU 模拟器 + LLVM 工具链编译 Coremark](https://www.bilibili.com/video/BV1HWvYBUEyW/)
+-  [MilkV Duo性能测试：QEMU 模拟器 + LLVM 工具链编译 Coremark](https://www.bilibili.com/video/BV1HWvYBUEyW/)
 	- [参考文档](https://github.com/Jiangxy-daisy/yq-resport/blob/main/MilkV%20Duo%20性能测试：QEMU%20模拟器%20%2B%20LLVM%20工具链编译%20Coremark.md)
-7.  [Milk-VDuoS部署轻量级MineCraft服务器 Cuberite](https://www.bilibili.com/video/BV1u1rBBhEfc)
-8. [Ruyi基础功能技术分享](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/PPT/Ruyi%E8%B5%8B%E8%83%BD.pptx)
-9. [Ruyi包管理器构建milkv-duo-examples示例程序](https://www.bilibili.com/video/BV1WyrEB8EWi/)
-10. [使用 Ruyi 虚拟环境编译 duo-examples](https://gitee.com/huizhang_chen/writex)
+-  [Milk-VDuoS部署轻量级MineCraft服务器 Cuberite](https://www.bilibili.com/video/BV1u1rBBhEfc)
+- [Ruyi基础功能技术分享](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/PPT/Ruyi%E8%B5%8B%E8%83%BD.pptx)
+- [Ruyi包管理器构建milkv-duo-examples示例程序](https://www.bilibili.com/video/BV1WyrEB8EWi/)
+-  [使用 Ruyi 虚拟环境编译 duo-examples](https://gitee.com/huizhang_chen/writex)
 
 ## RuyiSDK
 - [使用 VSCode 上的 RuyiSDK 插件示例](https://www.bilibili.com/video/BV1xxktBtEgu/)
