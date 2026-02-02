@@ -114,9 +114,9 @@
 
 # 6 附录：参考资源清单
 
-|资源名称|类型|参考链接|
-|---|---|---|
-|CORE-V MCU SDK Examples|RISC-V原生示例|https://github.com/openhwgroup/core-v-mcu-sdk-examples|
-|SFML 官方文档|图形/多媒体库|https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library|
-|Silicon Labs 外设示例|嵌入式外设模板|https://github.com/SiliconLabs/peripheral_examples_simplicity_sdk|
-|音视频开源示例集合|高级示例基础|https://github.com/0voice/awesome_audio_video_learning|
+| 资源名称                    | 类型         | 参考链接                                                              |
+| ----------------------- | ---------- | ----------------------------------------------------------------- |
+| CORE-V MCU SDK Examples | RISC-V原生示例 | https://github.com/openhwgroup/core-v-mcu-sdk-examples            |
+| SFML 官方文档               | 图形/多媒体库    | https://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library  |
+| Silicon Labs 外设示例       | 嵌入式外设模板    | https://github.com/SiliconLabs/peripheral_examples_simplicity_sdk |
+| 音视频开源示例集合               | 高级示例基础     | https://github.com/0voice/awesome_audio_video_learning            |
