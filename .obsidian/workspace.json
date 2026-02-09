@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2026-1/Month22.md",
+                "file": "Monthly/2026-02/Week1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month22"
+              "title": "Week1"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2026-1/Month22.md",
+                "file": "Monthly/2026-02/Week1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month22 的大纲"
+              "title": "Week1 的大纲"
             }
           },
           {
@@ -196,19 +196,21 @@
   },
   "active": "d768c6c516ec0122",
   "lastOpenFiles": [
-    "Monthly/2026-1/Weekly/Week3.md",
-    "Monthly/2026-1/Weekly/Week4.md",
-    "Monthly/2026-1/Month22.md",
     "Monthly/2026-1/Weekly/Week1.md",
-    "Monthly/2025-12/Weekly/Week1.md",
+    "Monthly/2026-02/Week1.md",
+    "Monthly/2026-1/Weekly/Week4.md",
     "Monthly/2026-1/Weekly/Week2.md",
+    "riscv-board-custom-dev/Research_Document/Allegro 示例迁移至 RuyiSDK 实践指南.md",
+    "Monthly/2026-02",
+    "riscv-board-custom-dev/Research_Document/Milk-V Duo人脸检测迁移RuyiSDK编译教程.md",
+    "Monthly/2026-1/Month22.md",
+    "Monthly/2026-1/Weekly/Week3.md",
+    "Monthly/2025-12/Weekly/Week1.md",
     "riscv-board-custom-dev/Research_Document/Research_sample_lib.md",
     "riscv-board-custom-dev/Research_Document/RuyiSDK示例库扩充-开源项目移植与验证.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "riscv-board-custom-dev/Research_Document/Ruyi SDK示例库扩充调研.md",
     "RISC-V_short_video/Research_Document/RISC-V教学短视频同类视频调研报告.pdf",
-    "riscv-board-custom-dev/Research_Document/Allegro 示例迁移至 RuyiSDK 实践指南.md",
-    "riscv-board-custom-dev/Research_Document/Milk-V Duo人脸检测迁移RuyiSDK编译教程.md",
     "RISC-V_short_video/Research_Document/Research_Datasets.md",
     "RISC-V_short_video/Research_Document/Research_others.md",
     "RISC-V_short_video/Research_Document/Research_xuantie.md",
@@ -229,9 +231,7 @@
     "Notes/RuyiSDK/ppt",
     "Notes/RuyiSDK/未命名文件夹",
     "Notes/RuyiSDK",
-    "Notes/未命名文件夹",
     "Notes/RISCVLab/Milk-V Duo/Milk-VDuoS部署轻量级MineCraft服务器 Cuberite.md",
-    "Notes/RISCVLab/Licheepi/licheepi4a-flashing-guide.md",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",
