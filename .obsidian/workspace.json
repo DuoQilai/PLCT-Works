@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2026-02/Week1.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week1"
+              "title": "Intern_Report_Title"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2026-02/Week1.md",
+                "file": "RISC-V_short_video/Intern_Report_Title.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Week1 的大纲"
+              "title": "Intern_Report_Title 的大纲"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "d768c6c516ec0122",
   "lastOpenFiles": [
-    "Monthly/2026-1/Weekly/Week1.md",
+    "RISC-V_short_video/Job_Description.md",
     "Monthly/2026-02/Week1.md",
+    "Monthly/2026-1/Weekly/Week1.md",
     "Monthly/2026-1/Weekly/Week4.md",
     "Monthly/2026-1/Weekly/Week2.md",
     "riscv-board-custom-dev/Research_Document/Allegro 示例迁移至 RuyiSDK 实践指南.md",
@@ -222,7 +223,6 @@
     "Notes/RISCVLab/Milk-V Duo/cuberite.md",
     "RISC-V_short_video/Project_proposal_bestpractice.md",
     "RISC-V_short_video/Project_proposal_box64.md",
-    "RISC-V_short_video/Job_Description.md",
     "RISC-V_short_video/Project_Introduction.md",
     "RISC-V_short_video/Project_proposal.md",
     "riscv-board-custom-dev",
