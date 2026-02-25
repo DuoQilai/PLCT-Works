@@ -80,6 +80,7 @@
 
 
 参考文档：
+- [RuyiSDK 文档](https://ruyisdk.org/docs/intro)
 - [RuyiSDK 示例库扩充调研报告](https://github.com/DuoQilai/PLCT-Works/blob/main/riscv-board-custom-dev/Research_Document/Research_sample_lib.md)
 - [【内附教程】来养一只羊驼宝宝吧？！快来Duo S上跑你的第一个生成式AI](https://mp.weixin.qq.com/s/ap7vjHvGWfXjb3ZP8v0UEA)
 - [在Duo S运行故事机baby llama2](https://github.com/DuoQilai/PLCT-Works/blob/main/Milk-V/DuoS/Report_DuoS__babyllama2.md)
