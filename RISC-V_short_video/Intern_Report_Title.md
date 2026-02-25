@@ -75,7 +75,7 @@
 
 ## 报告内容9
 
-- 根据[RISC-V 开发板与操作系统支持矩阵贡献指南](https://github.com/ruyisdk/support-matrix/blob/main/CONTRIBUTING_zh.md)，在支持矩阵提交一个PR，（优先选择这些开发板 Milk-V Megrez、Sipeed Tang Mega 138K、Nuclei RV-STAR、CH32V208WBU6-EVT-R0、ESP32-P4-Function-EV-Board、东山派D1s主板、Lichee Cluster 4A）
+- 根据[RISC-V 开发板与操作系统支持矩阵贡献指南](https://github.com/ruyisdk/support-matrix/blob/main/CONTRIBUTING_zh.md)，在支持矩阵提交一个PR（优先选择这些开发板 Milk-V Megrez、Sipeed Tang Mega 138K、Nuclei RV-STAR、CH32V208WBU6-EVT-R0、ESP32-P4-Function-EV-Board、东山派D1s主板、Lichee Cluster 4A）。
 - 开发一个应用实战类示例扩充 RuyiSDK sample codes 库，要求使用 Ruyi 工具链编译，平台不限（推荐 Licheepi4A/Duo S）
 
 
