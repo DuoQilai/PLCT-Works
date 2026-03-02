@@ -56,4 +56,4 @@
 	- 支持矩阵
 		- [知识矩阵（Knowledge Matrix）的介绍](https://github.com/cuiqiyun/outcome_list_cqy/blob/main/sundry/%E4%B8%80%E3%80%81%E7%9F%A5%E8%AF%86%E7%9F%A9%E9%98%B5%EF%BC%88Knowledge%20Matrix%EF%BC%89%E7%9A%84%E4%BB%8B%E7%BB%8D.md)
 		- [RISC-V 知识矩阵管理框架：构建生态治理新范式](https://github.com/cuiqiyun/outcome_list_cqy/blob/main/sundry/RISC-V%20%E7%9F%A5%E8%AF%86%E7%9F%A9%E9%98%B5%E7%AE%A1%E7%90%86%E6%A1%86%E6%9E%B6%EF%BC%9A%E6%9E%84%E5%BB%BA%E7%94%9F%E6%80%81%E6%B2%BB%E7%90%86%E6%96%B0%E8%8C%83%E5%BC%8F.md)
-- [扩展摘要]()
+- [扩展摘要 From Fragmentation to Systematization A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RVDay/From%20Fragmentation%20to%20Systematization%20A%20Standardized%20Quality%20Selection%20and%20Systematic%20Reconstruction%20Approach%20for%20RISC-V%20Courses.pdf)
