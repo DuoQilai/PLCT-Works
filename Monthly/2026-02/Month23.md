@@ -29,7 +29,7 @@
 		-  [bianbu (v3) MUSE Book 系统版本和工具链测试报告](https://github.com/zhiyao310/riscv-board-custom-dev/blob/main/MUSE_Book/Report_bianbu_v3_MUSE_Book.md)
 		-  [bianbu (v3) MUSE Box 系统版本和工具链测试报告](https://github.com/zhiyao310/riscv-board-custom-dev/blob/main/MUSE_Box/Report_bianbu_v3_MUSE_Box.md)
 		-  [bianbu (v3) MUSE Pi Pro 系统版本和工具链测试报告](https://github.com/zhiyao310/riscv-board-custom-dev/blob/main/Muse_Pi_Pro/Report_bianbu_v3_MUSE_Pi_Pro.md)
-		- [Ubuntu Milk-V Mras 系统版本和工具链测试报告](https://github.com/feifei-xx/riscv-board-custom-dev/blob/main/Mars/Report_Milk-V%20Mars.md)
+		- [Ubuntu Milk-V Mars 系统版本和工具链测试报告](https://github.com/feifei-xx/riscv-board-custom-dev/blob/main/Mars/Report_Milk-V%20Mars.md)
 		- [Ubuntu Unmatched 系统版本和工具链测试报告](https://github.com/feifei-xx/riscv-board-custom-dev/blob/main/Unmatched/Re_port_Unmatched.md)
 		- [Debian 香山笔记本（Xiangshan Nanhu） 系统版本和工具链测试报告](https://github.com/feifei-xx/riscv-board-custom-dev/blob/main/%E9%A6%99%E5%B1%B1%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%88Xiangshan%20Nanhu%EF%BC%89/Re_port_%E9%A6%99%E5%B1%B1%E7%AC%94%E8%AE%B0%E6%9C%AC%EF%BC%88Xiangshan%20Nanhu%EF%BC%89.md)
 ## RISC-V short video项目
