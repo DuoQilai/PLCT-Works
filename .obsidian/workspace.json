@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2026-02/Month23.md",
+                "file": "riscv-board-custom-dev/Project_Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Month23"
+              "title": "Project_Introduction"
             }
           }
         ],
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monthly/2026-02/Month23.md",
+                "file": "riscv-board-custom-dev/Project_Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Month23 的大纲"
+              "title": "Project_Introduction 的大纲"
             }
           },
           {
@@ -194,24 +194,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bbe17f65e26d930e",
+  "active": "d768c6c516ec0122",
   "lastOpenFiles": [
+    "riscv-board-custom-dev/Research_Document/Research_sample_lib.md",
+    "riscv-board-custom-dev/Project_Introduction.md",
+    "riscv-board-custom-dev/Research_Document/Allegro 示例迁移至 RuyiSDK 实践指南.md",
+    "RISC-V_short_video/baby_book.md",
+    "RISC-V_short_video/Project_Introduction.md",
+    "RISC-V_short_video/Project_proposal.md",
+    "README.md",
+    "Monthly/2026-02/Month23.md",
     "Notes/RVDay/From Fragmentation to Systematization A Standardized Quality Selection and Systematic Reconstruction Approach for RISC-V Courses.pdf",
     "Monthly/2026-02/Weekly/Week1.md",
-    "Monthly/2026-02/Month23.md",
     "Monthly/2026-02/Weekly",
     "RISC-V_short_video/Intern_Report_Title.md",
     "RISC-V_short_video/Job_Description.md",
     "Monthly/2026-01/Weekly/Week1.md",
     "Monthly/2026-01/Weekly/Week4.md",
     "Monthly/2026-01/Weekly/Week2.md",
-    "riscv-board-custom-dev/Research_Document/Allegro 示例迁移至 RuyiSDK 实践指南.md",
     "Monthly/2026-02",
     "riscv-board-custom-dev/Research_Document/Milk-V Duo人脸检测迁移RuyiSDK编译教程.md",
     "Monthly/2026-01/Month22.md",
     "Monthly/2026-01/Weekly/Week3.md",
     "Monthly/2025-12/Weekly/Week1.md",
-    "riscv-board-custom-dev/Research_Document/Research_sample_lib.md",
     "riscv-board-custom-dev/Research_Document/RuyiSDK示例库扩充-开源项目移植与验证.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument.md",
     "riscv-board-custom-dev/Research_Document/Ruyi SDK示例库扩充调研.md",
@@ -221,17 +226,12 @@
     "RISC-V_short_video/Research_Document/Research_xuantie.md",
     "RISC-V_short_video/Research_Document/RISC-V_ResearchDocument_2.md",
     "RISC-V_short_video/Research_Document/video_ResearchDocument.md",
-    "riscv-board-custom-dev/Research_Document/Ruyi SDK示例库扩充调研补充.md",
     "riscv-board-custom-dev/Research_Document",
     "riscv-board-custom-dev",
-    "Notes/RISCVLab/Milk-V Duo/cuberite.md",
-    "RISC-V_short_video/Project_proposal_bestpractice.md",
-    "RISC-V_short_video/Project_proposal_box64.md",
     "riscv-board-custom-dev",
     "未命名文件夹",
     "Notes/RuyiSDK/RuyiSDK_2030.pptx",
     "Notes/RuyiSDK/ppt",
-    "Notes/RuyiSDK/未命名文件夹",
     "images/dongtian1.png",
     "images/yq2.png",
     "Notes/XuanTie/k230_12.png",

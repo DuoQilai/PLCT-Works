@@ -12,7 +12,7 @@
 		-  [LicheePi4A LED 闪烁功能测试文档](https://github.com/zhiyao310/plct_works/blob/main/outcome_list/Licheepi4A/LED_flashing/Ruyi_LED_flashing.md)
 			- [LED flashing Example视频](https://github.com/zhiyao310/plct_works/blob/main/outcome_list/Licheepi4A/LED_flashing/images/LED_Example.rar)
 	- Duo256 示例库扩充
-		- [使用RuyiSDK 编译 Milk-V Duo256m 示例程序教程（以2048为例）](https://github.com/cuiqiyun/outcome_list_cqy/blob/main/2026/m02_w01.md)
+		- [使用RuyiSDK 编译 Milk-V Duo256m 示例程序教程（以2048为例）](https://github.com/cuiqiyun/outcome_list_cqy/blob/main/Duo%20256m/%E4%BD%BF%E7%94%A8RuyiSDK%20%E7%BC%96%E8%AF%91%20Milk-V.Duo256m%20%E7%A4%BA%E4%BE%8B%E7%A8%8B%E5%BA%8F%E6%95%99%E7%A8%8B.md)
 	- DuoS 示例库扩充
 		- [使用 RuyiSDK 构建 Pico-8SEG-LED 驱动程序（以 Milk-V Duo S 为例）](https://github.com/jason-hue/riscv-board-custom-dev/blob/main/Duo_S/Tutorial_Pico_8SEG_RuyiSDK.md)
 		- [使用 RuyiSDK 构建 Pico-ePaper-2.13 驱动程序（以 Milk-V Duo S 为例）](https://github.com/jason-hue/riscv-board-custom-dev/blob/main/Duo_S/Tutorial_Pico_ePaper_RuyiSDK.md)
