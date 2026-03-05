@@ -5,6 +5,7 @@
 - 会议室： [#腾讯会议：573-6340-5422](https://meeting.tencent.com/dm/rT2cne6IsIew)
 - [新人指引](https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/baby_book.md)
 - [RuyiSDK官网](https://ruyisdk.org/docs/intro/)
+- [RuyiSDK 示例库扩充调研报告](https://github.com/DuoQilai/PLCT-Works/blob/main/riscv-board-custom-dev/Research_Document/Research_sample_lib.md)
 - [RISC-V 开发板与操作系统支持矩阵贡献指南](https://github.com/ruyisdk/support-matrix/blob/main/CONTRIBUTING_zh.md)
 - [产出备份仓库](https://github.com/DuoQilai/ruyisdk-dev-archive/blob/main/README.md)
 - [支持矩阵目前提交的仓库](https://github.com/DuoQilai/support-matrix)
