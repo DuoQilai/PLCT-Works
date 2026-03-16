@@ -12,12 +12,11 @@
 示例库扩充——tiny-AES-c:
 - 测试文档
 
-示例库进展
-- 示例库提交模板
+示例库进展:
+- 示例库[提交模板](https://github.com/DuoQilai/riscv-board-custom-dev/tree/main/report-template)
 - 示例库官网展现形式：
 	1. 主页 划分一个区域 2*3 展示 大约最新的6个开发板（手动维护）
 	2. 集成设备页：计划参考支持矩阵的 https://matrix.ruyisdk.org/ 默认页面展示所有的开发板，并支持查询。
-		docs仓库中的文档对开发板的集成：通过在文档中加入开发板链接
 
 ## 支持矩阵
 
