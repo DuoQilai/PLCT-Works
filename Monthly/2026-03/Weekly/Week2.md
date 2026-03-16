@@ -8,6 +8,7 @@
 	- 视频链接：[【RISC-V架构识别】在Licheepi4A上使用cpufetch获取CPU信息](https://www.bilibili.com/video/BV1j8wFzSE2x?vd_source=63f9297bce04de7108868464326f7b22)
 -  [Ruyi 平台下 cpufetch 安装与使用测试报告](https://github.com/zhiyao310/plct_works/blob/main/outcome_list/Licheepi4A/cpufetch/Ruyi%20%E5%B9%B3%E5%8F%B0%E4%B8%8B%20cpufetch%20%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A.md)
 	- [ruyisdk资源接入issue](https://github.com/ruyisdk/packages-index/issues/168)
+
 示例库扩充——tiny-AES-c
 - 测试文档
 
