@@ -1,6 +1,6 @@
 # Week 3
 
-本周工作
+戊寅小队本周工作
 ## RuyiSDK
 
 示例库扩充—— Dhrystone:
