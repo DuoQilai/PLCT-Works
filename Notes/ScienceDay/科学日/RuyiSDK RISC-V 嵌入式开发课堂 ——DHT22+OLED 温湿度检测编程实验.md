@@ -1408,7 +1408,86 @@ Humidity = 51.40 % Temperature = 27.30 *C
 ```
 
 ## 7.5 扩展教学-读取 DHT22 温湿度，温度 > 30°C 时点亮 LED
-### 7.5.1 函数定义
+### 7.5.1 硬件连接
+#### 准备
+除以上原项目准备的设备外：
+
+1. 面包板
+2. 公对母跳线 * 2
+3. LED灯珠
+4. 220Ω 电阻
+#### LED
+
+![](./img/led1.png)
+
+发光二极管，正向通电点亮，反向通电不亮
+#### 面包板（Breadboard）
+![](./img/mbb3.png)
+
+面包板是一种用于电子电路快速搭建与实验验证的工具，其特点是在无需焊接的情况下完成电子元件之间的连接，因此广泛应用于电子教学、嵌入式开发与原型设计等场景。
+
+面包板内部已经预先连接好金属导电片，开发者只需将开发板、传感器、LED 与杜邦线插入对应孔位，即可快速完成电路连接。
+##### 面包板中间实验区
+
+在中间实验区中：
+
+> 同一竖排中的 5 个插孔通常内部连通。
+
+例如：
+
+```text
+●
+●
+●
+●
+●
+```
+
+这一排中的插孔可以直接导通，而不同竖排之间默认不连通。
+
+##### 中央隔离槽
+
+面包板中央通常存在一条隔离槽，用于将上下两部分分开。
+
+因此：
+
+> 上下两侧默认不连通。
+
+若需要连接上下区域，需要使用杜邦线。
+
+##### 两侧电源区
+
+面包板两侧通常为电源轨：
+
+```text
++ + + + + + +
+
+- - - - - - -
+```
+
+其中：
+
+|标识|作用|
+|---|---|
+|+|电源正极|
+|-|GND 地线|
+
+同一横排电源轨通常内部连通，可用于统一供电。
+
+##### 本实验中的作用
+
+在本实验中，面包板用于连接：
+
+- Milk-V Duo S 开发板
+- DHT22 温湿度传感器
+- LED
+- 杜邦线
+
+从而完成温湿度采集与 LED 控制实验。
+![](./img/mbb2.png)
+
+
+### 7.5.2 函数定义
 #### 1. pinMode()
 
 作用告诉开发板：
@@ -1564,8 +1643,6 @@ temp = 27.3
 
 
 ### 7.5.2 本实验会用到的 Linux 命令
-
-
 
 #### 1. cd
 
@@ -1851,149 +1928,138 @@ temp > 目前的温度
 
 ```
 /*
- * dht22_led_demo.c
- * 功能：读取 DHT22 温湿度，温度 > 30°C 时点亮 LED
- * 用法：gcc -o dht22_led_demo dht22_led_demo.c -lwiringx
+ * dht22_led_demo_simple.c
+ * 简化版：读取 DHT22 温湿度，温度 > 30°C 时点亮 LED
+ * 用法：gcc -o dht22_led_demo dht22_led_demo_simple.c -lwiringx
  */
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 #include <unistd.h>
 #include <time.h>
-#include <signal.h>
 #include <wiringx.h>
 
-#define MAXTIMINGS 85
-#define DHTTYPE 22
-
 // 引脚定义
-#define DHTPIN 21   // B15 (J3 针脚21) - DHT22 数据
-#define LEDPIN 16   // B14 (J3 针脚19) - LED 控制
+#define DHTPIN 23   // DHT22 数据引脚
+#define LEDPIN 21   // LED 控制引脚
 
-static int dht22_dat[5] = {0, 0, 0, 0, 0};
-static volatile int keep_running = 1;
-
-// 信号处理函数（Ctrl+C 退出）
-void sig_handler(int signo) {
-    if (signo == SIGINT) {
-        printf("\n正在退出...\n");
-        keep_running = 0;
-    }
-}
-
-// 安全转换函数
-static uint8_t sizecvt(const int read) {
-    if (read > 255 || read < 0) {
-        printf("Invalid data from wiringPi library\n");
-        exit(EXIT_FAILURE);
-    }
-    return (uint8_t)read;
-}
-
-// 读取 DHT22 传感器
-static int read_dht22_dat() {
-    uint8_t laststate = HIGH;
-    uint8_t counter = 0;
-    uint8_t j = 0, i;
-
-    dht22_dat[0] = dht22_dat[1] = dht22_dat[2] = dht22_dat[3] = dht22_dat[4] = 0;
-
-    // 发送起始信号
+// DHT22 读取函数
+int read_dht22(float *temperature, float *humidity) {
+    uint8_t data[5] = {0, 0, 0, 0, 0};
+    
+    // 1. 发送起始信号
     pinMode(DHTPIN, PINMODE_OUTPUT);
     digitalWrite(DHTPIN, HIGH);
-    delayMicroseconds(500000);
+    delay(500);              // 改用 delay，更稳定
     digitalWrite(DHTPIN, LOW);
-    delayMicroseconds(20000);
+    delay(20);               // 20ms 起始信号
     pinMode(DHTPIN, PINMODE_INPUT);
-
-    // 读取数据
-    for (i = 0; i < MAXTIMINGS; i++) {
-        counter = 0;
-        while (sizecvt(digitalRead(DHTPIN)) == laststate) {
-            counter++;
-            delayMicroseconds(2);
-            if (counter == 255) break;
+    
+    // 2. 等待响应（简单超时）
+    int timeout = 0;
+    while(digitalRead(DHTPIN) == HIGH && timeout < 1000) {
+        delayMicroseconds(1);
+        timeout++;
+    }
+    if(timeout >= 1000) return 0;
+    
+    while(digitalRead(DHTPIN) == LOW && timeout < 1000) {
+        delayMicroseconds(1);
+        timeout++;
+    }
+    if(timeout >= 1000) return 0;
+    
+    while(digitalRead(DHTPIN) == HIGH && timeout < 1000) {
+        delayMicroseconds(1);
+        timeout++;
+    }
+    if(timeout >= 1000) return 0;
+    
+    // 3. 读取40位数据
+    for(int i = 0; i < 40; i++) {
+        while(digitalRead(DHTPIN) == LOW);
+        
+        int duration = 0;
+        while(digitalRead(DHTPIN) == HIGH && duration < 100) {
+            delayMicroseconds(1);
+            duration++;
         }
-        laststate = sizecvt(digitalRead(DHTPIN));
-        if (counter == 255) break;
-
-        if ((i >= 4) && (i % 2 == 0)) {
-            dht22_dat[j / 8] <<= 1;
-            if (counter > 16) dht22_dat[j / 8] |= 1;
-            j++;
+        
+        // 根据高电平持续时间判断0或1
+        if(duration > 30) {
+            data[i/8] |= (1 << (7 - (i % 8)));
         }
     }
-
-    // 校验数据
-    if ((j >= 40) && (dht22_dat[4] == ((dht22_dat[0] + dht22_dat[1] + dht22_dat[2] + dht22_dat[3]) & 0xFF))) {
+    
+    // 4. 校验数据
+    if(data[4] == ((data[0] + data[1] + data[2] + data[3]) & 0xFF)) {
+        *humidity = (data[0] * 256 + data[1]) / 10.0;
+        *temperature = ((data[2] & 0x7F) * 256 + data[3]) / 10.0;
+        if(data[2] & 0x80) *temperature *= -1;
         return 1;
     }
+    
     return 0;
 }
 
 int main() {
-    // 注册信号处理（Ctrl+C 退出）
-    signal(SIGINT, sig_handler);
-
     // 初始化 WiringX
-    if (wiringXSetup("milkv_duo", NULL) == -1) {
-        wiringXGC();
+    if(wiringXSetup("milkv_duo", NULL) == -1) {
+        printf("WiringX 初始化失败\n");
         return -1;
     }
-
-    // 验证 GPIO 是否有效
-    if (wiringXValidGPIO(DHTPIN) != 0) {
-        printf("Invalid GPIO %d\n", DHTPIN);
-    }
-    if (wiringXValidGPIO(LEDPIN) != 0) {
-        printf("Invalid GPIO %d\n", LEDPIN);
-    }
-
-    // 初始化 LED 引脚为输出，默认熄灭
+    
+    // 初始化 LED 引脚
     pinMode(LEDPIN, PINMODE_OUTPUT);
     digitalWrite(LEDPIN, LOW);
-
+    
     printf("\n========================================\n");
-    printf("  DHT22 + LED 温度控制演示程序\n");
-    printf("  温度 > 30°C 时 LED 亮，否则灭\n");
-    printf("  按 Ctrl+C 退出程序\n");
+    printf("  DHT22 温湿度传感器 + LED 控制\n");
+    printf("  温度 > 30°C 时 LED 点亮\n");
+    printf("  按 Ctrl+C 退出\n");
     printf("========================================\n\n");
-
-    while (keep_running) {
-        if (read_dht22_dat()) {
-            // 计算温湿度
-            float humidity = (dht22_dat[0] * 256 + dht22_dat[1]) / 10.0;
-            float temperature = ((dht22_dat[2] & 0x7F) * 256 + dht22_dat[3]) / 10.0;
-            if ((dht22_dat[2] & 0x80) != 0) temperature *= -1;
-
-            // 获取当前时间
+    
+    float temp, humi;
+    int read_count = 0;
+    int fail_count = 0;
+    
+    while(1) {
+        if(read_dht22(&temp, &humi)) {
+            // 读取成功
+            read_count++;
+            fail_count = 0;
+            
             time_t now = time(NULL);
-            struct tm *time_info = localtime(&now);
-
-            // 判断温度并控制 LED
-            if (temperature > 30.0) {
+            struct tm *tm_info = localtime(&now);
+            
+            // 控制 LED
+            if(temp > 30.0) {
                 digitalWrite(LEDPIN, HIGH);
-                printf("[%02d:%02d:%02d] 温度: %.1f°C | 湿度: %.1f%% → 🔴 LED 亮 (温度 > 30)\n",
-                       time_info->tm_hour, time_info->tm_min, time_info->tm_sec, temperature, humidity);
+                printf("[%02d:%02d:%02d] ✓ 温度:%.1f°C 湿度:%.1f%% → LED 亮\n",
+                       tm_info->tm_hour, tm_info->tm_min, tm_info->tm_sec, temp, humi);
             } else {
                 digitalWrite(LEDPIN, LOW);
-                printf("[%02d:%02d:%02d] 温度: %.1f°C | 湿度: %.1f%% → ⚫ LED 灭\n",
-                       time_info->tm_hour, time_info->tm_min, time_info->tm_sec, temperature, humidity);
+                printf("[%02d:%02d:%02d] ✓ 温度:%.1f°C 湿度:%.1f%% → LED 灭\n",
+                       tm_info->tm_hour, tm_info->tm_min, tm_info->tm_sec, temp, humi);
             }
         } else {
-            printf("读取失败，请检查 DHT22 接线\n");
+            // 读取失败
+            fail_count++;
+            printf("读取失败 (%d/5)，检查 DHT22 接线\n", fail_count);
+            
+            // 连续失败5次，可能是硬件问题
+            if(fail_count >= 5) {
+                printf("连续读取失败，请检查：\n");
+                printf("1. DHT22 是否正确连接到 GPIO %d\n", DHTPIN);
+                printf("2. 是否需要上拉电阻（4.7kΩ 到 3.3V）\n");
+                printf("3. 传感器是否损坏\n");
+                fail_count = 0; // 重置计数，继续尝试
+            }
         }
         
-        // 等待 1.5 秒，使用多次短延迟以便及时响应退出信号
-        for (int i = 0; i < 15 && keep_running; i++) {
-            delayMicroseconds(100000); // 100ms * 15 = 1.5秒
-        }
+        // 等待2秒（DHT22 采样周期至少2秒）
+        delay(2000);
     }
-
-    // 退出前关闭 LED
-    digitalWrite(LEDPIN, LOW);
-    printf("LED 已关闭，程序退出。\n");
     
     return 0;
 }
