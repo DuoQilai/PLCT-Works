@@ -645,7 +645,7 @@ int main()
 
         // Driver_USART1_SendString(str, strlen((char *)str));
 
-        /* uint8_t *str = "尚硅谷\r\n";
+        /* uint8_t *str = "测试\r\n";
 
         Driver_USART1_SendString(str, strlen((char *)str));
 
@@ -1010,7 +1010,7 @@ ruyi install gnu-plct llvm-plct
 | SDA    | I2C数据  | J3头部 5脚       |
 
 
-### 7.2.3 编译应用与验证
+## 7.3 编译应用与验证
 #### 获取源码
 
 ```bash
@@ -1368,7 +1368,7 @@ riscv64-plct-linux-gnu-gcc dht.c -o dht22 \
 ```bash
 file dht22
 ```
-### 7.2.4 传输并运行
+## 7.4 传输并运行
 
 默认用户名：`root`，默认密码：`milkv`
 
@@ -1407,4 +1407,604 @@ Humidity = 51.40 % Temperature = 27.30 *C
 
 ```
 
-### 7.2.5 要求参与者修改程序或参数，观察不同输出？
+## 7.5 扩展教学-读取 DHT22 温湿度，温度 > 30°C 时点亮 LED
+### 7.5.1 函数定义
+#### 1. pinMode()
+
+作用告诉开发板：
+
+> “这个针脚是输入，还是输出”。
+
+格式：
+
+```
+pinMode(引脚编号, 模式);
+```
+
+示例：
+
+```
+pinMode(LEDPIN, PINMODE_OUTPUT);
+```
+
+意思：
+
+> “把 LED 引脚设置成输出模式。”
+
+因为LED 是“被控制”的。
+
+|模式|作用|
+|---|---|
+|PINMODE_OUTPUT|向外发送信号|
+|PINMODE_INPUT|接收外部信号|
+
+#### 2. digitalWrite()
+
+作用：
+
+控制引脚输出高低电平。
+
+可以理解为：
+
+| 代码   | 效果  |
+| ---- | --- |
+| HIGH | 打开  |
+| LOW  | 关闭  |
+
+
+示例：
+
+```
+digitalWrite(LEDPIN, HIGH);
+```
+
+意思：
+
+> “让 LED 亮起来。”
+
+---
+
+#### 3. delay()
+
+作用：等待一段时间。
+
+单位：毫秒（ms）
+
+
+示例：
+
+```
+delay(1000);
+```
+
+意思：
+
+> “等待 1 秒。”
+
+因为：
+
+1000 毫秒 = 1 秒。
+
+#### 4. printf()
+
+作用：在终端显示文字。
+
+可以理解成：
+
+> “让程序说一句话。”
+
+---
+
+示例：
+
+```c
+printf("Hello");
+```
+
+运行后会显示：
+
+```text
+Hello
+```
+
+---
+
+示例：
+
+```c
+printf("温度:%.1f°C → LED 灭\n", temp);
+```
+
+意思：
+
+> “显示当前温度，并告诉用户 LED 已关闭。”
+
+---
+
+其中：
+
+```c
+%.1f
+```
+
+表示：
+
+> 显示一个小数，并保留 1 位小数。
+
+例如：
+
+```text
+27.3
+31.5
+```
+
+---
+
+```c
+\n
+```
+
+表示：
+
+> 换行。
+
+否则下一次输出会挤在同一行。
+
+---
+
+如果：
+
+```text
+temp = 27.3
+```
+
+程序会输出：
+
+```text
+温度:27.3°C → LED 灭
+```
+
+
+### 7.5.2 本实验会用到的 Linux 命令
+
+---
+
+#### 1. cd
+
+作用：进入文件夹。
+
+可以理解成：
+
+> “切换到另一个目录。”
+
+
+示例：
+
+```
+cd dht22
+```
+
+意思：
+
+> “进入 dht22 文件夹。”
+
+
+#### 2. ls
+
+作用：查看当前文件夹里的文件。
+
+可以理解成：
+
+> “看看里面有什么东西。”
+
+
+示例：
+
+```
+ls
+```
+
+运行后会显示：
+
+```
+dht22.cMakefileREADME.md
+```
+
+
+#### 3. nano
+
+作用：编辑文件。
+
+可以理解成：
+
+> “打开代码进行修改。”
+
+---
+
+示例：
+
+```
+nano dht22.c
+```
+
+意思：
+
+> “打开 dht22.c 文件进行编辑。”
+
+#### 4.riscv64-plct-linux-gnu-gcc
+
+作用：编译 RISC-V 开发板程序。
+
+可以理解成：
+
+> “把 C 语言代码编译成 RISC-V 开发板能运行的程序。”
+
+
+示例：
+
+```bash
+cd dht22
+
+riscv64-plct-linux-gnu-gcc dht.c -o dht22 \
+-I../include/system \
+-L../libs/system/musl_riscv64 \
+-lwiringx
+```
+
+意思：
+
+> “把 dht.c 编译成开发板可以运行的 dht22 程序。”
+
+其中：
+
+|参数|作用|
+|---|---|
+|dht.c|要编译的代码文件|
+|-o dht22|生成的程序名字|
+|-I|添加头文件路径|
+|-L|添加库文件路径|
+|-lwiringx|链接 wiringX 库|
+
+
+编译成功后，会生成：
+
+```text
+dht22
+```
+
+这个文件就可以上传到 RISC-V 开发板运行。
+
+### 初始化 LED
+
+```
+int main() {
+    // 初始化 WiringX
+    if(wiringXSetup("milkv_duos", NULL) == -1) {
+        printf("WiringX 初始化失败\n");
+        return -1;
+    }
+    
+    // 初始化 LED 引脚
+    pinMode(LEDPIN, ______);        // 填空1：设置引脚模式
+    digitalWrite(LEDPIN, ______);   // 填空2：设置初始状态
+    
+    // 其他代码...
+}
+
+```
+
+#### 题目 1：设置引脚模式，让 LED 可以工作
+
+让开发板知道：
+
+> “LED 是输出设备”。
+
+##### 代码
+
+```
+pinMode(LEDPIN, ________);
+```
+
+##### 选项
+
+```
+PINMODE_OUTPUT
+PINMODE_INPUT
+```
+
+####  题目 2：让 LED 初始保持熄灭状态
+
+##### 代码
+
+```
+digitalWrite(LEDPIN, ______);
+```
+
+##### 选项
+
+```
+HIGH
+LOW
+```
+
+### 发送起始信号
+
+```
+// 1. 发送起始信号
+pinMode(DHTPIN, ______);           // 填空3：设为输出模式
+digitalWrite(DHTPIN, ______);      // 填空4：拉高电平
+delay(500);
+digitalWrite(DHTPIN, LOW);      // 拉低电平
+delay(20);
+pinMode(DHTPIN, PINMODE_INPUT);           // 设为输入模式
+
+```
+#### 题目3：设置传感器模式为输出模式
+##### 代码
+
+```
+pinMode(DHTPIN, ______);
+```
+
+##### 选项
+
+```
+PINMODE_INPUT
+PINMODE_OUTPUT
+```
+
+
+#### 题目 4：发送开始信号
+
+先让引脚保持高电平
+
+##### 代码
+
+```
+digitalWrite(LEDPIN, ______);
+```
+
+##### 选项
+
+```
+HIGH
+LOW
+```
+
+
+### 判断温度控制LED
+
+```
+if(read_dht22(&temp, &humi)) {
+    // 控制 LED
+    if(______) {                    // 填空5：温度大于30度的条件
+        digitalWrite(LEDPIN, HIGH);  // 点亮LED
+        printf("温度:%.1f°C → LED 亮\n", temp);
+    } else {
+        digitalWrite(LEDPIN, LOW);  // 熄灭LED
+        printf("温度:%.1f°C → LED 灭\n", temp);
+    }
+}
+```
+
+#### 温度判断小游戏！如果温度太高，就亮灯
+
+```
+if(temp > ______)
+```
+
+#### 选项
+
+```
+10
+30
+1000
+```
+
+### 等待间隔
+#### 题目6：让程序等待 2 秒
+##### 代码
+
+```
+// DHT22 采样周期至少2秒
+______(______);           // 填空6：等待2秒的函数
+
+```
+
+##### 选项
+```
+delay 2000
+if 200
+```
+
+### 预测题
+
+如果这样会发生什么？
+
+```
+传感器检测到现在的温度，例如现在是25度
+```
+
+#### 选项
+
+```
+温度:25.0°C → LED 亮
+
+温度:25.0°C → LED 灭
+```
+
+### 自由实验
+
+把：
+
+```
+temp > 30
+```
+
+改成：
+
+```
+temp > 目前的温度
+```
+
+看看灯什么时候亮。
+
+### 7.5.2 完整代码
+
+```
+/*
+ * dht22_led_demo.c
+ * 功能：读取 DHT22 温湿度，温度 > 30°C 时点亮 LED
+ * 用法：gcc -o dht22_led_demo dht22_led_demo.c -lwiringx
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+#include <unistd.h>
+#include <time.h>
+#include <signal.h>
+#include <wiringx.h>
+
+#define MAXTIMINGS 85
+#define DHTTYPE 22
+
+// 引脚定义
+#define DHTPIN 21   // B15 (J3 针脚21) - DHT22 数据
+#define LEDPIN 16   // B14 (J3 针脚19) - LED 控制
+
+static int dht22_dat[5] = {0, 0, 0, 0, 0};
+static volatile int keep_running = 1;
+
+// 信号处理函数（Ctrl+C 退出）
+void sig_handler(int signo) {
+    if (signo == SIGINT) {
+        printf("\n正在退出...\n");
+        keep_running = 0;
+    }
+}
+
+// 安全转换函数
+static uint8_t sizecvt(const int read) {
+    if (read > 255 || read < 0) {
+        printf("Invalid data from wiringPi library\n");
+        exit(EXIT_FAILURE);
+    }
+    return (uint8_t)read;
+}
+
+// 读取 DHT22 传感器
+static int read_dht22_dat() {
+    uint8_t laststate = HIGH;
+    uint8_t counter = 0;
+    uint8_t j = 0, i;
+
+    dht22_dat[0] = dht22_dat[1] = dht22_dat[2] = dht22_dat[3] = dht22_dat[4] = 0;
+
+    // 发送起始信号
+    pinMode(DHTPIN, PINMODE_OUTPUT);
+    digitalWrite(DHTPIN, HIGH);
+    delayMicroseconds(500000);
+    digitalWrite(DHTPIN, LOW);
+    delayMicroseconds(20000);
+    pinMode(DHTPIN, PINMODE_INPUT);
+
+    // 读取数据
+    for (i = 0; i < MAXTIMINGS; i++) {
+        counter = 0;
+        while (sizecvt(digitalRead(DHTPIN)) == laststate) {
+            counter++;
+            delayMicroseconds(2);
+            if (counter == 255) break;
+        }
+        laststate = sizecvt(digitalRead(DHTPIN));
+        if (counter == 255) break;
+
+        if ((i >= 4) && (i % 2 == 0)) {
+            dht22_dat[j / 8] <<= 1;
+            if (counter > 16) dht22_dat[j / 8] |= 1;
+            j++;
+        }
+    }
+
+    // 校验数据
+    if ((j >= 40) && (dht22_dat[4] == ((dht22_dat[0] + dht22_dat[1] + dht22_dat[2] + dht22_dat[3]) & 0xFF))) {
+        return 1;
+    }
+    return 0;
+}
+
+int main() {
+    // 注册信号处理（Ctrl+C 退出）
+    signal(SIGINT, sig_handler);
+
+    // 初始化 WiringX
+    if (wiringXSetup("milkv_duo", NULL) == -1) {
+        wiringXGC();
+        return -1;
+    }
+
+    // 验证 GPIO 是否有效
+    if (wiringXValidGPIO(DHTPIN) != 0) {
+        printf("Invalid GPIO %d\n", DHTPIN);
+    }
+    if (wiringXValidGPIO(LEDPIN) != 0) {
+        printf("Invalid GPIO %d\n", LEDPIN);
+    }
+
+    // 初始化 LED 引脚为输出，默认熄灭
+    pinMode(LEDPIN, PINMODE_OUTPUT);
+    digitalWrite(LEDPIN, LOW);
+
+    printf("\n========================================\n");
+    printf("  DHT22 + LED 温度控制演示程序\n");
+    printf("  温度 > 30°C 时 LED 亮，否则灭\n");
+    printf("  按 Ctrl+C 退出程序\n");
+    printf("========================================\n\n");
+
+    while (keep_running) {
+        if (read_dht22_dat()) {
+            // 计算温湿度
+            float humidity = (dht22_dat[0] * 256 + dht22_dat[1]) / 10.0;
+            float temperature = ((dht22_dat[2] & 0x7F) * 256 + dht22_dat[3]) / 10.0;
+            if ((dht22_dat[2] & 0x80) != 0) temperature *= -1;
+
+            // 获取当前时间
+            time_t now = time(NULL);
+            struct tm *time_info = localtime(&now);
+
+            // 判断温度并控制 LED
+            if (temperature > 30.0) {
+                digitalWrite(LEDPIN, HIGH);
+                printf("[%02d:%02d:%02d] 温度: %.1f°C | 湿度: %.1f%% → 🔴 LED 亮 (温度 > 30)\n",
+                       time_info->tm_hour, time_info->tm_min, time_info->tm_sec, temperature, humidity);
+            } else {
+                digitalWrite(LEDPIN, LOW);
+                printf("[%02d:%02d:%02d] 温度: %.1f°C | 湿度: %.1f%% → ⚫ LED 灭\n",
+                       time_info->tm_hour, time_info->tm_min, time_info->tm_sec, temperature, humidity);
+            }
+        } else {
+            printf("读取失败，请检查 DHT22 接线\n");
+        }
+        
+        // 等待 1.5 秒，使用多次短延迟以便及时响应退出信号
+        for (int i = 0; i < 15 && keep_running; i++) {
+            delayMicroseconds(100000); // 100ms * 15 = 1.5秒
+        }
+    }
+
+    // 退出前关闭 LED
+    digitalWrite(LEDPIN, LOW);
+    printf("LED 已关闭，程序退出。\n");
+    
+    return 0;
+}
+```
+
+# 8.参考资料
+
+本教程仅作为交流学习使用
+
+- https://www.bilibili.com/video/BV1KM4m1U7f1/
+- https://www.bilibili.com/video/BV1BV41197rY/
+- https://www.bilibili.com/video/BV1th411z7sn
