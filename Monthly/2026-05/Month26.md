@@ -96,11 +96,10 @@ Duo 256M 示例文档：
 - 前端：React 18, TypeScript, Vite, Vitest
 - 部署：Cloudflare Tunnel；生产可由 FastAPI 单端口托管 `frontend/dist`
 
-嵌入式
 ## 其他运行相关
 
 - [B站视频去水印及二次剪辑操作手册](https://github.com/zhiyao310/ruyisdk-dev-archive/blob/main/research/bili_test.md)
 
 ## RISC-V Linux系统与开发板实践课程
 - [初步教学大纲](https://github.com/EnzoDing-rgb/riscv-embedded-course/blob/master/docs/outline.md)
-- [调研文档]()
+- [调研文档](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/%E8%AF%BE%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%88%86%E6%9E%90%E8%A1%A8.xlsx)
