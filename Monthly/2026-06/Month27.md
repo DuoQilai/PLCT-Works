@@ -44,7 +44,10 @@
 	- [8项开发板调研报告](https://github.com/zhiyao310/ruyisdk-dev-archive/blob/main/research/8%E9%A1%B9Linux%E5%BC%80%E5%8F%91%E6%9D%BF%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.md)
 ## 英麒RISC-V Lab
 
-	todo
+Duo 256M 示例文档：
+- [yolov8-person-pets](https://github.com/ruyisdk/board-docs/blob/main/Duo_256m/%20yolov8-person-pets/README_zh.md)
+- [face-detection](https://github.com/ruyisdk/board-docs/blob/main/Duo_256m/face-detection/README_zh.md)
+- [pedestrian-detection](https://github.com/ruyisdk/board-docs/blob/main/Duo_256m/pedestrian-detection/README_zh.md)
 
 ## RISC-V Linux系统与开发板实践课程
 
