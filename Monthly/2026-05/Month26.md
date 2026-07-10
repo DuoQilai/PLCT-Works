@@ -98,7 +98,7 @@ Duo 256M 示例文档：
 
 ## RISC-V Linux系统与开发板实践课程
 - [初步教学大纲](https://github.com/EnzoDing-rgb/riscv-embedded-course/blob/master/docs/outline.md)
-- [调研文档](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/%E8%AF%BE%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%88%86%E6%9E%90%E8%A1%A8.xlsx)
+- [调研文档](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/others/%E8%AF%BE%E7%A8%8B%E4%BD%93%E7%B3%BB%E5%88%86%E6%9E%90%E8%A1%A8.xlsx)
 
 ## 其他运营相关
 
