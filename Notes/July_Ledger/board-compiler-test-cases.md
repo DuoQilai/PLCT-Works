@@ -6,7 +6,7 @@
 | 2   | HiFive Premier P550      | EIC7700X      | SiFive P550      | 已实测        |
 | 3   | ESWIN EBC7702            | EIC7702X      | SiFive P550      | 已实测        |
 | 4   | SpacemiT K3 Pico-ITX     | SpacemiT K3   | X100             | 完成用例       |
-| 5   | SG2044 EVB               | SOPHGO SG2044 | T-Head C920v2    | 完成用例       |
+| 5   | SG2044 EVB               | SOPHGO SG2044 | T-Head C920v2    | 已实测        |
 | 6   | A210 SODIMM V2           | A210          | 4xC920 + 4xC908  | 完成用例       |
 | 7   | VisionFive 2 Lite        | JH7110        | SiFive U74       | 已实测        |
 | 8   | Canaan K510 CRB-V1.2 KIT | K510          | Dual 64bit cores | 已实测        |
