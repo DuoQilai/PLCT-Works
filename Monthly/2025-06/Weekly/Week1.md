@@ -4,4 +4,4 @@
 
 ## 英麒RISC-V Lab
 
-- [英麒视频素材库策划方案](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/Video_library_plan.md)
+- [英麒视频素材库策划方案](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/Assets/videos/Video_library_plan.md)

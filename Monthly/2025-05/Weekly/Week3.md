@@ -11,4 +11,4 @@
 
 ## 英麒RISC-V Lab
 
-- 更新 [后续活动方案](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/Project_Introduction.md)补充展厅轮播视频库方案
+- 更新 [后续活动方案](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/Project_Introduction.md)补充展厅轮播视频库方案

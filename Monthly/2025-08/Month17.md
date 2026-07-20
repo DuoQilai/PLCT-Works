@@ -18,7 +18,7 @@
 -  [实习生成长手册](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISCVLab/yq_Get_started.md)
 ## 5.第17次RISC-V研讨会演讲
 
--  [RISC-V教育和南京合作伙伴RISC-V Lab协同建设ppt](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/RISC-V%E6%95%99%E8%82%B2%E5%92%8C%E5%8D%97%E4%BA%AC%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4RISC-V%20Lab%E5%8D%8F%E5%90%8C%E5%BB%BA%E8%AE%BE.pptx)
+-  [RISC-V教育和南京合作伙伴RISC-V Lab协同建设ppt](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/Assets/slides/RISC-V%E6%95%99%E8%82%B2%E5%92%8C%E5%8D%97%E4%BA%AC%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4RISC-V%20Lab%E5%8D%8F%E5%90%8C%E5%BB%BA%E8%AE%BE.pptx)
 
 ## 6.深圳电子展
 

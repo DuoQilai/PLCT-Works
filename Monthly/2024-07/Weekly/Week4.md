@@ -11,4 +11,4 @@ https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/baby_book.md
 ## 项目介绍：
 https://github.com/DuoQilai/PLCT-Works/blob/main/RISC-V_short_video/Project_Introduction.md
 ## 从零使用Duo开发板手册
-[PLCT-Works/Notes/DuoGet_started.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/DuoGet_started.md)
+[PLCT-Works/Notes/others/DuoGet_started.md at main · DuoQilai/PLCT-Works (github.com)](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/others/DuoGet_started.md)

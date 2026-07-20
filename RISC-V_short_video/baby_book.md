@@ -33,7 +33,7 @@
 ## 3 开发版指南
 
 ### 3.1 Milk-V Duo
-- [从零使用Duo开发板手册](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/DuoGet_started.md)
+- [从零使用Duo开发板手册](https://github.com/DuoQilai/PLCT-Works/blob/main/Notes/others/DuoGet_started.md)
 ### 3.2 Licheepi 4A
 - [Licheepi 4A官网](https://wiki.sipeed.com/hardware/zh/lichee/th1520/lpi4a/4_burn_image.html)
 - [Licheepi 4A 烧录教程](https://docs.revyos.dev/docs/Installation/licheepi4a/)
